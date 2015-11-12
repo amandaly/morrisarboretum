@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Plan Your Visit</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-directions.jpg" alt="Directions to Morris Arboretum"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+    	<h2 class="first">Directions</h2>
+        <div class="flex-video"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3052.2764008418735!2d-75.224805!3d40.091550000000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x49e24bd00df62d42!2sMorris+Arboretum+of+the+University+of+Pennsylvania!5e0!3m2!1sen!2sus!4v1409675612764" width="100%" height="350" frameborder="0" style="border:0"></iframe><br /></div>
+        
+         <h2>Driving</h2>
+           <p><strong>GPS Devices Use:</strong> 100 E. Northwestern Ave., Philadelphia, PA 19118<br>
+           <a href="#dd_ccp" rel="" id="anchor1" class="anchorLink"><strong>From Center City Philadelphia &raquo;</strong></a><br>
+      	   <a href="#dd_nep" rel="" id="anchor1" class="anchorLink"><strong>From Northeast Philadelphia &raquo;</strong></a><br>
+           <a href="#dd_de" rel="" id="anchor1" class="anchorLink"><strong>From Wilmington, Delaware and points South &raquo;</strong></a><br>
+           <a href="#dd_ny" rel="" id="anchor1" class="anchorLink"><strong>From New York and Points North and East &raquo;</strong></a><br>
+           <a href="#dd_penn" rel="" id="anchor1" class="anchorLink"><strong>From UPenn &raquo;</strong></a></p>
+        <br>   
+
+   	    <h2>Public Transportation</h2>
+      	   <p><a href="#pt_ccp" rel="" id="anchor1" class="anchorLink"><strong>From Center City Philadelphia &raquo;</strong></a><br>
+           <a href="#pt_penn" rel="" id="anchor1" class="anchorLink"><strong>From UPenn &raquo;</strong></a><br>
+           </p>
+        <br>
+        <h2>Biking</h2>
+      	   <p><a href="#biking" rel="" id="anchor1" class="anchorLink"><strong>From Center City Philadelphia &raquo;</strong></a><br>
+           </p>
+        <hr><h2>Driving Directions</h2> 
+        <a name="dd_ccp" id="dd_ccp"></a><h3>From Center City Philadelphia:</h3>
+        <p><em>Cars Only, Avoiding Expressways.</em> Take the Ben Franklin Parkway to the Art Museum, bear right onto Kelly Drive, follow Kelly drive to the end onto Lincoln Drive (about 4 miles), follow Lincoln Drive to the end (3.6 miles), turn right onto Allens Lane, Allens Lane ends at Germantown Avenue (.4 miles), turn left.  Follow Germantown Avenue through Chestnut Hill, after descending a long hill, turn right on Northwestern Avenue (2.6 miles at Chestnut Hill College and Lincoln Woods), the Arboretum entrance is 750 yards on the right at 100 East Northwestern Avenue.</p>
+         <br> 
+        <a name="dd_nep" id="dd_nep"></a><h3>From Northeast Philadelphia:</h3>
+        <p>Take Roosevelt Boulevard to Levick Street. Turn on Levick and go two miles to Tookany Parkway, and make left; then go to first light and make a right on Cheltenham Avenue. After about 4 miles, Cheltenham ends at Papermill Road; go left on Papermill for two miles. At the top of the hill is Bethlehem Pike; cross Bethlehem Pike and bear right; you'll be on Stenton Avenue. Turn left on Northwestern Avenue, and turn left into Arboretum gate. </p>
+        
+         <br> 
+        <a name="dd_de" id="dd_de"></a><h3>From Wilmington, Delaware and points south:</h3>
+        <p>Take I-95 North to the Blue Route (476 N); get off at exit 19 (old exit 8) (Plymouth Meeting). Make a right onto Germantown Pike. Continue on Germantown Pike (it becomes Germantown Avenue) for just over 3 miles; turn left on Northwestern Avenue. Arboretum entrance is about 1/4 mile on the right.</p>
+         <br> 
+        <a name="dd_ny" id="dd_ny"></a><h3>From New York and Points North and East of Philadelphia:</h3>
+        <p>From New York take the New Jersey Turnpike south (or from other points Route I-95 South) to the Pennsylvania Turnpike West to the Norristown exit (Old Exit 25 -- New Exit 333), Take Germantown Pike East (it becomes Germantown Avenue) for just over 3 miles; turn left on Northwestern Avenue. Arboretum entrance is about 1/4 mile on the right.</p>
+         <br> 
+        <a name="dd_penn" id="dd_penn"></a><h3>From UPenn:</h3>
+        <p>Head east on Market St toward N 34th St. Turn left onto John F Kennedy Blvd. Take the Interstate 76 W ramp to Valley Forge. Keep left at the fork, follow signs for I-76 W/Valley/Forge and merge onto I-76 W. Take exit 340A toward Lincoln Dr/Kelly Dr/Germantown/Wissahickon Park. Merge onto City Ave. Slight left to merge onto Lincoln Dr. Turn left onto Emlen St. Continue onto Cresheim Valley Dr. Turn left onto Germantown Ave. Turn right onto E Northwestern Ave. Arboretum entrance will be on the right.</p>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        
+        <hr><h2>Public Transportation</h2>
+        <a name="pt_ccp" id="pt_ccp"></a><h3>From Center City Philadelphia:</h3>
+        <p>Accessible via Chestnut Hill East (#R7) or Chestnut Hill West (#R8) trains. Get off at Chestnut Hill stop and wait for "L" bus toward Plymouth Meeting or Plymouth Meeting Mall. Bus MUST say "Plymouth Meeting" or it won't pass close enough to the Arboretum. Ask to get off at the Germantown Avenue & Northwestern Avenue stop. Walk down Northwestern Avenue for .5 miles past Chestnut Hill College and the apartment complex until you come to the black wrought-iron gate of the Arboretum.</p>
+        <p>In addition, Rt. 97 Bus goes past Chestnut Hill West rail station along Germantown Avenue and continues on down to the intersection of Germantown & Northwestern Avenues.</p>
+         <br> 
+        <a name="pt_penn" id="pt_penn"></a><h3>From UPenn:</h3>
+        <p>Walk to 30th Street Station. Take Chestnut Hill West Line Train towards Chestnut Hill West (31 mins, 10 stops). Walk to Germantown Avenue & Bethlehem Pike (1 minute). Wait for "L" bus toward Plymouth Meeting or Plymouth Meeting Mall. Bus MUST say "Plymouth Meeting" or it won't pass close enough to the Arboretum. Ask to get off at the Germantown Avenue & Northwestern Avenue stop. Walk down Northwestern Avenue for .5 miles past Chestnut Hill College and the apartment complex until you come to the black wrought-iron gate of the Arboretum.</p>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        
+        <hr><h2>Biking</h2>
+        <a name="biking" id="biking"></a><h3>From Center City Philadelphia:</h3>
+        <p>Get on the Schuylkill River Trail anywhere along the river. (If the train is blocking your way the Walnut Street Bridge has a ramp down to the trail.) Follow the trail along Kelly Drive untill you reach Ridge Avenue. Cross the street and go left along Ridge Avenue. The street crosses over a small bridge that goes over the Wissahickon Creek (a waterfall will be on your right). Take your first right onto the bike trail directly after the bridge. This is the beginning on the Wissahickon Trail/Forbidden Drive. Follow this trail to Northwestern Avenue (about 7.5 miles) Turn right up Northwestern Avenue (you will see Northwestern Horse Stables on your right). Cross over Germantown Avenue and continue on Northwestern Avenue for another .5 miles. The entrance will be on your right. Bike racks are located next to the parking lot. Bikes are not permitted on any trails in the Arboretum. The entire ride is about 12 miles and will take approximately 50 minutes.</p>
+        <p><strong>Please note: </strong>Mountain Bikers need a permit to take the offroad trails in the park. This does not include Forbidden Drive. <a href="http://www.phila.gov/ParksandRecreation/placestogo/trails/Pages/TrailPermits.aspx">Please click here for permit information.</a></p>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        <br>  
+    </div>
+    <!--#include virtual="elements/sidebar-visit.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+    <!--#include virtual="elements/subnav-visit.html" -->
+    </div>
+    <div id="widenerModal" class="reveal-modal large">
+        <!--#include virtual="elements/widener-alert.html" -->
+    </div>  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

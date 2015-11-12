@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-feathered-friends.jpg" alt="Our Feathered Friends"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="nine columns push-three">
+      
+      <div class="row">
+      	<div class="ten columns">
+        <h2 class="first">Our Feathered Friends at Morris Arboretum <div class="addthis_sharing_toolbox" style="float:right;"></div></h2>
+        <blockquote><em>Three seasons of celebrating the birds!</em></blockquote>
+                
+        <p><em>Our Feathered Friends</em> is a three season-long celebration of the many birds who make their home at the Arboretum or migrate through the area. Check the schedule below for special bird-themed events, classes, trips and tours happening through October 2014. </p><br><br>
+        	
+            <div class="row">
+                <div class="four columns"><br><img src="images/ad-early-bird.jpg" alt="Early Bird Saturdays"></div>
+                <a id="early"></a><div class="eight columns"><h4><strong>Early Bird Saturdays – Garden opens at 8am</strong> </h4>
+                <p class="first"><strong>First Saturday of each month through October</strong><br>
+                (October 4)<br>
+                <em>Free with admission.</em></p>
+                <p>The early bird catches the worm and now you can watch. See the Arboretum in a new light when you visit on one of these special early opening days. Check back for special tours.</p>
+              </div>
+              </div>
+              <hr>
+              <a id="kids"></a><h2>Kids &amp; Family Fun</h2>
+              <div class="row">
+                <div class="four columns"><br><img src="images/ad-merrie.jpg" alt="Merrie Little Owl"><br>
+</div>
+                <div class="eight columns"><a id="merrie"></a>
+                  <h4 class="first"><strong>Morris, the Merrie Little Owl Scavenger Hunt</strong> </h4>
+                <p class="first"><strong>On display April through October, Throughout the garden<br>
+    </strong><em>Free with admission.</em></p>
+                <p>Owls quietly roost during the day in well camouflaged locations. Pick up a clue guide at the Visitor Center and see if you can find Morris, our seasonal mascot, in some of his favorite resting spots. These delightful sculptures are waiting to be discovered throughout the garden.</p>
+                <p><a href="pdf/Merrie-clues-print.pdf" class="button small radius" target="_blank"><strong>Get the Guide</strong></a></p>
+              </div>
+              </div>
+              
+              <br>
+              <div class="row">
+                <div class="four columns"><br><img src="images/ad-gd-birds.jpg" alt="Garden Discovery Series"></div>
+                <div class="eight columns"><a id="discovery"></a><h4 class="first"><strong>Garden Discovery Series</strong> </h4>
+                <p class="first"><strong>First Saturday of the month, April through October | 11:00am - 3:00pm
+    </strong> <em><br>
+                  Free with admission.</em></p>
+                <p>This popular series for children which focuses on learning through crafting, will be all about birds in 2014. Each month will give children a new opportunity to expand their knowledge while having fun.</p>
+              </div>
+              </div>
+              
+              <br>
+              <div class="row">
+                <div class="four columns"><br><img src="images/ad-tree-passport.jpg" alt="Tree Adventure Passport"></div>
+                <div class="eight columns"><a id="passport"></a>
+                  <h4 class="first"><strong>New Tree Adventure Passport – Conservation Quest</strong> </h4>
+                <p class="first"><strong>On-going</strong><em><br>
+                  Free with admission.</em></p>
+                <p>The third edition of the Passport to Tree Adventure illustrates the vital connections between plants, animals (including humans!), and our habitats. Encouraging visitors to become backyard biologists and planet protectors, the passport features games that hone observation skills, fun facts, and activities you can do at home, too. </p>
+                <p><a href="pdf/MA-Tree-Passport-2014.pdf" class="button small radius"><strong>Get the Passport</strong></a></p>
+                </div>
+              </div> 
+              <hr>
+            <a id="exhibits"></a><h2>Exhibits &amp; Presentations</h2>
+              <div class="row">
+                <div class="four columns"><br><img src="images/ad-VIREO.jpg" alt="Birds in Their Habitats"></div>
+                <div class="eight columns"><a id="vireo"></a>
+                  <h4 class="first"><strong>Birds in Their Habitats: Images from the Academy of Natural Sciences of Drexel University</strong> </h4>
+                <p class="first"><strong>On display April through October, Upper Gallery</strong><br>
+                <em>Free with admission.</em></p>
+                <p>With more than 130,000 images, <a href="http://vireo.ansp.org/" target="_blank">VIREO (Visual Resources in Ornithology)</a>, is the world’s largest collection of bird images. The photos in this exhibit were selected to represent both resident and migratory birds that can be spotted at the Arboretum. VIREO Director, Doug Wechsler will be on hand at the opening reception to provide more information on the project.</p>
+              </div>
+              </div>
+              <br><br>
+              <div class="row">
+                <div class="four columns"><br><img src="images/ad-Fitzpatrick.jpg" alt="John W. Fitzpatrick"><p align="center">John W. Fitzpatrick
+                    <br>
+                  <em>Louis Agassiz Fuertes Director, Cornell Lab of Ornithology</em><br>
+                <a href="#" data-reveal-id="fitzpatrickModal">Biography <i class="efoundicon-right-arrow"></i></a></p></div>
+                <div class="eight columns">
+                  <h3><em>Connections Beyond Our Garden</em> Lecture</h3>
+                  <h4 class="first"><strong><em>Birds Can Save the World:</em> A Special Talk with John W. Fitzpatrick of the Cornell Lab of Ornithology</strong> </h4>
+                <p class="first"><strong>Wednesday, October 22 | 2:00pm</strong><br>
+                <em><span class="red"><strong>This lecture is SOLD OUT.</strong></span> If you’d like to be put on a wait list, please call 215-247-5777 x125.  Or sign up early for the next Connections lecture in November!</em></p>
+                <p>This illustrated lecture emphasizes the vital roles that birds play in fostering conservation of worldwide biological diversity. Importantly, birds represent our most accessible and sensitive indicators of environmental health and ecological change.  Today, thanks to technology and individual citizens, we now have a genuine revolution in how we visualize and comprehend species distributions. As a result, humans have crossed an historic threshold and now, literally, serve as worldwide biosphere sensors.  Do we also have the will to self-correct? Birds present us with numerous motivations to do so, and an excellent barometer for measuring our successes and failures.  Birds, both the rarest and the commonest, teach us much about human nature, environmental protection, and our opportunities for saving not just species, but also the great natural systems on planet Earth.</p>
+                <p><em>A reception with refreshments will follow the presentation. </em></p>
+                <p><strong><em><a href="http://www.nytimes.com/2014/08/31/opinion/sunday/saving-our-birds.html?ref=opinion&_r=1" target="_blank">&raquo; Check out John Fitzpatrick's recent article in the New York Times</a></em></strong></p>
+                </div>
+              </div>
+              <hr>
+            <h2>Birding Classes &amp; Trips</h2>
+              <div class="row">
+                <div class="eight columns"><h4><strong>Birding at the Arboretum</strong></h4>
+                <p>Saturday, September 20 | 8:00 — 11:00am</p></div>
+                <div class="four columns"><p><a href="https://online.morrisarboretum.org/classes/birding" class="button small radius" target="_blank"><strong>Learn more &amp; Register</strong></a></p></div>
+                <div class="eight columns"><h4><strong>Birding in the Wissahickon</strong></h4>
+                <p>Tuesday, September 23 | 8:00 — 11:00am</p></div>                
+                <div class="four columns"><p><a href="https://online.morrisarboretum.org/classes/birding" class="button small radius" target="_blank"><strong>Learn more &amp; Register</strong></a></p></div>
+                 
+                <div class="eight columns"><h4><strong>Early Evening Birding at the Arboretum</strong></h4>
+                <p>Monday, October 6 | 4:00 — 6:30pm</p></div>
+                <div class="four columns"><p><a href="https://online.morrisarboretum.org/classes/birding" class="button small radius" target="_blank"><strong>Learn more &amp; Register</strong></a></p></div>
+                
+                <div class="eight columns"><h4><strong>Birding at Crow’s Nest Preserve and French Creek State Park</strong></h4>
+                <p>Thursday, October 16 | 7:30am — 4:00pm</p></div>
+                <div class="four columns"><p><a href="https://online.morrisarboretum.org/classes/birding" class="button small radius" target="_blank"><strong>Learn more &amp; Register</strong></a></p></div>
+                 
+                <div class="eight columns"><h4><strong>Fall Birding at Chincoteague and other Great Refuges</strong></h4>
+                <p>October 19, 29, 21</p></div>
+                <div class="four columns"><p><a href="https://online.morrisarboretum.org/classes/birding" class="button small radius" target="_blank"><strong>Learn more &amp; Register</strong></a></p></div>
+                 
+                <div class="eight columns"><h4><strong>Birding for Snow Geese at Brigantine</strong></h4>
+                <p>Wednesday, November 12 | 7:45am — 4:30pm</p></div>
+                <div class="four columns"><p><a href="https://online.morrisarboretum.org/classes/birding" class="button small radius" target="_blank"><strong>Learn more &amp; Register</strong></a></p></div>
+                 
+                <div class="eight columns"><h4><strong>Bald Eagles at the Conowingo Dam</strong></h4>
+                <p>Tuesday, December 9 | 7:45am — 4:30pm</p> </div>         
+                <div class="four columns"><p><a href="https://online.morrisarboretum.org/classes/birding" class="button small radius" target="_blank"><strong>Learn more &amp; Register</strong></a></p></div>
+                </div>
+              <hr>
+              <h3>Partner Events</h3>
+              <div class="row">
+                <div class="four columns"><br><a href="http://johnjames.audubon.org/" target="_blank"><img src="images/logo-audubon.jpg" alt="Audubon Center"> </a>               </div>
+                <div class="eight columns">
+                  <h4 class="first"><strong><em>Plight of the Passenger Pigeon</em> Gallery Exhibition: Children’s Book Readings, Meet the Artists, Illustrators, and More at the John James Audubon Center</strong></h4>
+                  <p class="first"><strong>SATURDAY, SEPTEMBER 13 | 10:00am - 12:00pm</strong><br>
+					<em>Please note these events take place at the <a href="http://johnjames.audubon.org/" target="_blank">John James Audubon Center at Mill Grove</a> located in Audubon, PA.</em></p>
+                  <p>The Changing Gallery features local artists and their works in rotating increments. The Plight of the Passenger Pigeon exhibition will be on display in the Changing Gallery from September 13, 2014 until November 15, 2014. The exhibition marks the centennial of the extinction of the passenger pigeon on September 1, 1914.  Michael Adams, Kate Garchinsky, Ponder Goembel, Mallary Johnson, Brigida Michopulos, and Lisa L. Roese ​are the artists who will be exhibiting art. Kate Garchinsky will be doing a book reading at 10:30 a.m. and Ponder Goembel will be doing a book reading at 11:00 a.m. Artwork featured in the gallery will be for sale. Postcards, prints, and children’s books featuring art in the gallery will be for sale in the gift shop.</p> 
+                  <p>Admission is free for the opening reception. Light refreshments will be provided. Admission to the Changing Gallery is normally included with admission to the museum and is open during regular museum hours. Admission is $5 for adults, $4 for seniors, and $3 for children.</p> 
+                  <p> <strong>For more information or to register, please call the <a href="http://johnjames.audubon.org/" target="_blank">John James Audubon Center</a> at 610.666.5593 ext. 109 or email <a href="mailto:jjac_education@audubon.org">jjac_education@audubon.org</a>.</strong></p>
+                  <p><em>All proceeds directly benefit the John James Audubon Center at Mill Grove.</em></p>
+                  
+                </div>
+                </div>  
+              
+
+        </div>
+      </div>
+        
+      <br> 
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    <div class="two columns">
+    </div>
+    </div>
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-events.html" -->
+  </div>
+
+          <div id="fitzpatrickModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">John W. Fitzpatrick</h3>
+            	    <p>John W. Fitzpatrick became the Louis Agassiz Fuertes Director of the Cornell Lab of Ornithology in August 1995. He received his B.A. from Harvard in 1974 and his Ph.D. from Princeton in 1978. An expert on the Florida Scrub-Jay, he is co-author of at least six bird species new to science. His book, <em>Florida Scrub Jay: Demography of a Cooperative-breeding Bird</em> earned him a William Brewster Award, the highest research award given by the American Ornithologists' Union. He also studies systematics and biogeography of South American birds. He co-authored <em>Neotropical Birds: Ecology and Conservation</em>, and was a major contributor to Volume 9 of the <em>Handbook of Birds of the World</em>.</p>
+<p>Today, Fitzpatrick works on the ecology, conservation biology, landscape genetics, and regional land management of endangered species, with emphasis on the cooperative-breeding Florida Scrub-Jay. He remains closely involved in an intensive, long-term demographic study (42 years and counting) of the color-marked jay population at the Archbold Biological Station. At the Cornell Lab of Ornithology, Fitzpatrick is involved in developing internet-based projects for citizen engagement in monitoring bird populations around the world, and using these data to draw attention to regional and global conservation priorities.</p>
+
+                 </div>
+                <div class="four columns"><img src="images/ad-Fitzpatrick.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

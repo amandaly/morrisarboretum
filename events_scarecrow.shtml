@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html>
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Events</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+    <script> 
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '{your-app-id}',
+          xfbml      : true,
+          version    : 'v2.0'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+  
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+
+
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-scarecrow.jpg" alt="Scarecrow Walk and Design Contest"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="eight columns push-three">
+	<div class="addthis_sharing_toolbox" style="float:right;"></div>
+      <h2 class="first"><strong>8<sup>th</sup> Annual Scarecrow Walk & Design Contest!</strong></h2>
+      <h3><em>This year's theme: Famous Art &amp; Artists </em></h3>
+      
+      <span class="hide">
+      <p>Come see more than 30 scarecrows on display along the Oak Allee and vote for your favorite!</p>
+       <p><strong><em>Unleash your creativity!</em></strong></p>
+        <p>You are invited to participate in the eighth annual Scarecrow Design Contest! This year participants may create a scarecrow for the theme: <em>Famous Art &amp; Artists </em>.  All entries will be on display on the Scarecrow Walk at Morris Arboretum from Tuesday, October 6 through Sunday, October 25th. 
+        Frame, straw, burlap and twine are provided, the rest is up to you! <em>Space is limited to 30 Scarecrows. This popular contest fills quickly, 
+        get your entry in early!</em></p>
+        <h3><strong>Registration Deadline &amp; Fees</strong></h3>
+        <p class="red">Thank you for our interest, the contest is is currently FULL. Join in on the fun by visitng and voting for your favorite entry starting October 3!</p>
+        <p><strong>Registration Deadline:</strong> <span style="text-decoration:line-through;">Thursday, September 24th</span> <em>Registration is now full.</em><br>
+        <strong>Scarecrow Delivery Date <em>(delivered to Morris Arboretum)</em></strong>: <br>
+        Tuesday, September 29th and Wednesday, September 30th<br>
+        <strong>Entry Fee:</strong> $30<br>
+        <strong>Early-bird fee (before September 11th):</strong> $25</p>
+        <h3><strong>Prizes </strong></h3>
+        <p><strong>1st Prize: </strong>$125 Cash<br>
+        <strong>2nd Prize:</strong> $75 gift certificate for The Shop at Morris Arboretum<br>
+        <strong>3rd Prize:</strong> $50 gift certificate for The Shop at Morris Arboretum<br>
+        <strong>4th Prize:</strong> $35 gift certificate toward one Continuing Education class<br>
+        <strong>5th Prize:</strong> $25 gift certificate toward one Continuing Education class</p>
+        <h3 class="hide"><a href="https://online.morrisarboretum.org/ScarecrowRegistrationPage" class="button medium radius"><strong>Register Online Now!</strong></a></h3>
+        <br>
+        <p class="hide"><a href="pdf/scarecrow-contest-registration.pdf" target="_blank"><strong>or Download the entry form</strong></a></p>
+        <p style="font-size:11px;"><em><strong>Straw MUST be the primary material used to construct your scarecrow.</strong> All scarecrows will be displayed outdoors for 24 days, so design materials must be as weatherproof as possible. The Arboretum reserves the right to remove any scarecrow that has deteriorated to an unacceptable level during that period. Scarecrows must be designed as family friendly, or they will not be accepted for display. All scarecrows will be returned to their creators on October 25 and 26. After this date, any remaining scarecrows will be disposed of. The Arboretum will provide signage identifying participant name/organization and the name of each scarecrow. The Arboretum will determine the location of all scarecrows and install them. Please do not include any signage or flyers with your scarecrow. The Morris Arboretum reserves the right to use photographs, contact names, and scarecrow names for publicity purposes. </em></p>
+        <hr>
+      	<h2>See the Entries at the Scarecrow Walk!</h2> 
+		<h4>Tuesday, October 6 - Sunday, October 25, 2015<br><span class="red"><em>Please note due to inclement weather, Scarecrow Walk will not go up until Tuesday, October 6 in order to protect them from the elements.</em></span></h4>
+	    
+        <p>The scarecrows are here! More than 35 scarecrows will be on display for three weeks along Oak Allée. Come vote for your favorite in the “Famous Art &amp; Artists” theme to determine which ‘crows will be the top five prize winners! </p>
+        <h3><strong>Prizes </strong></h3>
+        <p><strong>1st Prize: </strong>$125 Cash<br>
+        <strong>2nd Prize:</strong> $75 gift certificate for The Shop at Morris Arboretum<br>
+        <strong>3rd Prize:</strong> $50 gift certificate for The Shop at Morris Arboretum<br>
+        <strong>4th Prize:</strong> $35 gift certificate toward one Continuing Education class<br>
+        <strong>5th Prize:</strong> $25 gift certificate toward one Continuing Education class</p>
+		
+        <p><strong><em>Check out our preview video and get excited for this year's creative entries!</em></strong></p><div class="flex-video"><iframe width="640" height="360" src="//www.youtube.com/embed/sKgTmYKho5c?rel=0" frameborder="0" allowfullscreen></iframe></div>
+      </span>
+              
+      <h2>And The Winners Are...</h2>
+      <h3><strong><em>The votes have been tallied and the results are in!</em></strong><br>
+      The winners of the Morris Arboretum 2015 Scarecrow Contest are:</h3>
+      <hr class="first">
+      <ul class="block-grid three-up">
+      	<li><img src="images/ad-crow-kiss.jpg"><p align="center"><strong>1st prize:<br><em>The Kiss</em></strong></p></li>
+        <li><img src="images/ad-crow-wild.jpg"><p align="center"><strong>2nd prize:<br><em>Where The Wild Things Are</em></strong></p></li>
+        <li><img src="images/ad-crow-seuss.jpg"><p align="center"><strong>3rd prize:<br><em>Dr. Seuss</em></strong></p></li>
+        <li><img src="images/ad-crow-bob.jpg"><p align="center"><strong>4th prize:<br><em>Bob Ross</em></strong></p></li>
+        <li><img src="images/ad-crow-rockwell.jpg"><p align="center"><strong>5th prize (tie):<br><em>Norman Rockwell’s Boy &amp; Girl Gazing at the Moon</em></strong></p></li>
+        <li><img src="images/ad-crow-mirror.jpg"><p align="center"><strong>5th prize (tie):<br> <em>Scarecrow Before a Mirror</em></strong></p></li>
+        <li></li>
+      </ul>
+      <hr>
+      <h3><strong>Prizes </strong></h3>
+        <p><strong>1st Prize: </strong>$125 Cash<br>
+        <strong>2nd Prize:</strong> $75 gift certificate for The Shop at Morris Arboretum<br>
+        <strong>3rd Prize:</strong> $50 gift certificate for The Shop at Morris Arboretum<br>
+        <strong>4th Prize:</strong> $35 gift certificate toward one Continuing Education class<br>
+        <strong>5th Prize:</strong> $25 gift certificate toward one Continuing Education class</p>
+      <br>
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!-- Nav Sidebar -->
+    <div class="one column"></div>
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-events.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+ 
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

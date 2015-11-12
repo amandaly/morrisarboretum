@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Education</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-field-trips.jpg" alt="Field Trips"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Field Trips &amp; Youth Tours</h2>
+      <blockquote>Let nature be your classroom!</blockquote>
+        <p><strong>Please note: At least 3 weeks advance notice is needed for guided tours. To schedule a field trip or youth tour, please contact Lisa Bailey at 215.247.5777 x 157 or <a href="mailto:baileyl@exchange.upenn.edu">baileyl@exchange.upenn.edu.</a></strong></p> 
+        <p>Select a tour from the list below, or we would be happy to tailor tour programs to fulfill your specific curriculum or scouting needs.</p>
+        <hr>
+        <h4><span class="red"><strong>New!</strong></span> <em><strong>Great Trees</strong></em> Teacher Self-Guided Tour (SGT)</h4>
+        <p>This tour is designed to offer suggestions and structure to your visit. You can go in any order, and please modify and add activities to fit the needs and interests of your class. If your students get excited about a plant, a piece of sculpture, or wildlife outside of the tour – go for it! The Morris Arboretum is a wonderful place with much to see and learn!</p>
+        <p><a href="pdf/edTours-GreatTrees-SGT.pdf" class="button small radius" target="_blank"><strong>Get the Guide</strong></a></p>
+        <hr>
+      <h4><strong>Choose from the following field trip tours (click for more information):</strong></h4>
+      <div class="row">
+      	<div class="five columns">
+        	<ul class="content_list">
+                <li><a href="#" data-reveal-id="genModal">General Tour (all ages)</a></li>
+                <li><a href="#" data-reveal-id="btModal">Big Trees (all ages)</a></li>
+                <li><a href="#" data-reveal-id="scoutsModal">Scouts (all ages)</a></li>
+                <li><a href="#" data-reveal-id="stsModal">4 Seasons Through the 5 Senses Tour  (PreK - 1)</a></li>
+                <li><a href="#" data-reveal-id="taModal">Tree Adventure (K-3rd)</a></li>
+				<li><a href="#" data-reveal-id="tbsModal">Tu B'Shevat (Pre K-4th)</a></li>            </ul>
+        </div>
+        <div class="seven columns">
+          <ul class="content_list">
+              <li><a href="#" data-reveal-id="awModal">Arbor Week (K-4th)</a></li>
+              <li><a href="#" data-reveal-id="idModal">Interdependence Tour (4th - 7th)</a></li>
+              <li><a href="#" data-reveal-id="weModal">Wetlands Exploration (4th-7th)</a></li>              
+              <li><a href="#" data-reveal-id="susModal"> Sustainable Practices (4th - 7th)</a></li>
+              <li><a href="#" data-reveal-id="scrtModal">Secrets of Seeds Tour (5th grade and up)</a></li>             
+              <li><a href="#" data-reveal-id="cmModal">Historic Mill Tour (5th grade and up)</a></li>              
+            </ul>
+        </div>
+      </div>
+       
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    
+	<!--Reveal Modal-->
+  
+  		  <div id="genModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="eight columns"><h3 class="tours">General Tour (All Ages)</h3>
+             	<p><strong>Duration: 60 minutes</strong></p>
+                <ul>
+                 <li>Explore our 92-acre living museum</li>
+    			 <li>See the tree highlights</li>
+    			 <li>Learn about the Arboretum’s history</li>
+				 <li><strong>Meets PA Academic Standards:</strong> 3.3 Biological Sciences, 4.6 Ecosystems and Their Interactions</li>
+             	</ul>
+                <p><strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="images/tours/tour-gen.jpg"></div>
+            </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+
+          <div id="btModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="eight columns"><h3 class="tours">Big Tree Tour (All Ages)</h3>
+             	<p><strong>Duration: 60 minutes</strong></p>
+                <ul>
+ 				<li>Morris Arboretum is home to some of the oldest, rarest and largest trees in Philadelphia</li>
+   				<li>Learn about trees that are native to Pennsylvania and beyond</li>
+    			<li>Discover the ancient Dawn Redwoods—originally found in North America more than 150 million years ago</li>
+    			<li>Learn about our state tree, the eastern hemlock</li>
+				<li><strong>Meets PA Academic Standards:</strong> 3.3 Biological Sciences, 4.6 Ecosystems and Their Interactions</li>
+             	</ul>
+                <p><strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+             	<div class="four columns"><img src="images/tours/tour-bigtrees.jpg"></div>
+            </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+      	  <div id="scoutsModal" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours">Scout Tour (All Ages)</h3>
+             	<p><strong>Duration: 60 minutes</strong></p>
+                <ul>
+    			<li>Morris Arboretum provides the perfect resource to help complete many nature-themed Boy and Girl Scout badge requirements, including Forestry, Nature, Flowers, Trees, and more.</li>
+    			<li>When scheduling your tour, please feel free to include your particular project needs. We’ll be happy to tailor our many tours and activities to help fulfill specific badge requirements, making your trip to Morris Arboretum both fun and productive.</li>
+                <li>Scout groups with tour reservations will receive the Morris Arboretum Fun Patch!</em></li>
+             	</ul>
+                <p><strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="images/tours/tour-scout.jpg"><br><br>
+				<img src="images/tours/tour-scout-patch.jpg"><p><em><strong>Scout Fun Patch</strong></em></p></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+      	  <div id="stsModal" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours">4 Seasons Through the 5 Senses Tour (PreK through 1st Grade)</h3>
+             	<p><strong>Duration: 60 minutes</strong></p>
+                <ul>
+                <li>Take a sensory journey through the Arboretum</li>
+                <li>Learn the natural characteristics of each season</li>
+                <li>Collect plant material to bring back to the classroom</li>
+				<li><strong>Meets PA Academic Standards:</strong> 3.3 Biological Sciences</li>
+                </ul>
+                
+             	<p><strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="images/tours/tour-seasons.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+      	  <div id="taModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Tree Adventure Tour I (K - 3rd Grade)</h3>
+             	<p><strong>Duration: 60 minutes</strong></p>
+                <ul>
+                <li>Learn responsibility from a tree</li>
+                <li>Leaves are responsible for producing food</li>
+                <li>Bark is responsible for protecting the trunk</li>
+                <li>Roots are responsible for absorbing water and storing food</li>
+                <li>People are responsible for taking care of trees in their neighborhoods</li>
+				<li><strong>Meets PA Academic Standards:</strong> 3.3 Biological Sciences, 4.6 Ecosystems and Their Interactions, 4.8 Humans and the Environment </li>
+             	</ul>
+                <p><strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p>
+                <p><strong>Teacher’s Guide: </strong><a href="pdf/TA-TreeAdventure.pdf" target="_blank">Download the Pre and Post Visit Guide and Activities <i class="efoundicon-down-arrow"></i> </a></p></div>
+                <div class="four columns"><img src="images/tours/tour-treeadv.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+
+          
+          <div id="tbsModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Tu B’Shevat Program (PreK - 4th Grade)</h3>
+            	 <p><strong>Duration: 75 minutes</strong></p>
+                 <p>Celebrate the Jewish New Year of Trees, Tu B'Shevat! This program takes place annually in January, please call for specific dates.</p>
+                 <p>This program takes place both indoors and out and includes an interactive exhibit on trees, a take-home seedling planting project, and a short walk outside to discover how important trees are to people. This program is offered to pre-school and school age groups through grade 4, at 10:00am for weekday programs and at 10:00am and 11:30am for Sunday programs.</p>
+             	<p><strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="images/tours/tour-tubs.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="awModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Arbor Week (K - 4th Grade)</h3>
+            	 <p><strong>Duration: </strong></p>
+                 <ul>
+			     <li>Celebrate Arbor Day during the last week of April</li>
+    			 <li>Transplant a native tree seedling to take home and watch it grow</li>
+				 <li>Play Arboretum Jeopardy<sup>&reg;</sup></li>
+			     <li>Find out why roots are so important to trees</li>
+				 </ul>
+                <p><em>Reservations are accepted after November 1.</em><br>
+             	<strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="images/tours/tour-arbor.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="idModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Interdependence Tour  (4th through 7th Grade)</h3>
+             	<p><strong>Duration: 60 minutes</strong></p>
+                <ul>
+                <li>Identify ways in which trees, animals and humans depend upon each other</li>
+                <li>Learn about the Urban Forest habitat</li>
+                <li>Understand how and why roots grow</li>
+                <li>Learn about oxygen and other gifts we get from trees</li>
+                <li>Learn about photosynthesis</li>
+                <li><strong>Meets PA Academic Standards:</strong> 2.3 Measurements and Estimation; 4.6 Ecosystems and their Interactions; 4.8 Humans and the environment</li>
+                </ul>
+                <p><strong>Teacher’s Guide: </strong><a href="pdf/Tour-Interdependence-Pre-and-Post.pdf" target="_blank">Download the Pre and Post Visit Guide and Activities <i class="efoundicon-down-arrow"></i> </a></p>
+                
+             	<p><strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="images/tours/tour-ind.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>          
+                   
+          
+          <div id="weModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Wetlands Exploration Tour (4th - 7th Grade)</h3>
+            	 <p><strong>Duration: 90 minutes</strong></p>
+                 <ul>
+                 <li><strong></strong>Explore The Morris Arboretum Wetland on foot</li>
+                 <li>Discover the function of wetlands and why they are so vital to nature</li>
+                 <li>Observe and record the different plants and animals that thrive in a wetland</li>
+                 <li>Explain the environmental and economic consequences that can arise with the loss of wetlands</li>
+                 <li>Brainstorm ways we can help safeguard wetlands for the future</li>
+				 <li><strong>Meets PA Academic Standards: </strong>4.3 Environmental Health, 4.7 Threatened, Endangered and Extinct Species, 6.3 Scarcity and Choice</li>
+             	</ul>
+                <p><strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="images/tours/tour-wetlands.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="susModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="eight columns"><h3 class="tours">Sustainable Practices Tour (4th through 7th Grade)</h3>
+             	<p><strong>Duration: 75 minutes</strong></p>
+                <ul>
+                 <li>Identify how people use natural resources in sustainable ways</li>
+    			 <li>Identify natural and human-made factors that affect water quality</li>
+    			 <li>Use appropriate tools and techniques to analyze a freshwater stream</li>
+				 <li><strong>Meets PA Academic Standards: 4.1 Ecology; 4.2 Watersheds and Wetlands; 4.5 Humans and the Environment.</strong></li>
+             	</ul>
+                <p><strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="images/tours/tour-sus.jpg"></div>
+            </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="scrtModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Secrets of Seeds Tour (5th grade and up)</h3>
+             	<p><strong>Duration: 90 minutes</strong></p>
+                <ul>
+                <li>Explore the inner workings of a flower and the precision needed to create seeds</li>
+                <li>Analyze the structure of a flower and the purpose of its parts</li>
+                <li>Predict the pollination method of a plant based on floral characteristics</li>
+                <li>Learn where to find seeds</li>
+                <li>Uncover how seeds are dispersed into nature</li>
+				<li><strong>Meets PA Academic Standards:</strong> 3.1 Biological Sciences</li>
+            	</ul>
+                <p><strong>Teacher’s Guide: </strong><a href="pdf/secret-seeds-post-visit.docx" target="_blank">Download the Post-Visit Activity <i class="efoundicon-down-arrow"></i></a> </p>
+				<p><strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="images/tours/tour-repro1.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="cmModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Historic Mill Tour (5th grade and up)</h3>
+            	<p><strong>Duration: 60 minutes</strong></p>
+                <ul>
+			    <li>Travel back in time by walking in the shoes of a Miller’s apprentice</li>
+    			<li>Discover how cutting edge technology from the 1850s used simple machines to harness water power</li>
+   				<li>Learn how nearby Flourtown got it’s name</li>
+             	</ul>
+                <p><strong>Teacher’s Guide: </strong><a href="pdf/Grist-Mill-Childrens-Activities.pdf" target="_blank">Download the Pre and Post Visit Guide and Activities <i class="efoundicon-down-arrow"></i> </a></p>
+				<p><strong>For more information or to schedule a field trip, contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="images/tours/tour-mill.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+
+          
+  <!--End Reveal Modal-->
+    <!--#include virtual="elements/sidebar-ed.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-ed.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

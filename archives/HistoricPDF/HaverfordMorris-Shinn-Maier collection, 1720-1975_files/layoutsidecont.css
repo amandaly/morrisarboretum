@@ -1,0 +1,50 @@
+#onecontent, #col1, #fcol1 {float: none;}
+#col2, #fcol2 {float: left;}/*sidebar*/
+#col2, #fcol2 {
+     width:16.33em; 	
+	}
+
+#fcol1 {
+	padding: 2em 0 0 0;
+	}
+#fcol2 {
+	padding: 2em 0 0 .75em;
+	}
+#onecontent, #col1, #fcol1 {
+     margin-left: 17em; 
+	width: auto;
+	}
+#onecontent, #col1 {
+	padding-top: 3.17em;
+	}
+#widgetcol3 {
+     display: none;
+	}
+	
+
+#footer {
+	  padding: 3em 0 1em 18.45em;
+	  }	
+/*altsearch*/	
+.holdsearchform {
+	background-color: #f7f0dc; 
+	margin: 0 -1.5em 0 -.67em; 
+	padding: .17em 0 .17em 4em;
+	}
+.aftersearchshim {
+	height: 2.58em;
+	}
+
+
+
+		
+/*printer directives*/
+
+body.printer #col2{
+     display: none
+	}/*sidebar*/
+
+body.printer #col1, body.printer #onecontent {
+     margin-left: 1em; 
+	}
+

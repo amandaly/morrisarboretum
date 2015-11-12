@@ -1,0 +1,265 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AGaramondPro-Bold
+FamilyName:Adobe Garamond Pro
+StyleName:Bold
+MenuName:Adobe Garamond Pro Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Adobe Garamond Pro Bold
+WritingScript:Roman
+OutlineFileName:\AGaramondPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:75376
+FileModTime:1327594260
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AGaramondPro-BoldItalic
+FamilyName:Adobe Garamond Pro
+StyleName:Bold Italic
+MenuName:Adobe Garamond Pro Bold
+StyleBits:1
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Adobe Garamond Pro Bold Italic
+WritingScript:Roman
+OutlineFileName:\AGaramondPro-BoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:76860
+FileModTime:1327594260
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AGaramondPro-Italic
+FamilyName:Adobe Garamond Pro
+StyleName:Italic
+MenuName:Adobe Garamond Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Adobe Garamond Pro Italic
+WritingScript:Roman
+OutlineFileName:\AGaramondPro-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:92132
+FileModTime:1327594260
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AGaramondPro-Regular
+FamilyName:Adobe Garamond Pro
+StyleName:Regular
+MenuName:Adobe Garamond Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Garamond Pro
+WritingScript:Roman
+OutlineFileName:\AGaramondPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:126904
+FileModTime:1327594260
+DesignSize:120
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BradleyHandITC
+FamilyName:Bradley Hand ITC
+StyleName:Regular
+MenuName:Bradley Hand ITC
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Bradley Hand ITC
+WritingScript:Roman
+OutlineFileName:\BRADHITC.TTF
+DataFormat:sfntData
+FileLength:105296
+FileModTime:939981346
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MonotypeSorts
+FamilyName:Monotype Sorts
+StyleName:Regular
+MenuName:Monotype Sorts
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Monotype Sorts
+WritingScript:Roman
+OutlineFileName:\Monotype_Sorts.ttf
+DataFormat:sfntData
+FileLength:77408
+FileModTime:1401962671
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:StencilStd
+FamilyName:Stencil Std
+StyleName:Bold
+MenuName:Stencil Std
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Stencil Std Bold
+WritingScript:Roman
+OutlineFileName:\StencilStd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31468
+FileModTime:1327594368
+DesignSize:180
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SymbolMT
+FamilyName:Symbol
+StyleName:Regular
+MenuName:Symbol
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Symbol
+WritingScript:Roman
+OutlineFileName:\symbol.ttf
+DataFormat:sfntData
+FileLength:70128
+FileModTime:1244654795
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Bold
+FamilyName:Ubuntu
+StyleName:Bold
+MenuName:Ubuntu
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Bold
+WritingScript:Roman
+OutlineFileName:\Ubuntu-B.ttf
+DataFormat:sfntData
+FileLength:333616
+FileModTime:1316706956
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Light
+FamilyName:Ubuntu
+StyleName:Light
+MenuName:Ubuntu Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Light
+WritingScript:Roman
+OutlineFileName:\Ubuntu-L.ttf
+DataFormat:sfntData
+FileLength:415552
+FileModTime:1316707312
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Medium
+FamilyName:Ubuntu
+StyleName:Medium
+MenuName:Ubuntu Light
+StyleBits:2
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu Medium
+WritingScript:Roman
+OutlineFileName:\Ubuntu-M.ttf
+DataFormat:sfntData
+FileLength:341324
+FileModTime:1316706870
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu
+FamilyName:Ubuntu
+StyleName:Regular
+MenuName:Ubuntu
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Ubuntu
+WritingScript:Roman
+OutlineFileName:\Ubuntu-R.ttf
+DataFormat:sfntData
+FileLength:353824
+FileModTime:1316707036
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Italic
+FamilyName:Ubuntu
+StyleName:Italic
+MenuName:Ubuntu
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Ubuntu Italic
+WritingScript:Roman
+OutlineFileName:\Ubuntu-RI.ttf
+DataFormat:sfntData
+FileLength:386440
+FileModTime:1316707940
+%EndFont
+

@@ -1,0 +1,135 @@
+/*start nofindit layout modifications*/
+#widgetcol3, #col1, #onecontent {	
+     padding-top: 0;
+	}
+#col1, #onecontent {
+	margin-top: 0;
+	}
+#widgetcol3 {
+     background-color: transparent;
+     background: transparent;
+	}
+/*start nofindit frame modifications*/
+
+body #widgetcol3 .shim, body #col2 .shim, body .aftersearchshim {
+     display: block;
+	}
+body #searchwrap, body #searchwrapliner, #col1 .shim, #onecontent .shim {
+     display: none;
+	}
+
+/*start altsearch*/
+.altsrchtable {margin: 0 0 0 20.25em;}/*in franlin left margin is 0*/
+.altsrchtable.padaltsrchtable {margin: 2px 0 0 20.33em;}
+.searchfield, .searchfieldleft, .searchbuttongo input, .searchbuttongo1, .searchfieldleft1 {
+     font-family: Arial, Helvetica, sans-serif;
+	}
+.searchlabelsmall { 
+     font-size: .92em;
+     }
+.searchfield, .searchfieldleft, .searchbuttongo input, .searchbuttongo1, .searchfieldleft1 { 
+     font-size:.92em; 
+     }
+.searchlabel { 
+     font-size: 1.09em;
+     }
+.searchbuttongo input, .searchbuttongo1 {
+     background-color: transparent;
+	}
+.searchbuttongo input, .searchbuttongo1 {
+    border: 1px solid #9e998d;
+    }
+.holdsearchindent {width: 2.42em;}
+.searchfield select, .searchfield option, .searchfieldleft select, .searchfieldleft option, .searchfieldleft1 {
+     width:11.18em;
+	}
+.searchfield input, .searchfieldleft input, .searchfieldleft1 {
+     width: 17em;
+	}
+.searchlabel{
+     padding: .33em .5em 0 0;
+	}
+	
+.strongRedLink {
+     padding-left: 1.92em;
+	padding-top: 2.08em;
+	}
+.searchbuttongo input, .searchbuttongo1 {
+     padding: 0 2px 2px 2px;
+	margin: .08em 0 0 .5em;
+    }
+.searchfieldleft, .searchfieldleft1 {
+     float: left;
+	}
+
+.searchlabel { 
+	letter-spacing: 0.03em;
+     }
+.searchlabelsmall {
+     font-style: italic;
+     }	
+.searchlabel, .searchbuttongo input, .searchbuttongo1 { 
+	font-weight:bold;
+     }
+#col1 .subjspecpagelinks {
+     margin-top: 3em;
+	}
+.backhomeholder {vertical-align:bottom; padding-left: 4px;}
+.backcollectionsearch {background:no-repeat url(../images/common/dlasearchbarback2.gif) 114px 0; width: 93px;height: 20px;background-position: 0 0;}
+.backcollectionhome {background:no-repeat url(../images/common/dlasearchbarback2.gif) -30px 0; width: 21px;height: 20px;background-position: -101px 0;}
+
+/*DIFF
+everything below this point is new for dlafranklin*/
+/*tabbed search as in franklin*/
+.franklin.altsrchtable {margin: 0 0 0 0;}/*no margin on altsrch*/
+
+td.holdsearch {padding-top: 6px;}
+.holdsearch input.mainq, .holdsearch select option {line-height: 150%;font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;font-size: 12px;}
+.holdsearch input.mainq, .holdsearch select {border: solid 1px #999;}/*THIS IS ON ITS WAY OUT, REPLACED BY NEXT LINE, 3-14*/
+.holdmainq input, .holdselectq select { border: solid 1px #999;}
+
+.mainq {width: 367px; /*margin-right: 8px;margin-left: 9px;*/ background-image: url(../images/common/searchboxicon.png); background-position: 4px 50%; background-repeat: no-repeat; padding: 4px 5px 5px 20px;}
+
+
+
+.bigtabs.recordpage .holdsearch select, .homepage .holdsearch select, .resultspage .holdsearch select, .bigtabs.ancillaryspage .holdsearch select, .grnotch.homepage .holdsearch select, .grnotch.resultspage .holdsearch select, .grnotch.ancillarypage .holdsearch select, .bigtabs .holdsearch select {width: 169px; margin-right: 8px;height: 27px; padding-top: 3px;}
+
+.holdsearch {width: 100%;}
+
+
+.holddlasearchbutton {width: 100%;}/*new*/
+.holddlasearchbutton input {border: 0; background-image: url(../images/franklin/dlasearchgo.gif); background-repeat: no-repeat; width: 38px; height: 27px; font-weight: bold; font-family: Verdana, 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; letter-spacing: .02em;font-size: 12px;padding-bottom: 3px;}/*change: defined thru parent*/
+.holddlasearchbutton input:hover {background-image: url(../images/franklin/dlasearchgo_o.gif);}/*change: defined thru parent*/
+.searchfieldleft1 {}/*rm float: left; */
+.invisible.forsearch {color: #f6eed6;float: left; margin-left: -999px;}
+.holdmainq {padding: 0 8px 0 9px;}/* change new*/
+.bigtabs.resultspage .holdlabel, .bigtabs.homepage .holdlabel, .bigtabs.advsrchpage .holdlabel  {display: none;}  
+.grnotch.resultspage .holdlabel, .grnotch.ancillarypage .holdlabel, .grnotch.homepage .holdlabel {display: block;}  
+
+.grnotch.resultspage #mainsrch input.mainq, .grnotch.ancillarypage #mainsrch input.mainq, .grnotch.homepage #mainsrch input.mainq {width: 200px;}
+.grnotch.resultspage .holdsearchfields,  .grnotch.ancillarypage .holdsearchfields,  .grnotch.homepage .holdsearchfields {margin: 2px auto 0 auto;}
+.holdlabel {padding-top: 5px;}
+.holdlabel h3 {margin-top: 0;color: #000; font-style: normal;}
+.holdlabel label{font-size: 14px}
+.grnotch.resultspage .holdmainq, .grnotch.ancillarypage .holdmainq, .grnotch.homepage .holdmainq {padding: 0 0 0 .5em;}
+.grnotch.homepage .holdselectq, .grnotch.resultspage .holdselectq, .grnotch.ancillarypage .holdselectq {padding-left: .08em;}
+.grnotch.resultspage td.holdsearch, .grnotch.ancillarypage td.holdsearch, .grnotch.homepage td.holdsearch {text-align: center;}
+.grnotch.resultspage td.holdsearch form, .grnotch.ancillarypage td.holdsearch form, .grnotch.homepage td.holdsearch form {margin: 0 auto;}
+.grnotch.resultspage .holddlasearchbutton, .grnotch.ancillarypage .holddlasearchbutton, .grnotch.homepage .holddlasearchbutton {width: 38px}
+.grnotch.resultspage td.holdsearch select, .grnotch.ancillarypage td.holdsearch select, .grnotch.homepage td.holdsearch select {width: auto;}
+.grnotch.resultspage td.holdsearch, .grnotch.ancillarypage td.holdsearch, .grnotch.homepage td.holdsearch {text-align: center;border-bottom: none;}
+
+
+.ie6 td.holdmainq, .ie6 td.holdmainq input.searchfieldleft1, .ie6 input.searchfieldleft1 {width: 367px !important;}
+.ie6 td.holdselectq select {width: 170px !important;}
+.ie6 form#mainsrch {text-align:left !important;}
+.ie6 form#mainsrch label {width:5px; margin:0 0 0 0;padding:0 0 0 0;}
+
+
+
+
+
+
+
+	
+	

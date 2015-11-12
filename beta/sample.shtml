@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Plan Your Visit</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="../stylesheets/foundation.css">
+  <link rel="stylesheet" href="../stylesheets/style.css">
+  <link rel="stylesheet" href="../stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="../stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="../stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="../foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="../index.shtml"><img src="../images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="../index.shtml"><img src="../images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="../images/img-header-tours.jpg" alt="Tours"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+        <h2 class="first">Map of Morris Arboretum</h2> 
+        <p><a href="#" data-reveal-id="mapModal"><img src="../images/img-visitor-map.jpg"></a></p>
+        <p><a href="#" data-reveal-id="mapModal"><strong>View Larger <i class="efoundicon-plus"></i> </strong></a></p>
+        <p><a href="../pdf/MA_Visitor_Map.pdf" target="_blank">Download a printable map <i class="efoundicon-down-arrow"></i></a></p>
+        <br>
+        <hr>
+        <div id="slider"> 
+            <img src="../images/img-mill-gallery1.jpg" alt="Grist Mill"/></a>
+            <img src="../images/img-mill-gallery2.jpg" alt="Grist Mill"/></a>
+            <img src="../images/img-mill-gallery3.jpg" alt="Grist Mill"/></a>
+            <img src="../images/img-mill-gallery4.jpg" alt="Grist Mill"/></a>
+            <img src="../images/img-mill-gallery5.jpg" alt="Grist Mill"/></a>
+            <img src="../images/img-mill-gallery6.jpg" alt="Grist Mill"/></a>
+        </div> 
+        <hr>
+        <!--Fall Video-->
+        <div class="flex-video">
+      	<iframe width="670" height="326" src="//www.youtube.com/embed/LVhfKaNLmxc" frameborder="0" allowfullscreen></iframe>
+      	</div>
+		<hr>
+		<span class="show-for-small">
+            <h2>Self Guided Tours</h2>
+            <ul class="block-grid three-up">
+              <li><a href="../pdf/tours-great-trees.pdf"><img src="../images/tours/tour-gt.jpg"></a></li>
+              <li><a href="../pdf/tours-founding-treasures.pdf"><img src="../images/tours/tour-ft.jpg"></a></li>
+              <li><a href="../pdf/NativeTreesTour.pdf"><img src="../images/tours/tour-ntt.jpg"></a></li>
+              <li><a href="../pdf/sculpture tour.pdf"><img src="../images/tours/tour-s.jpg"></a></li>
+              <li><a href="../pdf/tours-wetlands.pdf"><img src="../images/tours/tour-wl.jpg"></a></li>
+              <li><a href="../familyFunActivities.shtml"><img src="../images/tours/tour-kfa.jpg"></a></li>
+            </ul>
+        </span>
+      <span class="hide-for-small">  
+        <h3>Self-guided Tours</h3><br>
+        <div class="row">
+            <div class="two columns" style="padding-right:0; margin-right:0;"><a href="../pdf/tours-great-trees.pdf" target="_blank"><img src="../images/tours/tour-gt.jpg"></a></div>
+          <div class="ten columns"><h3 class="tours"><strong>Great Trees Tour</strong></h3>
+            <p> Learn about 19 of the greatest trees at Morris Arboretum. 
+            <a href="../pdf/tours-great-trees.pdf" target="_blank"><strong> 
+            Download the PDF brochure <i class="efoundicon-down-arrow"></i></strong></a></p>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="two columns" style="padding-right:0; margin-right:0;"><a href="../pdf/tours-founding-treasures.pdf" target="_blank"><img src="../images/tours/tour-ft.jpg"></a></div>
+          <div class="ten columns"><h3 class="tours"><strong>Founding Treasures</strong></h3>
+            <p>Learn about some of our oldest and most prized treasures throughout the garden. <a href="../pdf/tours-founding-treasures.pdf" target="_blank"><strong> Download the PDF brochure <i class="efoundicon-down-arrow"></i></strong></a></p></div>
+        </div>
+        
+        <br>
+        <div class="row">
+            <div class="two columns" style="padding-right:0; margin-right:0;"><a href="../pdf/NativeTreesTour.pdf" target="_blank"><img src="../images/tours/tour-ntt.jpg"></a></div>
+      		<div class="ten columns"><h3 class="tours"><strong>Native Trees Tour</strong></h3>
+        	<p>Learn about our trees that are native to Pennsylvania. <br>
+			<a href="../pdf/NativeTreesTour.pdf" target="_blank"><strong>Download the PDF brochure <i class="efoundicon-down-arrow"></i></strong></a></p></div>
+        </div>
+        
+        <br>
+        <div class="row">
+            <div class="two columns" style="padding-right:0; margin-right:0;"><a href="../pdf/sculpture tour.pdf" target="_blank"><img src="../images/tours/tour-s.jpg"></a></div>
+      		<div class="ten columns"><h3 class="tours"><strong>Sculpture Tour</strong></h3>
+        	<p>Discover sculptures throughout the garden and learn about their history. 
+	  		<a href="../pdf/sculpture tour.pdf" target="_blank"><strong>Download the PDF brochure <i class="efoundicon-down-arrow"></i> </strong></a></p></div>
+        </div>
+        
+        <br>
+        <div class="row">
+            <div class="two columns" style="padding-right:0; margin-right:0;"><a href="../pdf/tours-wetlands.pdf" target="_blank"><img src="../images/tours/tour-wl.jpg"></a></div>
+        	<div class="ten columns"><h3 class="tours"><strong>Wetland Tour</strong></h3>
+        	<p>Explore the wetlands and learn about native plants, birds, and more. 
+	  		<a href="../pdf/tours-wetlands.pdf" target="_blank"><strong>Download the PDF brochure <i class="efoundicon-down-arrow"></i> </strong></a></p></div>
+        </div>
+   
+   		<p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        </span>
+        
+        <hr>
+        <h2>Guided Tours</h2>  
+         <h3> <strong>Regularly Scheduled Tours</strong></h3>
+        <p><strong>Every Saturday and Sunday at 2:00pm &bull; No reservations required. </strong> <br>Our knowledgeable guides will design a tour around the interests of the attendees. Every tour is different so come back as many times as you’d like.</p>
+        <hr>
+        <a id="smtrees"></a>
+        <h3><img src="../images/ad-small-trees.jpg" alt="Small Trees Tour" width="190" class="right right-pad"><strong>Small Trees for Small Spaces Tour</strong></h3>
+        <p><strong>Saturdays, October 10 &amp; 24, 11:00am-noon<br>
+		Meet in the front of the Visitor Center</strong></p>
+        <p>Join knowledgeable guides for a tour of Morris Arboretum’s smaller specimen trees in the garden’s new tour, Small Trees for Small Spaces. Arboretum Guides will point out small trees that make a big impact. Ranging in height from 15 to 30 feet, these trees have many special features, such as spectacular bark, interesting forms, and great flower and leaf color.</p>
+        
+        <p>These trees, literally and figuratively, have been over-shadowed by the Arboretum’s big trees, but are now getting a much deserved moment in the spotlight. Don’t miss this opportunity to see trees that will pop! in your own home garden.</p>
+        <p><strong>To learn more about this tour, listen to Morris Arboretum Tour Guide, Charlie Mazza’s interview with Mike McGrath from <em>You Bet Your Garden</em>, WHYY</strong>:<br><br>
+         <audio controls>
+          <source src="../audio/whyy-mike-mcgrath-small-trees.m4a" type="audio/mpeg">
+        Your browser does not support the audio element.
+        </audio> </p>
+        <hr>
+        <h3> <strong>Verbal Description Tours </strong><br>
+		(For visitors who are blind or partially-sighted)</h3>
+        <p><strong>60 Minutes &bull; Reservations required, please allow for 3 weeks notice. Contact Lisa Bailey at <a href="mailto:baileyl@upenn.edu">baileyl@upenn.edu</a>.</strong><br>
+Experience the Arboretum’s most beloved features with our Verbal Description Tour.  Trained Guides will provide an enhanced experience for visitors who are blind or partially sighted, using vivid description and tactile opportunities that convey the magnificence of the largest and rarest trees at the Arboretum, the world class sculpture, and sweeping views.</p>
+        <br>
+
+        <h3><strong>Grist Mill Demonstration Days & Tours</strong></h3>
+        <p class="first"><strong>Join us for the last Demonstration Day of the 2015 season:</strong><br>
+       Sunday, October 18, 12:00 - 4:00pm </p>
+        <p>No reservations required.</strong> <em>Grist Mill Demonstrations are free. Donations appreciated. 
+        The grist mill is located directly across from the Arboretum’s main entrance on Northwestern Avenue.</em></p>
+		<p><strong>Grist Mill Guided Tours</strong> 
+		Contact Lisa Bailey at <a href="mailto:baileyl@upenn.edu">baileyl@upenn.edu</a> or 215.247.5777 x157 to schedule your tour.</p>
+        <p>The Springfield Mills at Morris Arboretum has been carefully restored and made operational once again by a dedicated group of volunteers. Come visit this 19th century mill and see how corn was milled for meal and flour.</p>
+            <p><strong><a href="../gardens_buildings_springfieldMills.shtml">Learn more about the Grist Mill &raquo;</a></strong></p>
+        
+        <br>
+      <h3><strong>Group Tours</strong></h3>
+        <p><strong>Reservations required.<em> Please note: At least 3 weeks advance notice is needed for guided tours.</em></strong> Contact Lisa Bailey at <a href="mailto:baileyl@upenn.edu">baileyl@upenn.edu</a> or 215.247.5777 x157 to schedule your tour.</p>
+        <p><a href="../visit_hours.shtml"><strong>Group rates</strong> are available. <br>
+		Please visit our Admissions page for more information <i class="efoundicon-right-arrow"></i></a></p><br>
+        <p><strong>Choose from the following group tours (click for more information):</strong></p>
+        		<ul class="content_list">
+                <li><a href="#" data-reveal-id="artModal">Art in the Garden</a></li>
+                <li><a href="#" data-reveal-id="bfModal">Bloomfield Farm and Historic Springfield Mills Tour</a></li>
+                <li><a href="#" data-reveal-id="ghModal">Garden Highlights</a></li>
+                <li><a href="#" data-reveal-id="jeModal">Japanese Elements</a></li>
+                <li><a href="#" data-reveal-id="hcModal">LEED Horticulture Center and Green Roofs Tour</a></li>
+                <li><a href="#" data-reveal-id="ntModal">Native Trees Tour</a></li>
+                <li><a href="#" data-reveal-id="otModal">Outstanding Trees</a></li>
+                <li><a href="#" data-reveal-id="vgModal">Victorian Garden</a></li>
+                <li><a href="#" data-reveal-id="wwModal">Winter Walks</a></li>             
+      			</ul>
+          <br>
+      
+      <div class="panel">
+        	<h3><strong>School Groups & Field Trips</strong></h3>
+        	<p>For information on student groups, field trips, or scout tours at Morris Arboretum please visit our <a href="../ed_k12.shtml">Education</a> section.</p>
+        </div>
+    <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        <br>  
+        
+    </div>
+    <!--#include virtual="elements/sidebar-visit.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+    <!--#include virtual="elements/subnav-visit.html" -->
+  </div>
+  
+  <!--Reveal Modal-->
+          <div id="mapModal" class="reveal-modal xlarge">
+             <p><img src="../images/img-map-visitor-lrg.jpg"></p>
+             <p><a href="../pdf/MA_Visitor_Map.pdf" target="_blank">Download a printable map <i class="efoundicon-down-arrow"></i></a></p><a class="close-reveal-modal">&#215;</a>
+          </div>
+  		  <div id="artModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="eight columns"><h3 class="tours">Art in the Garden Group Tour</h3>
+             	<p><strong>Duration: 60 minutes</strong><br><br>The Arboretum is home to an outdoor collection of classic and contemporary <a href="#">sculpture</a>. Explore the garden’s works of art, both intimate and grand, seamlessly integrated into the designed landscape. The Madeline K. Butcher Sculpture Garden features changing exhibits of emerging artists. The length of time and areas covered can be adjusted for each group.</p>
+             <p><strong>For more information or to schedule a tour contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="../images/tours/tour-art.jpg"><br><br><p class="caption"><em>After B. K. S. Iyengar</em><br>by Robert M. Engman</p></div>
+            </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+
+          <div id="bfModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="eight columns"><h3 class="tours">Bloomfield Farm and Historic Springfield Mills Tour</h3>
+             	<p><strong>Duration: 60 minutes</strong><br><br>Springfield Mills and the Miller’s Cottage date back to 1760 and are the oldest architectural features at the Morris Arboretum. Springfield Mills contains the most complete inventory of original mill works and related machinery of any mill in the area. The content of the mill provides a unique opportunity to interpret 19th and early 20th century agriculture and milling.</p>
+             	<p><strong>For more information or to schedule a tour contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+             	<div class="four columns"><img src="../images/tours/tour-bf.jpg"></div>
+            </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+      	  <div id="ghModal" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours">Garden Highlights Tour</h3>
+             	<p><strong>Duration: 60 minutes</strong><br><br>The Morris Arboretum is a living museum featuring plants, sculpture and ideas collected from around the world. Visit some of the Arboretum’s most beloved attractions like the Fernery, the Rose Garden, and the Log Cabin, which visionaries John and Lydia Morris developed more than 100 years ago.</p>
+             	<p><strong>For more information or to schedule a tour contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="../images/tours/tour-gh.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+      	  <div id="jeModal" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours">Japanese Elements Tour</h3>
+             	<p><strong>Duration: 60 or 90 minute options available</strong><br><br>A Japanese garden speaks to all the senses, providing a place for rest, repose, meditation and pleasure. Explore the many locations throughout the Arboretum where traditional Japanese elements meld into the Victorian landscape created by John Morris. Long and short tours are available depending on time constraints.</p>
+             	<p><strong>For more information or to schedule a tour contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="../images/tours/tour-je.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+      	  <div id="hcModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">LEED Horticulture Center and Green Roofs Tours</h3>
+             	<p><strong>Duration: 60 minutes</strong><br><br>The Horticulture Center supports the Arboretum’s daily operations in a healthy and environmentally friendly facility.  It has been awarded Platinum Level LEED® Certification, setting an example for Leadership in Energy and Environmental Design on a local, regional, and national level.  Green roofs, geothermal wells, constructed wetlands, recycled materials, energy efficient buildings and solar panels are some of the demonstration features. Tours are from the ground only.</p>
+             	<p><strong>For more information or to schedule a tour contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="../images/tours/tour-hc.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+      	  <div id="ntModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Native Trees Tour</h3>
+             	<p><strong>Duration: 60 minutes</strong><br><br>Evidence suggests that native tree species support the rich diversity of fauna within forest ecosystems. Take a group tour of the native trees at the Arboretum and learn about the many ways native trees can support increased biodiversity when planted in a variety of non-forest settings, too. </p>
+             	<p><strong>For more information or to schedule a tour contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="../images/tours/tour-nt.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+      	  <div id="otModal" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours">Outstanding Trees Tour</h3>
+             	<p><strong>Duration: 60 minutes</strong><br><br>The Arboretum is over 75 years old and so are many of our trees. Many trees in our living collection are recognized as significant examples of their species, and some are the oldest in the area. Plan a guided tour to see our prized collection of mature stately trees. Our most exceptional specimens are highlighted on this tour, including several current or former state champions, as well as many trees of extraordinary size and beauty. </p>
+             	<p><strong>For more information or to schedule a tour contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="../images/tours/tour-ot.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+   	  	  <div id="vgModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Victorian Garden Tour</h3>
+             	<p><strong>Duration: 60 minutes</strong><br><br>In the Victorian tradition, this tour showcases historic buildings, garden architecture, fountains and statuary. Compton, the private estate of the wealthy Quaker siblings John and Lydia Morris, is a living testimony to the horticultural vision of this enlightened and well-traveled, 19th-century pair.</p>
+            	 <p><strong>For more information or to schedule a tour contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="../images/tours/tour-vg.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+   	  	  <div id="wwModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Winter Walk</h3>
+            	 <p><strong>Duration: 60 minutes</strong><br><br>Experience the garden in winter and it may become your favorite season. Few views are more dramatic than evergreens punctuating a snowy landscape. The sculptural quality of deciduous trees is revealed best at this time of year, accented by winter fruits and interesting bark.</p>
+             	<p><strong>For more information or to schedule a tour contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="../images/tours/tour-ww.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+  <!--End Reveal Modal-->
+    <div id="widenerModal" class="reveal-modal large">
+        <!--#include virtual="elements/widener-alert.html" -->
+    </div>
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="../foundation/javascripts/jquery.js"></script>
+  <script src="../foundation/javascripts/foundation.min.js"></script>
+  <script src="../javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="../foundation/javascripts/app.js"></script>
+  <script src="../foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page-new.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Patrick Dougherty</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '{your-app-id}',
+          xfbml      : true,
+          version    : 'v2.0'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+  
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/header-patrick-dougherty.jpg" alt="Patrick Dougherty"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="eight columns push-three">
+        <h2 class="first" style="font-size:28px;"><small>New Stickwork Sculpture by Patrick Dougherty</small><br>
+<em>A Waltz in the Woods</em> </h2>
+        <br>
+        <div id="slider"> 
+            <img src="images/img-pd-gallery1.jpg" alt="Patrick Dougherty"/></a>
+            <img src="images/img-pd-gallery2.jpg" alt="Patrick Dougherty"/></a>
+            <img src="images/img-pd-gallery3.jpg" alt="Patrick Dougherty"/></a>
+            <img src="images/img-pd-gallery4.jpg" alt="Patrick Dougherty"/></a>
+            <img src="images/img-pd-gallery5.jpg" alt="Patrick Dougherty"/></a>
+            <img src="images/img-pd-gallery6.jpg" alt="Patrick Dougherty"/></a>
+            <img src="images/img-pd-gallery7.jpg" alt="Patrick Dougherty"/></a>
+        </div> 
+        <br>
+        <h4><strong>Installation:</strong> March 9-27, 2015<br>
+		<strong>Exhibit Duration:</strong> Patrick Dougherty’s original sculptures are temporary. They last one to two years depending on the severity of the weather.</h4>
+        <p><strong>Located in the sculpture garden.</strong> <a href="pdf/MA_Visitor_Map.pdf" target="_blank">Click here for a Visitor Map</a>.</p>
+        <hr>
+        <div class="row">
+          <div class="eight columns">
+            <a id="willow"></a><h3 class="first"><strong>About the Materials: Willows</strong> </h3>
+            <p class="first"> <em>A Waltz in the Woods</em> was created from willow saplings. Below are the specific types.</p>
+            <p><strong>For the Main Towers:</strong><br>
+            <em>Salix purpurea</em> ‘Fish Creek’ – Fish creekpurple willow, used for the vast majority of the piece.<br>
+            <em>Zelkova serrata</em> – Japanese zelkova, used as structural pieces.</p>
+             
+            <p><strong>For Dome Embellishments:</strong><br>
+            <em>Salix alba</em> 'Britzensis' – Britz white willow<br>
+            <em>Salix chaenomeloides</em> - willow<br>
+            <em>Salix gracilistylavar. melanostachys</em>  – black bigcatkin willow<br></p>
+          </div>
+         <div class="four columns"><br><p><img src="images/ad-pd-willows.jpg" alt="Willows"></p> 
+         </div>
+        </div>
+        <hr>
+        <h2>About the Artist and Installation</h2><br>
+        <div class="flex-video"><iframe width="640" height="360" src="https://www.youtube.com/embed/YTT1pV9095w?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>
+        
+        <h3><a href="http://whyy.org/cms/fridayarts/stickwork/" target="_blank"><strong>See Patrick Dougherty on WHYY Friday Arts &raquo;</strong></a></h3>
+        <h3><a href="http://www.cbsnews.com/videos/a-north-carolina-sculptor-turns-sticks-into-art/" target="_blank"><strong>See Patrick Dougherty on CBS Sunday Morning &raquo;</strong></a></h3>
+        <br>
+        <p>This spring the Morris Arboretum welcomed back stickwork artist, Patrick Dougherty to create a new sculpture, <em>A Waltz in the Woods</em>.</p>
+ 
+        <p>In the last thirty years, Dougherty has created some 260 sculptures in more than 15 countries. <em> A Waltz in the Woods</em> includes seven “towers”, each roughly 30 feet high, through which visitors may roam. Open windows create an airy feel, and opposing doors allow for travel between the towers. The variations in shape and size create a unique sense of flow and a maze-like feel. The negative space within the circle of the towers pays homage to the Arboretum’s <em>Summer Palace</em> which Dougherty created in 2009.</p>
+         
+        <p><em>A Waltz in the Woods</em> was created from willow saplings, which were brought in from Fredonia, New York, from a willow nursery. Dougherty likes that his work is relevant to just about anyone. He recognizes that each structure creates different associations for different people, and that it evokes something unique for each individual. In the end, for him, it is all about connections. “Sometimes we all just need to be reminded of our place in nature.” </p>
+        
+        <p><strong><em>Learn more about the work of Patrick Dougherty at <a href="http://www.stickwork.net/featured/" target="_blank">www.stickwork.net</a>.</em></strong></p>
+        <h4><em>This exhibit is supported in part by the Madeline K. Butcher Fine Arts Endowment.</em></h4>
+        <br> 
+        <br>
+        <p style="margin-bottom:3px;">Share this: </p>
+        <div class="addthis_sharing_toolbox" style="float:left;"></div>
+          
+        <br>
+        
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    
+    <!-- Nav Sidebar -->
+    <div class="one column">
+    </div>
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-events.html" -->
+  </div>
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+ 
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Education</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-maple-conf.jpg" alt="Conferences"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="seven columns push-three">
+      <h2 class="first"><em>Save the date for...</em><br>
+      The 5<sup>th</sup> International Maple Symposium      </h2>
+      <h3 class="red"><em>This event is full. To be added to the wait list, please contact the Continuing Education department at 215-247-5777 ext. 125.</em></h3>
+            <h4><strong>Date and Location:</strong> </h4>
+			<p class="first"><strong>Thursday and Friday, October 23 -24, 2014<br>
+			Post-conference Tour: Saturday and Sunday, October 25 -26, 2014<br>
+			</strong><br>
+			  <strong>Morris Arboretum of the University of Pennsylvania<br>
+Philadelphia, PA 19118</strong></p>
+            <p>The 5th International Maple Symposium will be hosted by the Morris Arboretum and will showcase its highly regarded maple collection.  Along with a lineup of internationally recognized maple experts, the symposium will feature garden tours to both public and private gardens.<strong><a href="pdf/Brochure-MA-Tree-Canopy.pdf"></a></strong></p>
+            <h3><strong>Registration</strong></h3>
+            <p><strong>Registration: </strong>$325 (includes lectures, breaks, lunches, and tours on Thursday and Friday)<br>
+            <strong>Friday Night Banquet: </strong>$60<br>
+            <strong>Saturday Tour:</strong> $75<br>
+            <strong>Sunday Tour:</strong> $50</p>
+            
+            <hr>
+        <h3><strong>Accomodations</strong></h3>
+        <p>A block of rooms have been reserved at the Hilton Garden Inn Fort Washington for October 22, 2014 - October 27, 2014. The special room rate will be available until September 23rd or until the group block is sold-out, whichever comes first. </p>
+        <p><strong><a href="http://hiltongardeninn.hilton.com/en/gi/groups/personalized/P/PHLFWGI-MAUP2-20141022/index.jhtml" class="button round medium">Book Online Now</a></strong></p>
+            <hr>
+      <h3><strong>Featured Speakers:</strong></h3>
+			<ul class="content_list">
+                <li><strong>Anthony S. Aiello</strong> <em>Director of Horticulture and Curator at the Morris Arboretum of the University of Pennsylvania</em><br> <a href="#" data-reveal-id="aiello"><strong>Read full biography &raquo;</strong></a></li>
+                <li><strong>Dan Benarcik</strong> <em>Horticulturist at Chanticleer</em><br> <a href="#" data-reveal-id="benarcik"><strong>Read full biography &raquo;</strong></a></li>
+                <li><strong>Dan Crowley</strong> Dendrologist at Westonbirt, The National Arboretum<br> <a href="#" data-reveal-id="crowley"><strong>Read full biography &raquo;</strong></a></li>
+                <li><strong>Piet de Jong</strong> Retired, Botanic Gardens of the University of Utrecht and Station for Nursery Stock at Boskoop<br> <a href="#" data-reveal-id="jong"><strong>Read full biography &raquo;</strong></a></li>
+             	<li><strong>Douglas Justice</strong> is the Associate Director, Horticulture and Collections at the University of British Columbia Botanical Garden and Centre for Plant Research<br> <a href="#" data-reveal-id="justice"><strong>Read full biography &raquo;</strong></a></li>
+                <li><strong>Richard Olsen</strong>, Research Geneticist at the United States National Arboretum<br> <a href="#" data-reveal-id="olsen"><strong>Read full biography &raquo;</strong></a></li>
+                <li><strong>Cor van Gelderen</strong> PlantenTuin Esveld, a family business and traditional Boskoop nursery<br> <a href="#" data-reveal-id="gelderen"><strong>Read full biography &raquo;</strong></a></li>             	
+            </ul>
+      
+        <hr>
+      <h2>Complete Agenda</h2><br>
+      <ul class="accordion">
+          <li>
+            <div class="title">
+              <h3><strong>Thursday, October 23</strong></h3>
+              <p>AM: Lectures at the Morris Arboretum<br>
+				 PM: Tour of the Scott Arboretum of Swarthmore</p>
+              <p><strong>Details &raquo;</strong></p>
+            </div>
+            <div class="content">
+                <p><strong>8:00 a.m.  Shuttle departs</strong> Hilton Garden Hotel to Morris Arboretum </p>
+                <p><strong>9:00 a.m.  Welcome</strong>—Paul Meyer, <em>The F. Otto Haas Director of The Morris Arboretum of the University of Pennsylvania</em>
+                </p>
+                <p><strong>9:10 a.m.</strong>  <strong>How to find your way in the multitude of Japanese Maples - Cor van Gelderen</strong><br><br>
+                There are so many Japanese Maples nowadays, that many of our interns become disheartened, at the sheer sight of them. How are they ever going to understand, let alone know, all these cultivars. So they give up, before even having started. And I feel that the same feeling overcomes many of our customors as well. With that experience in my mind I have tried to come up with a solution. Grouping them in logical groups of related cultivars helps.  But defining logical groups is a bit of a challenge. In this lecture I will try to define logical groups of related cultivars and present them. Images of these plants will underline the advantages of cultivar groups.</p>
+                
+                <p><strong>10 a.m.</strong>  Break </p>
+                
+                <p><strong>10:30 a.m.  The evolution of the reproductive organs of maples in comparison with some phylogenetic trees of the genus Acer - Piet deJong                </strong></p>
+                <p>The original inflorescences and flowers of maples have shown a whole series of reductions during the evolution of the genus.  The original heterodichogamous flowering has resulted in some taxa of the genus in complete dioecy and wind pollination.  A number of recently published phylogenetic trees show that the earlier divisions of the genus mainly based on morphologic characters of flowers and inflorescences were monophyletic sections and series. Some phylogenetic trees, however, show unexpected variations.</p>
+                
+                <p><strong>11:15 a.m.</strong>  <strong><em>Acer</em> section Platanoidea - Recent Asian introductions into cultivation - Dan Crowley </strong><br><br>
+                In recent years there have been a number of Asian introductions to cultivation of members of Acer section Platanoidea. Among these are plants causing considerable confusion in terms of their identification and correct nomenclature.  For example, some of the introduced material listed under the same collection number has been identified as belonging to different taxa by different individuals/institutions and are growing in various botanical institutions under different names.  Recently published literature recording these inaccuracies further contributes to the confusion among this interesting group.  Dan is undertaking a project to ascertain which taxa are in cultivation and under what names. The correct identity of those in cultivation will be established, with the work then extending to the other members of the section and eventually culminating in a taxonomic revision of the section.   Here he will present the status of the project so far.</p> 
+                
+                <p><strong>12:00 p.m. Lunch </strong></p>
+                
+                <p><strong>1:00 p.m.  Depart for Tour of the Scott Arboretum of Swarthmore College</strong></p>
+                
+                <p><strong>2:00 p.m.  Tour of the Scott Arboretum </strong></p>
+                
+                <p><strong>4:00 p.m.  Depart Scott Arboretum</strong></p>
+                
+                <p><strong>5:00 p.m.  Return</strong> to Hilton Garden Inn Hotel, dinner on own</p>
+            </div>
+          </li>
+          <li>
+          	<div class="title">
+            	<h3><strong>Friday, October 24</strong></h3>
+                <p>AM: Lectures at the Morris Arboretum <br>
+				PM: Tour of the Morris Arboretum<br>
+                Evening: Banquet at the Morris Arboretum</p>
+                <p><strong>Details &raquo;</strong></p>
+                
+            </div>
+            <div class="content">
+                <p><strong>8:00 a.m.  Shuttle departs</strong> Hilton Garden Hotel to Morris Arboretum </p>
+                <p><strong>9:00 a.m.  100 Years of Maples at the Morris Arboretum - Anthony Aiello</strong><br><br>
+                Starting with its founders John and Lydia Morris, there has been a long history of growing maples at the Morris Arboretum.  The Morrises purchased Japanese and Chinese maples from the Yokohama Nursery Company and from Veitch Nurseries and received plants from early plant explorations in China.  During the middle 20th century the Arboretum focused on building taxonomic collections of maples.  Over the past 30 years the focus has shifted to plants of wild-collected origin, primarily Asian species.  These have been supplemented by selected cultivars of maples.  In this talk, Tony will cover the history of maples at the Arboretum and discuss how this history reflects broader changes in plant collecting and exploration.  </p>
+                
+                <p><strong>9:45 a.m. <em>Acer</em>: Research perspectives past, present, and future - Richard Olsen</strong><br><br>
+                Maples constitute one of the most important components of natural and urban forests in North America.  Our native maples are well represented, some would say overrepresented in our planted landscapes, however, they are complimented by species from throughout temperate areas of Europe and Asia.  Continued planting of some introduced species are tempered by invasiveness concerns.  The nursery industry is seeking urban tolerant, non-invasive, maples to fill the void.  Historic contributions of the USNA maple breeding program as well as current efforts, both at the USNA and other North American institutions, to address these needs will be highlighted. </p>
+                
+                <p><strong>10:30 a.m.  Break</strong></p>
+                
+                <p><strong>11:00 a.m.  Creative integration of Maples into the gardens at Chanticleer and elsewhere - Dan Benarcik </strong><br><br>
+                Maples are but one of the colors on our creative palette.  See how they can be combined and utilized to create an experience or expression larger than a simple plant combination.  Pruning, siting and simple choice of plant all fit into this larger equation.</p>
+                
+                <p><strong>11:45 a.m.  Pan-Asian Acer: Maples cultivated at UBC Botanical Garden - Douglas Justice</strong><br><br>
+                Despite its small size, UBC Botanical Garden is well known for the diversity of its plant collections. The conditions at UBC are ideal for a large number of temperate plant groups, and maples represent one of the Garden’s most significant collections. Wild-provenance maples from Japan, South Korea, China, the Himalayas, Taiwan and Viet Nam make up most of the collection.   Many of these plants including a number of rarities, as well as companion plants representing other genera, will be discussed in this illustrated lecture.</p>
+                
+                <p><strong>12:30 p.m.  Lunch</strong></p>
+                
+                <p><strong>1:30 p.m.   Tour</strong> of the Morris Arboretum Plant Collection Highlighting Maples</p>
+                
+                <p><strong>4:00 p.m.  Bus departs for Hotel</strong></p>
+                
+                <p><strong>6:00 p.m.  Bus departs Hotel to return to Arboretum</strong></p>
+                
+                <p><strong>6:30 p.m.  Refreshments and Silent Plant Auction</strong></p>
+                
+                <p><strong>7:00 p.m. Maple Society Banquet at the Morris Arboretum</strong></p>
+                
+                <p><strong>9:00 p.m. Bus departs for Hotel</strong></p>
+            </div>
+          </li>
+          <li>
+          	<div class="title">
+            	<h3><strong>Saturday, October 25</strong></h3>
+                <p>Post Conference Tour: Tour of Three Private Gardens, including the garden of Ed and Debbie Shinn</p>
+                <p><strong>Details &raquo;</strong></p>
+            </div>
+            <div class="content">
+                <p><strong>8:00 a.m. Bus departs</strong> Hilton Garden Hotel for New Jersey</p> 
+                <p><strong>9:30 a.m.—1:30 p.m.</strong> Ed Shinn, Peter James, and Ron Klein</p>
+                <p><strong>1:30 p.m. Lunch</strong> at Ed and Debbie Shinn’s home</p>
+                <p><strong>3:00 p.m. Bus departs for hotel</strong></p>
+                <p>Dinner on own</p>
+
+            </div>
+          </li>
+          <li>
+          	<div class="title">
+            	<h3><strong>Sunday, October 26</strong></h3>
+                <p>Post Conference Tour: Visit to Chanticleer (a public “pleasure garden” in suburban Philadelphia)</p>
+                <p><strong>Details &raquo;</strong></p>
+            </div>
+            <div class="content">
+                <p><strong>9:30 a.m. Bus departs</strong> Hilton Garden Hotel for Chanticleer</p>
+                <p><strong>10:30 a.m.—12:30 p.m. Tour</strong> in gardens of Chanticleer in Wayne, PA—Lunch following</p>
+                <p><strong>1:00 p.m. Bus departs</strong> Chanticleer to return to Hilton Garden Hotel</p>
+            </div>
+          </li>
+      </ul>
+      <h4><strong> <a href="pdf/Maple-Symposium-2014-program.pdf"><i class="foundicon-page"></i> Click here for a printable PDF brochure</a></strong></h4>
+      
+		<hr>
+        <div class="panel"><h3>Special Thanks</h3><p><em>The Morris Arboretum would like to recognize Chanticleer, A Pleasure Garden, as a co-sponsor of the Symposium.  We would also like to thank the following  for their support: Bob Boyer, Colibraro Landscaping & Nursery, Inc., Jay and Nanie Flaherty, Robert London, Lathrop Nelson, Peter and Bonnie Schorsch, and Joan Biddle.</em></p></div>
+        <h3>Symposium Co-Sponsor:</h3>
+    <p><a href="http://www.chanticleergarden.org/"><img src="images/logo-chanticleer.jpg"></a></p>
+    </div>
+    
+    
+	<div class="two columns push-three">
+    </div>
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-events.html" -->
+  </div>
+    <!-- Reveal -->
+            <div id="aiello" class="reveal-modal">
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="tours"><strong>Anthony S. Aiello</strong><br>
+				<em>The Gayle E. Maloney Director of Horticulture and Curator
+Morris Arboretum of the University of Pennsylvania, USA</em></h3> 
+                <p>Tony has served at the Morris Arboretum since 1999, where he is responsible for managing the historic gardens and living plant collections.  He has participated in plant collecting trips to the Southern Appalachian Mountains, China, and Europe.  Tony received his B.S. in Biology from Cornell University and M.S. in Horticulture from Purdue University.  Since 2000, he has chaired the North America China Plant Exploration Consortium (NACPEC), and has been involved with several committees of the American Public Gardens Association, including the Acer and Quercus curatorial groups and the Plant Taxonomy and Nomenclature Section.  His interests include trees and shrubs from the northern temperate regions, and in particular maples, flowering cherries, magnolias, hollies, and witchhazels.  His other botanical interests include the history of horticulture and economic botany.</p>
+			 	</div>
+             	<div class="four columns"><img src="images/img-headshot-aiello.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="benarcik" class="reveal-modal">
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="tours"><strong>Dan Benarcik</strong><br>
+				<em>Horticulturist, Chanticleer, Wayne, Pennsylvania, USA</em></h3> 
+                <p>A native son of the Delaware Valley, attended The University of Delaware.  Dan has worked at Mount Cuba Center as the Woodspath Gardener, Sales Representative at Imperial Nurseries, and finally as Horticulturist at Chanticleer.  For the last 21 years contributing to the creative team at Chanticleer in seasonal displays of the Courtyard Gardens. A highly regarding speaker, Dan is an avid gardener at home where he gardens with my wife Peggy Anne Montgomery.</p>
+			 	</div>
+             	<div class="four columns"><img src="images/img-headshot-benarcik.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="crowley" class="reveal-modal">
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="tours"><strong>Dan Crowley </strong></h3> 
+                <p>Dendrologist, Westonbirt, The National Arboretum, Tetbury, Gloucestershire, England
+Dan Crowley works as dendrologist at Westonbirt, which is home to UK National Collections of maple species and Japanese maple (Acer palmatum) cultivars.  Dan comes from an arboricultural background and has a foundation degree in arboriculture. He began working at Westonbirt in 2009 as an arborist, being appointed to the role of dendrologist in March 2013. He is a regular contributor to industry publications in the UK and frequently represents Westonbirt on national and regional broadcast media.  Dan is currently undertaking a project to verify trees in the arboretum’s collection to improve the quality of curation at Westonbirt. </p>
+			 	</div>
+             	<div class="four columns"><img src="images/img-headshot-crowley.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="jong" class="reveal-modal">
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="tours"><strong>Piet de Jong</strong><br>
+				<em>Retired, Botanic Gardens of the University of Utrecht and Station for Nursery Stock at Boskoop, The Netherlands</em></h3> 
+                <p>Piet’s research on maples started in 1966 and in 1976 resulted in a thesis titled ‘Sex expression in Acer L. A biosystematic study’. From 1977-1988 he was director of the Botanic Gardens of the University of Utrecht, with special attention for the Von Gimborn Arboretum. In that period he was one of the founders of the Dutch National Plant Collection and made study of the genera Betula and Euonymus.  After Utrecht he became researcher at the Station for Nursery Stock at Boskoop and published on Malus and Tilia.  His interest in maples remained and resulted in co-authoring Maples of the World in 1994 and lectures at former Symposia of the Maple Society. In retirement Piet is still active as volunteer in the Von Gimborn Arboretum with guided tours and growing and selecting plants. Last year he published a book on the Euonymus.</p>
+			 	</div>
+             	<div class="four columns"><img src="images/img-headshot-jong.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="justice" class="reveal-modal">
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="tours"><strong>Douglas Justice </strong><br>
+				<em>Associate Director, Horticulture and Collections at the University of British Columbia Botanical Garden and Centre for Plant Research in Vancouver, British Columbia </em></h3> 
+                <p>Douglas has been at UBC Botanical Garden since January 2000. Along with responsibility for horticulture and the living collections, his duties include management and instruction in the Horticulture Training Program. He teaches plant identification in the Landscape Architecture program at UBC. Throughout his working life, Douglas has been involved with a number of local and international horticultural groups, including the International Plant Propagator’s Society, the American Public Garden Association, the American Rhododendron Society, the Maple Society and the International Dendrology Society. An advocate for trees and the conservation of natural ecosystems, Douglas writes and speaks on a variety of plant-related subjects. He co-authored <em>The Jade Garden: New and Notable Plants from Asia</em> in 2005 with Brent Hine and the late Peter Wharton, and wrote a <em>Field Guide to Ornamental Cherries in Vancouver</em> with volunteers from the Vancouver Cherry Blossom Festival. Douglas’s most recent project is an app entitled Vancouver Trees; Identification and Ecology.</p>
+			 	</div>
+             	<div class="four columns"><img src="images/img-headshot-justice.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="olsen" class="reveal-modal">
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="tours"><strong>Richard Olsen</strong><br>
+				<em>Research Geneticist at the United States National Arboretum, Washington, D.C.</em></h3> 
+                <p>Since 2006, Richard has worn multiple hats at the U.S. National Arboretum, including his current role as Acting Director.  In this capacity, he guides the National Arboretum in its mission to enhance the economic, environmental, and aesthetic value of ornamental and landscape plants through long-term, multi-disciplinary research, conservation of genetic resources, and interpretative gardens and displays.  When not directing, his primary responsibilities are in plant breeding and genetic resources, where he leads urban tree breeding and co-leads the boxwood improvement program.  As lead scientist for plant germplasm program, Richard coordinates collection, characterization, evaluation, and distribution of unique plant genetic resources to researchers, botanical gardens, and industry.</p>
+<p>Richard has a bachelor degree in landscape design (BS, NC State University, 1998), a master degree in horticulture (MS, University of Georgia, 2001) and a doctorate in horticultural science (Ph.D. NC State University, 2006).</p>
+			 	</div>
+             	<div class="four columns"><img src="images/img-headshot-olsen.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="gelderen" class="reveal-modal">
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="tours"><strong>Cor van Gelderen</strong><br>
+				<em>PlantenTuin Esveld, Boskoop, The Netherlands</em></h3> 
+                <p>Cor van Gelderen, born in 1960 in Boskoop to a family business and traditional Boskoop nursery, in the heart of the Dutch nursery industry.  Son of D.M. van Gelderen author of <em>Maples of the World</em>, Cor was fed maples for breakfast, lunch and dinner.  Together with his father he wrote the book Maples for Gardens published by Timber Press and he is now the holder of the Dutch National Plant Collection Maple. The collection of his nursery, Plantentuin Esveld, contains over a thousand different maples, most of which are Japanese.</p>
+			 	</div>
+             	<div class="four columns"><img src="images/img-headshot-gelderen.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

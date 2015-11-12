@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Events</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-big-bugs.jpg" alt="David Rogers Big Bugs"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="nine columns push-three">
+      
+      <div class="row">
+      	<div class="eleven columns">
+        <h2 class="first" style="color:#ff9000;"><strong>Hurry! Exhibit ends August 31</strong></h2>
+        <p><em>Discover Big Bugs all over the garden! Pick up a map at the Visitors Center. 
+Free with admission.</em></p>
+
+		<div class="panel"><h4><strong>Big Bugs Garden Etiquette</strong></h4>
+        <p>The Big Bugs art sculptures are fragile and CAN NOT be climbed on. This rule not only helps to preserve the artwork, but more importantly, is for the safety of our visitors. No-Climb signage has been posted throughout the garden as a reminder and we thank you for your cooperation.</p>
+        <p><strong>Members: </strong><em>We welcome you to be ambassadors for the Arboretum and encourage your support of the 'no-climb' etiquette with newcomers. Thank you!</em></p></div>
+        
+        <p>These amazing ‘bugs’ are the creation of Long Island sculptor, <a href="http://www.big-bugs.com/Artist.html" target="_blank">David Rogers</a>. Made mostly from found materials, primarily trees and plants that have fallen and died, each Big Bug is a unique creation with its own whimsical character. <a href="http://www.big-bugs.com/Artist.html" target="_blank"><strong>Click here to learn more about the artist.</strong></a></p>
+        <p>Visitors will have to explore the entire Morris Arboretum garden to discover them all. The bugs are designed to awe and to educate, reminding us in a big way about the vital role that insects play in the environment, and of their diversity. <em><strong>The Big Bugs by David Rogers exhibit it made possible by the Madeleine K. Butcher Endowment.</strong></em></p>
+        
+        <div class="row">
+        	<div class="four columns">
+            <h4><strong>The Big Bugs:<br>
+            </strong>(click name to learn more)</h4>
+            <ul class="content_list">
+            <li><a href="#" data-reveal-id="antsModal">3 Big Ants</a></li>
+            <li><a href="#" data-reveal-id="assassinModal">1 Assassin Bug</a></li>
+            <li><a href="#" data-reveal-id="dllModal">1 Daddy Long-Legs</a></li>
+            <li><a href="#" data-reveal-id="dragonflyModal">1 Dragon Fly</a></li>
+            <li><a href="#" data-reveal-id="damsalflyModal">1 Damsel Fly</a></li>
+            <li><a href="#" data-reveal-id="grasshopperModal">1 Grasshopper</a></li>
+            <li><a href="#" data-reveal-id="ladybugModal">1 XL Lady Bug</a></li>
+            <li><a href="#" data-reveal-id="mantisModal">1 Praying Mantis</a></li>
+            <li><a href="#" data-reveal-id="spiderModal">1 Spider with web</a></li>
+        	</ul>
+            </div>
+            <div class="eight columns"><br>
+            	<div class="flex-video"><iframe width="670" height="350" src="http://www.youtube.com/embed/f7Nefe43WHk" frameborder="0" allowfullscreen></iframe></div>
+            </div>
+        </div>
+        </div>
+      </div>
+        
+      <br> 
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-events.html" -->
+  </div>
+  <!-- Reveal Modal-->
+  	<div id="antsModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="twelve columns"><h3 class="tours"><strong>Ants (3)</strong></h3>
+             	<p><strong>Dimensions: </strong>25’L x 12’W x 10’H each
+                <br><strong>Weight: </strong>725 lbs. each
+                <br><strong>Materials and Construction: </strong>Body- bent willow on armature / Eyes- carved red cedar
+                <br><strong>Install Crew: </strong>Four people by hand</p>
+                <h3><img src="images/img-bb-ants.jpg" alt="Ant"></h3>
+            	</div>
+            </div><a class="close-reveal-modal">&#215;</a>
+  	</div>
+    <div id="mantisModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="twelve columns"><h3 class="tours"><strong>Praying Mantis</strong></h3>
+             	<p><strong>Dimensions: </strong>18’L x 20’W x 2’Dia.
+                <br><strong>Weight: </strong>1200 lbs.
+                <br><strong>Materials and Construction: </strong>Carved black locust
+                <br><strong>Install Crew: </strong>Minimum of five people, Tractor (lifting equipment), 10’-to-12’ folding ladder</p>
+                <h3><img src="images/img-bb-mantis.jpg" alt="Praying Mantis"></h3>
+            	</div>
+            </div><a class="close-reveal-modal">&#215;</a>
+  	</div>
+    <div id="dragonflyModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="twelve columns"><h3 class="tours"><strong>Dragon Fly</strong></h3>
+             	<p><strong>Dimensions: </strong>17’L x 17’W x 1’ Dia.
+                <br><strong>Weight: </strong>175 lbs.
+                <br><strong>Materials and Construction: </strong>Body- carved red cedar / Wings- willow on armature
+                <br><strong>Install Crew: </strong>Two people by hand</p>
+                <h3><img src="images/img-bb-dragonfly.jpg" alt="Dragon Fly"></h3>
+            	</div>
+            </div><a class="close-reveal-modal">&#215;</a>
+  	 </div>
+     <div id="damsalflyModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="twelve columns"><h3 class="tours"><strong>Damsal Fly</strong></h3>
+             	<p><strong>Dimensions: </strong>10’L x 3’W x 10’H
+                <br><strong>Weight: </strong>100 lbs.
+                <br><strong>Materials and Construction: </strong>Body- carved red cedar / Wings- willow on armature / Perch- black locust
+                <br><strong>Install Crew: </strong>Two people by hand</p>
+                <h3><img src="images/img-bb-damsalfly.jpg" alt="Damsal Fly"></h3>
+            	</div>
+            </div><a class="close-reveal-modal">&#215;</a>
+  	 </div>
+     <div id="spiderModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="twelve columns"><h3 class="tours"><strong>Spider with Web</strong></h3>
+             	<p><strong>Dimensions: </strong>3’L x 4’W x 1’H
+                <br><strong>Weight: </strong>60 lbs.
+                <br><strong>Materials and Construction: </strong>Carved black walnut, Willow on armature
+                <br><strong>Install Crew: </strong>Four people by hand, 20' extension ladder</p>
+                <h3><img src="images/img-bb-spider.jpg" alt="Spider with Web"></h3>
+            	</div>
+            </div><a class="close-reveal-modal">&#215;</a>
+  	 </div>
+     <div id="assassinModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="twelve columns"><h3 class="tours"><strong>Assassin Bug</strong></h3>
+             	<p><strong>Dimensions: </strong>7’L x 7’W x 3.5’H
+                <br><strong>Weight: </strong>150 lbs.
+                <br><strong>Materials and Construction: </strong>Body and legs- carved black walnut / Eyes and sword- carved red cedar
+                <br><strong>Install Crew: </strong>Two people by hand</p>
+                <h3><img src="images/img-bb-assassin.jpg" alt="Assassin Bug"></h3>
+            	</div>
+            </div><a class="close-reveal-modal">&#215;</a>
+  	 </div>
+     <div id="ladybugModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="twelve columns"><h3 class="tours"><strong>XL Lady Bug</strong></h3>
+             	<p><strong>Dimensions: </strong>7’L x 7’W x 3’H
+                <br><strong>Weight: </strong>150 lbs.
+                <br><strong>Materials and Construction: </strong>Body- bent willow on armature / Head, legs and spots- black walnut
+                <br><strong>Install Crew: </strong>Two people by hand</p>
+                <h3><img src="images/img-bb-ladybug.jpg" alt="XL Lady Bug"></h3>
+            	</div>
+            </div><a class="close-reveal-modal">&#215;</a>
+  	 </div>
+     <div id="grasshopperModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="twelve columns"><h3 class="tours"><strong>Grasshopper</strong></h3>
+             	<p><strong>Dimensions: </strong>11’L x 4.5’W x 4’H
+                <br><strong>Weight: </strong>150 lbs.
+                <br><strong>Materials and Construction: </strong>Carved black locust
+                <br><strong>Install Crew: </strong>Two people by hand</p>
+                <h3><img src="images/img-bb-grasshopper.jpg" alt="Grasshopper"></h3>
+            	</div>
+            </div><a class="close-reveal-modal">&#215;</a>
+  	 </div>
+     <div id="dllModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="twelve columns"><h3 class="tours"><strong>Daddy Long-Legs</strong></h3>
+             	<p><strong>Dimensions: </strong>17’L x 17’W x 10’H
+                <br><strong>Weight: </strong>600 lbs.
+                <br><strong>Materials and Construction: </strong>Body- willow on armature / Legs and eyes- red cedar
+                <br><strong>Install Crew: </strong>Four people by hand</p>
+                <h3><img src="images/img-bb-dll.jpg" alt="Daddy Long-Legs"></h3>
+            	</div>
+            </div><a class="close-reveal-modal">&#215;</a>
+  	 </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Explore</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-hgr.jpg" alt="Holiday Garden Railway"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+     <h2 class="first">Garden Railway</h2>
+     <h3><strong>Hours</strong></h3>
+     <p><em>The Garden Railway is now CLOSED for the season and will return on November 27, dressed in its wintery finest! </em></p>
+
+     <!--Summer Description-->
+     <span class="hide"><h3>Summer Garden Railway 2015: <em>Art &amp; Architecture</em></h3>
+     <p>Morris Arboretum has just the ticket to kick off summer – the Grand Opening of the Garden Railway display on Memorial Day weekend, celebrating its 18th year!  This year’s theme "Art & Architecture" will feature miniatures of iconic Philadelphia sculptures and famous lighthouses, to buildings from the last World’s Fair in 1964 and more!</p>
+
+<p>Visitors will experience art such as Rodin’s ‘The Thinker’ to Oldenburg’s ‘Clothes Pin’; marvel at daring architecture including Frank Lloyd Wright’s ‘Fallingwater’ to Thomas Jefferson’s ‘Monticello’;  and delight in the whimsical architecture of roadside attractions such as ‘Randy’s Donuts’ and the ‘Giant Teapot’.  This year’s display will again, surely delight visitors both young and old. </p>     
+      <p><strong>About the Garden Railway</strong><br>
+	  Visitors of all ages will be wowed by a quarter mile of track featuring seven loops and tunnels with fifteen different rail lines and two cable cars, nine bridges (including a trestle bridge you can walk under!), and bustling model trains, all set in the lovely garden of the Morris Arboretum. The display and buildings are all made of natural materials – bark, leaves, twigs, hollow logs, mosses, acorns, dried flowers, seeds and stones – to form a perfectly proportioned miniature landscape complete with miniature rivers. Each building, while an exact replica of the original, is unique in its design. Philadelphia-area landmarks such as a masterpiece replica of Independence Hall are made using pine cone seeds for shingles, acorns as finials and twigs as downspouts. </p>
+      <p><strong>The Garden Railway display is made possible by the generous support of Gwen and Ed Asplundh.</strong> “Gwen and I are very pleased to support the wonderful Garden Railway. Ever since I was a kid, I have loved trains large and small. For years, I had a large train layout in my basement. There is something very special about an outdoor railway, especially the very unusual and beautifully done railway at the Arboretum. I enjoy watching the trains myself, but most of all, I enjoy watching the looks of delight on the faces of the other ‘kids’ young and old.” –Ed Asplundh</p>
+
+      <h2>Garden Railway Events</h2>
+              <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Thomas the Tank Engine  &amp; Friends Weekends</strong> </h3>
+                <p class="first"><strong>
+				Saturday, August 8 and Sunday August 9<br>
+				Saturday, September 12 and Sunday, September 13 </strong> 
+                <em><br>Free with garden admission.</em></p>
+                <p>Come visit the Garden Railway and see Thomas & Friends take over the tracks.</p>
+                </div>
+                <div class="four columns"><br><p><img src="images/ad-thomas-tank.jpg" alt="Garden Railway Thomas the Train Weekend"></p>
+                </div>
+              </div>
+              
+              <hr>
+      <div class="flex-video"><iframe width="1280" height="720" src="https://www.youtube.com/embed/RSJUqYxoHb4?rel=0" frameborder="0" allowfullscreen></iframe>
+      </div>
+      </span>
+	  <!--End Summer Description-->
+       
+      <!--Holiday Description-->
+	  <h3><strong>About the Holiday Garden Railway</strong></h3>
+	  	<p>Visitors of all ages will be wow-ed by a quarter mile of track featuring seven loops and tunnels with fifteen different rail lines and two cable cars, nine bridges (including a trestle bridge you can walk under), and bustling model trains, all set in the lovely winter garden of the Morris Arboretum. The display and buildings are all made of natural materials – bark, leaves, twigs, hollow logs, mosses, acorns, dried flowers, seeds and stones – to form a perfectly proportioned miniature landscape complete with small streams. Each building, while an exact replica of the original, is unique in its design. Philadelphia-area landmarks such as a masterpiece replica of Independence Hall are made using pinecone seeds for shingles, acorns as finials and twigs as downspouts.</p>
+        <p>The buildings are all meticulously decorated for the holidays with lights that twinkle along the tracks and around the surrounding landscape. The Garden Railway Display has become one of the Arboretum’s most beloved attractions since it opened in 1998, and the Holiday Garden Railway is quickly becoming a favorite holiday tradition for many families.</p>
+        <p><strong>The Garden Railway display is made possible by the generous support of Gwen and Ed Asplundh.</strong> “Gwen and I are very pleased to support the wonderful Garden Railway. Ever since I was a kid, I have loved trains large and small. For years, I had a large train layout in my basement. There is something very special about an outdoor railway, especially the very unusual and beautifully done railway at the Arboretum. I enjoy watching the trains myself, but most of all, I enjoy watching the looks of delight on the faces of the other ‘kids’ young and old.” –Ed Asplundh</p>
+      <hr>
+      <h3><strong>Railway Hours</strong></h3>
+      <p>
+	  <strong>November 27 - January 3:</strong>  10:00am - 4:00pm</p>
+      <p>Closed December 24, 25, and January 1. <span class="red" style="margin-top:5px; line-height:14px;"><a href="#" data-reveal-id="weatherModal">Check for weather closings.</a></span>
+</p>
+      <hr>
+      <h2>Railway Special Events</h2>
+      	<div class="row">
+          <div class="eight columns">
+          <h3 class="first"><strong>Holiday Garden Railway Grand Opening</strong> </h3>
+          <p class="first"><strong>SATURDAY, NOVEMBER 28 | 1:00 - 3:00pm<br>
+		  <em>Free with garden admission.</em></strong></p>
+          <p>Come see the Holiday Garden Railway dressed in its wintry finest!  Take part in a fun craft for the kids and enjoy the winter garden.</p>
+           </div>
+           <div class="four columns"><br><p><img src="images/ad-hgr-opening.jpg" alt="Holiday Garden Railway"></p>
+           </div>
+         </div>
+         <hr>     
+         <a id="fnl"></a>
+		 <div class="row">
+            <div class="eight columns">
+            <h3 class="first"><strong>Friday Night Lights</strong> </h3>
+            <p class="first"><strong>FRIDAYS, DECEMBER 4, 11, &amp; 18 | 4:30 - 7:30pm</strong> 
+            <em><br>Tickets will be available to purchase through TicketLeap starting in November.  Ticket prices:  Member adult $9, Member child $3, Non-member adult $16, Non-member child $8</em></p>
+            <p>Enjoy the Holiday Garden Rail all lit up and decorated for the season.  White lights sparkle along the rails and miniature greens adorn the buildings.</p>
+            
+            </div>
+            <div class="four columns"><br><p><img src="images/ad-friday-night-lights.jpg" alt="Friday Night Lights"></p>
+            </div>
+          </div>
+          <link href="https://widgets.ticketleap.com/v2/widget.css" media="screen" rel="stylesheet" type="text/css" /><script src="https://widgets.ticketleap.com/v2/widget.js" type="text/javascript"></script><div id="tl-widget-wrapper-71c955c3-bec4-4128-8a45-56aadcef5eea"><script type="text/javascript">tl_widget.update_widget("https://morrisarboretum.ticketleap.com/widget/v2/t/FNL15web/", "71c955c3-bec4-4128-8a45-56aadcef5eea", "events=fri-night-lights&tracking_code=FNL15web&accent_color=#005847");</script><!--[if IE 6]><div style="display:none"><![endif]--><div style="width: 100%; display: table; height: 200px;"><div style="display: table-cell; vertical-align: middle; text-align: center;"><img src="https://widgets.ticketleap.com/v2/loading.gif" /></div></div><!--[if IE 6]></div><![endif]--></div><input type="hidden" id="tl-show-event-name-71c955c3-bec4-4128-8a45-56aadcef5eea" name="tl-show-event-name-71c955c3-bec4-4128-8a45-56aadcef5eea" value="false"><input type="hidden" id="tl-show-event-location-71c955c3-bec4-4128-8a45-56aadcef5eea" name="tl-show-event-location-71c955c3-bec4-4128-8a45-56aadcef5eea" value="false"><input type="hidden" id="tl-show-event-dates-71c955c3-bec4-4128-8a45-56aadcef5eea" name="tl-show-event-dates-71c955c3-bec4-4128-8a45-56aadcef5eea" value="false">
+       <hr>
+       <br>
+      <div class="flex-video"><iframe width="1280" height="720" src="//www.youtube.com/embed/iOcY21X5XXE?rel=0" frameborder="0" allowfullscreen></iframe>
+      </div>
+     <!--End Holiday Description-->
+      
+                     
+      
+      <!--Old GR Video--><span class="hide"><iframe width="560" height="315" src="//www.youtube.com/embed/lHiV35crSRs?rel=0" frameborder="0" allowfullscreen></iframe></span>
+           
+
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-visit.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-gardens.html" -->
+  </div>
+  
+   <div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

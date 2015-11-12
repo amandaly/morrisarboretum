@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Events</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-family-events.jpg" alt="Family Fun at Morris Arboretum"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+        <h2 class="first">Events for Kids &amp; Families</h2><br> 
+        <dl class="tabs three-up">
+          <dd class="active"><a href="#simpleContained1">NOVEMBER</a></dd>
+          <dd><a href="#simple2">DECEMBER</a></dd>
+          <dd><a href="#simple3">JANUARY</a></dd>
+        </dl>
+        
+        <ul class="tabs-content">
+          <li class="active" id="simpleContained1Tab"> 
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Storytime (Ages 1-5)</strong> </h3>
+                <p class="first"><strong>FRIDAY, NOVEMBER 6 | 10:30 - 11:00am</strong> 
+                <em><br>Registration required. Free for members; non-members free with garden admission.</em></p>
+                <p>Join us for fun and engaging reading sessions with local librarians. Each session is tailored to the changing seasons and complements the natural setting of the Arboretum. Storytime is held outdoors in nice weather, at the Outdoor Children's Classroom, next to the Widener Visitor Center. In the case of inclement weather, Storytime is held in the Upper Gallery at the Visitor Center. </p>
+                </div>
+                <div class="four columns"><br><p><a href="https://online.morrisarboretum.org/growingminds#storytime"><img src="images/ad-storytime.jpg" alt="Storytime"></a></p>
+                <p><a href="https://online.morrisarboretum.org/growingminds#storytime" class="button small">Register Now</a></p> 
+                </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Storytime (Ages 1-5)</strong> </h3>
+                <p class="first"><strong>FRIDAY, NOVEMBER 20 | 10:30 - 11:00am</strong> 
+                <em><br>Registration required. Free for members; non-members free with garden admission.</em></p>
+                <p>Join us for fun and engaging reading sessions with local librarians. Each session is tailored to the changing seasons and complements the natural setting of the Arboretum. Storytime is held outdoors in nice weather, at the Outdoor Children's Classroom, next to the Widener Visitor Center. In the case of inclement weather, Storytime is held in the Upper Gallery at the Visitor Center. </p>
+                </div>
+                <div class="four columns"><br><p><a href="https://online.morrisarboretum.org/growingminds#storytime"><img src="images/ad-storytime.jpg" alt="Storytime"></a></p>
+                <p><a href="https://online.morrisarboretum.org/growingminds#storytime" class="button small">Register Now</a></p> 
+                </div>
+              </div>
+              <hr>
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Holiday Garden Railway Grand Opening</strong> </h3>
+                <p class="first"><strong>SATURDAY, NOVEMBER 28 | 1:00 - 3:00pm<br>
+				<em>Free with garden admission.</em></strong></p>
+                <p>Come see the Holiday Garden Railway dressed in its wintry finest!  Take part in a fun craft for the kids and enjoy the winter garden.</p>
+                </div>
+                <div class="four columns"><br><p><img src="images/ad-hgr-opening.jpg" alt="Holiday Garden Railway"></p>
+                </div>
+              </div> 
+             </li>
+             
+             <li id="simple2Tab">
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Holiday Garden Railway</strong> </h3>
+                <p class="first"><strong>SATURDAY, NOVEMBER 28 - SUNDAY, JANUARY 3 | All Day<br>
+				<em>Free with garden admission.</em></strong></p>
+                <p>Come see the Holiday Garden Railway dressed in its wintry finest! </p>
+                </div>
+                <div class="four columns"><br><p><img src="images/ad-hgr.jpg" alt="Holiday Garden Railway"></p>
+                </div>
+              </div> 
+              <hr>
+			  <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Friday Night Lights</strong> </h3>
+                <p class="first"><strong>FRIDAYS, DECEMBER 4, 11, &amp; 18 | 4:30 - 7:30pm</strong> 
+                <em><br>Advanced tickets required. Ticket prices:  Member adult $9, Member child $3, Non-member adult $16, Non-member child $8</em></p>
+                <p>Enjoy the Holiday Garden Rail all lit up and decorated for the season.  White lights sparkle along the rails and miniature greens adorn the buildings.</p>
+                </div>
+                <div class="four columns"><br><p><img src="images/ad-friday-night-lights.jpg" alt="Friday Night Lights"></p>
+                <p align="center"><a href="http://morrisarboretum.ticketleap.com/fri-night-lights/t/FNL15web/" class="button small">Get Tickets</a></p>
+                </div>
+              </div> 
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Holiday Concert with the Penn Glee Club</strong> </h3>
+                <p class="first"><strong>SATURDAY, DECEMBER 5 | 2:00 - 3:00pm<br>
+				<em>Free with garden admission.</em></strong></p>
+                <p>A winter tradition, the Penn Glee Club will return to Morris Arboretum on Saturday, December 5th for their sixth annual holiday concert. Come and enjoy the Glee Club’s fun and diverse holiday repertoire while enjoying hot cocoa and cookies in the garden.</p>
+                </div>
+                <div class="four columns"><br><p><img src="images/ad-glee-club.jpg" alt="Penn Glee Club Concert"></p>
+                </div>
+              </div> 
+              <hr>
+			  <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Storytime (Ages 1-5)</strong> </h3>
+                <p class="first"><strong>FRIDAY, DECEMBER 11 | 10:30 - 11:00am</strong> 
+                <em><br>Registration required. Free for members; non-members free with garden admission.</em></p>
+                <p>Join us for fun and engaging reading sessions with local librarians. Each session is tailored to the changing seasons and complements the natural setting of the Arboretum. Storytime is held outdoors in nice weather, at the Outdoor Children's Classroom, next to the Widener Visitor Center. In the case of inclement weather, Storytime is held in the Upper Gallery at the Visitor Center. </p>
+                </div>
+                <div class="four columns"><br><p><a href="https://online.morrisarboretum.org/growingminds#storytime"><img src="images/ad-storytime.jpg" alt="Storytime"></a></p>
+                <p><a href="https://online.morrisarboretum.org/growingminds#storytime" class="button small">Register Now</a></p> 
+                </div>
+              </div> 
+              <hr>
+			  <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Storytime (Ages 1-5)</strong> </h3>
+                <p class="first"><strong>FRIDAY, DECEMBER 18 | 10:30 - 11:00am</strong> 
+                <em><br>Registration required. Free for members; non-members free with garden admission.</em></p>
+                <p>Join us for fun and engaging reading sessions with local librarians. Each session is tailored to the changing seasons and complements the natural setting of the Arboretum. Storytime is held outdoors in nice weather, at the Outdoor Children's Classroom, next to the Widener Visitor Center. In the case of inclement weather, Storytime is held in the Upper Gallery at the Visitor Center. </p>
+                </div>
+                <div class="four columns"><br><p><a href="https://online.morrisarboretum.org/growingminds#storytime"><img src="images/ad-storytime.jpg" alt="Storytime"></a></p>
+                <p><a href="https://online.morrisarboretum.org/growingminds#storytime" class="button small">Register Now</a></p> 
+                </div>
+              </div>
+              
+             <li id="simple3Tab">
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Holiday Garden Railway</strong> </h3>
+                <p class="first"><strong>THROUGH SUNDAY, JANUARY 3 | All Day<br>
+				<em>Free with garden admission.</em></strong></p>
+                <p>Come see the Holiday Garden Railway dressed in its wintry finest! </p>
+                </div>
+                <div class="four columns"><br><p><img src="images/ad-hgr.jpg" alt="Holiday Garden Railway"></p>
+                </div>
+              </div> 
+             </li>
+            </ul>
+        
+
+       
+        <br>
+       
+    <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        <br>  
+        
+    </div>
+    <!-- Nav Sidebar -->
+    <!--#include virtual="elements/sidebar-events.html" -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+    <!--#include virtual="elements/subnav-events.html" -->
+</div>
+
+  <!--Reveal Modal-->
+
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

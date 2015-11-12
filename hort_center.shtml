@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Explore</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"><img src="images/img-header-hort-center.jpg"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">LEED<sup>&reg;</sup> Platinum Certified 
+Horticulture Center</h2>
+		<blockquote>Conserving natural resources to build a sustainable future.</blockquote>
+      	<p>This 20,840-square foot facility provides work space for the Arboretum’s horticulture, public programs, and facility staff. The new space provides the infrastructure needed to match the tremendous growth the Arboretum has experienced over the past 30 years and to address future expansion of the institution.  The “green” elements of the Horticulture Center serve an even greater function, through providing unique opportunities to educate the public about the importance of protecting our natural resources.  </p>
+      	<p><em>The Horticulture Center is not open to the general public to visit without a class, tour, or event scheduled in advance.</em> The general public is welcome and encouraged to schedule a prearranged visit to see the eco-friendly structure.</p>
+
+      <div class="flex-video"><iframe width="560" height="315" src="http://www.youtube.com/embed/GutUg3FU2ak" frameborder="0" allowfullscreen></iframe></div>
+	  <hr>
+
+      <h3><strong>LEED<sup>&reg;</sup> Certification</strong></h3>
+      <p>The Horticulture Center was designed in accordance with the Leadership in Energy and Environmental Design (LEED<sup>&reg;</sup>) Green Building Rating System, which provides a standardized approach to environmentally sustainable construction. The Arboretum is committed to “raising the bar” for itself as well as for the wider community; as such, it has achieved the highest level of LEED® Certification, Platinum, for the Horticulture Center project.  </p>
+      <hr>
+      <h3><strong>Sustainability Overview</strong></h3>
+        <p>The following features of the Horticulture Center demonstrate  Morris Arboretum’s dedication to environmental stewardship, through reducing the Arboretum’s carbon footprint, engaging in sustainability best practices and qualifying for the LEED<sup>&reg;</sup> Platinum Certification.</p> 
+
+    <p><strong>Geothermal Wells:</strong> An efficient ground-source heat pump provides heating and air conditioning for the building, using only about 1/4 the energy of a typical boiler/air conditioning system.</p>
+
+    <p><strong>Green Roof:</strong> Green roofs on the garages will help moderate the temperature of the building, capture and store storm water, reduce carbon dioxide and provide beautiful view for staff and visitors.</p>
+
+    <p><strong>Solar Energy:</strong> Photovoltaic panels will provide on-site generation of renewable energy, with peak electricity production during the hot summer months when the demand for electrical power is highest.</p>
+
+    <p><strong>Air Quality:</strong> The building will be well insulated to eliminate infiltration of outside air and reduce the energy lost through the walls.</p>
+
+    <p><strong>Lighting:</strong> The building’s lighting system is designed to take full advantage of natural daylight and minimize energy use by using skylights and roof monitors to supplement artificial lighting.</p> 
+
+    <p><strong>Water Cisterns:</strong> To reduce water usage, rain runoff from the building will be collected in cisterns for use in irrigation and in lavatories.</p>
+
+    <p><strong>Recycling Construction Material: </strong>40% of the building materials used in construction was regionally sourced, recycled or salvaged.</p>
+    <hr>
+    <h3>Horticulture Center and Green Roofs Tours</h3>
+    	<div class="row">
+             	<div class="eight columns">
+             	<p><strong>Duration: 60 minutes</strong><br><br>The Horticulture Center is not open to the general public to visit without a class, tour, or event scheduled in advance. The general public is welcome and encouraged to schedule a prearranged visit to see the eco-friendly structure. Tours are from the ground only.</p>
+             	<p><strong>For more information or to schedule a tour contact:</strong> Lisa Bailey 215.247.5777 ext.157 or email: <a href="mailto:baileyl@upenn.edu">baileyl@exchange.upenn.edu</a></p></div>
+                <div class="four columns"><img src="images/tours/tour-hc.jpg">
+                </div>
+             </div>
+
+    
+
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-buildings.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-gardens.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

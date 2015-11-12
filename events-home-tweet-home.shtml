@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Events</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-hth.jpg" alt="Home Tweet Home"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="seven columns push-three">
+      <h2 class="first"><em>Home Tweet Home</em> 
+		<small>Designer Birdhouses on Display</small></h2>
+        <h3>Now - September 1</h3>
+        <p>Over 20 designer birdhouses placed throughout Morris Arboretum’s 92-acre garden. </p>
+        <p><em>Birdhouses may be available for purchase, please contact the artist directly for more information.
+</em></p>
+		<p><a href="pdf/Map-Home-tweet-home.pdf" target="_blank" class="medium radius button"><strong>Get the Guide</strong></a></p><br>
+          <ul class="block-grid four-up mobile-two-up">
+          	<li><a href="#" data-reveal-id="burke"><img src="images/birdhouse-tburke1.jpg"><p style="font-size:12px; line-height:1.2em;">Thomas Burke <br><em>John Chads’ House</em></p></a></li>
+          	<li><a href="#" data-reveal-id="gayman"><img src="images/birdhouse-mgayman.jpg">	<p style="font-size:12px; line-height:1.2em;">Murrie Gayman <br><em>The Beethoven Birdhouse</em></p></a></li>
+          	<li><a href="#" data-reveal-id="cahill"><img src="images/birdhouse-jomlorcahill.jpg"><p style="font-size:12px; line-height:1.2em;">Joanna Omlor Cahill <br><em>The Rusted Aviary</em></p></a></li>
+          	<li><a href="#" data-reveal-id="mcnutt"><img src="images/birdhouse-dmcnutt.jpg">
+          	<p style="font-size:12px; line-height:1.2em;">Devin McNutt,<em> Saffron Creations</em><br> 
+       	    <em>A Nest for Kinnaris</em></p></a></li>
+          	<li><a href="#" data-reveal-id="auth"><img src="images/birdhouse-aauth.jpg"><p style="font-size:12px; line-height:1.2em;">Alison Auth <br><em>Nena</em></p></a></li>
+          	<li><a href="#" data-reveal-id="burke"><img src="images/birdhouse-tburke2.jpg"><p style="font-size:12px; line-height:1.2em;">Thomas Burke <br> <em>Canitoe Corners, Martha Stewart’s home in Bedford, NY</em></p></a></li>
+          	<li><a href="#" data-reveal-id="bass"><img src="images/birdhouse-jbass.jpg"><p style="font-size:12px; line-height:1.2em;">Jacob Bass <br> <em>Bluebird Box</em></p></a></li>
+          	<li><a href="#" data-reveal-id="brosius"><img src="images/birdhouse-hbrosius.jpg"><p style="font-size:12px; line-height:1.2em;">Howard Brosius <br> <em>Green roof Quadraplex</em></p></a></li>
+            <li><a href="#" data-reveal-id="burke"><img src="images/birdhouse-tburke3.jpg"><p style="font-size:12px; line-height:1.2em;">Thomas Burke <br><em>Inspired by Andrew Wyeth’s 'Goodbye My Love'</em></p></a></li>
+          	<li><a href="#" data-reveal-id="burke"><img src="images/birdhouse-tburke4.jpg"><p style="font-size:12px; line-height:1.2em;">Thomas Burke <br><em>Inspired by Andrew Wyeth’s 'Christina's World'</em></p></a></li>
+          	<li><a href="#" data-reveal-id="burke"><img src="images/birdhouse-tburke5.jpg"><p style="font-size:12px; line-height:1.2em;">Thomas Burke <br><em>Inspired by Andrew Wyeth’s 'Evening at Kuerners'</em></p></a></li>
+          	<li><a href="#" data-reveal-id="kaufman"><img src="images/birdhouse-rkaufman.jpg"><p style="font-size:12px; line-height:1.2em;">Rachel Kaufman<br> <em>House of Blues</em></p></a></li>
+          	<li><a href="#" data-reveal-id="carraz"><img src="images/birdhouse-ecarraz.jpg"><p style="font-size:12px; line-height:1.2em;">Estelle Carraz-Bernabei <br> <em>Nature's Miracle</em></p></a></li>
+          	<li><a href="#" data-reveal-id="hawkes"><img src="images/birdhouse-jhawkes.jpg"><p style="font-size:12px; line-height:1.2em;">Jennifer Hawkes<br><em>Woodsy Hollow</em></p></a></li>
+          	<li><a href="#" data-reveal-id="orr"><img src="images/birdhouse-aorr.jpg"><p style="font-size:12px; line-height:1.2em;">Amy Orr<br><em>The Urban Weaver Nest</em></p></a></li>
+          	<li><a href="#" data-reveal-id="burke"><img src="images/birdhouse-tburke6.jpg"><p style="font-size:12px; line-height:1.2em;">Thomas Burke <br><em>The Clubhouse at Augusta National (Home of the Masters Golf Tournament)</em></p></a></li>
+          	<li><a href="#" data-reveal-id="aument"><img src="images/birdhouse-raument.jpg"><p style="font-size:12px; line-height:1.2em;">Ralph Aument<br> <em> The Silo</em></p></a></li>
+            <li><a href="#" data-reveal-id="buono"><img src="images/birdhouse-fbuono.jpg"><p style="font-size:12px; line-height:1.2em;">Frank Buono<br> <em>Sweet Retreat</em></p></a></li>
+            <li><a href="#" data-reveal-id="crooked"><img src="images/birdhouse-crookedworks.jpg"><p style="font-size:12px; line-height:1.2em;">Crooked Works<br> <em>Toss!</em></p></a></li>
+          	<li><a href="#" data-reveal-id="drobinson"><img src="images/birdhouse-drobinson.jpg"><p style="font-size:12px; line-height:1.2em;">David Robinson<br> <em>Big Log Chalet</em></p></a></li>
+          	<li><a href="#" data-reveal-id="psco"><img src="images/birdhouse-psco.jpg"><p style="font-size:12px; line-height:1.2em;">Philadelphia Salvage Company <br> <em>Casa Recuperada</em></p></a></li>
+          	<li><a href="#" data-reveal-id="jones"><img src="images/birdhouse-jhurdjones.jpg"><p style="font-size:12px; line-height:1.2em;">John Hurd Jones<br> <em>Shaman of the Woods</em></p></a></li>
+          	<li><a href="#" data-reveal-id="austmer"><img src="images/birdhouse-austinmergold.jpg"><p style="font-size:12px; line-height:1.2em;">Austin + Mergold LLC<br> <em>The Finch Stable, from Domus Avicus Philadelphicus</em></p></a></li>
+          	<li><a href="#" data-reveal-id="goats"><img src="images/birdhouse-shadyapplegoats.jpg"><p style="font-size:12px; line-height:1.2em;">Shady Apple Goats<br> <em>Lost and Found</em></p></a></li>
+            <li><a href="#" data-reveal-id="lisk"><img src="images/birdhouse-plisk.jpg"><p style="font-size:12px; line-height:1.2em;">Penelope Lisk<br> <em>Reach for the Birds</em></p></a></li>
+            <li><a href="#" data-reveal-id="trust"><img src="images/birdhouse-naturallands1.jpg"><p style="font-size:12px; line-height:1.2em;">Natural Lands Trust<br><em>Barred Owl Box</em></p></a></li>
+            <li><a href="#" data-reveal-id="trust"><img src="images/birdhouse-naturallands2.jpg"><p style="font-size:12px; line-height:1.2em;">Natural Lands Trust<br><em>Eastern Screech Owl Box</em></p></a></li>
+            <li><a href="#" data-reveal-id="trust"><img src="images/birdhouse-naturallands3.jpg"><p style="font-size:12px; line-height:1.2em;">Natural Lands Trust<br><em>Bluebird Box</em></p></a></li>
+            <li><a href="#" data-reveal-id="jrobinson"><img src="images/birdhouse-jrobinson.jpg"><p style="font-size:12px; line-height:1.2em;">Joe Robinson<br> <em>Birdbrain Birdhouse</em></p></a></li>
+          </ul>
+       <div class="row panel">
+        <div class="eight columns"><h3 class="first">Preview the Exhibit with NEWSWORKS!</h3>
+       <p><a href="http://www.newsworks.org/index.php/arts-culture/item/70018-morris-arboretum-birdhouses-strictly-for-the-people&linktype=dsf_share" target="_blank">Click here to view the slideshow and story by Peter Crimmins</a></p></div>
+       <div class="four columns"><img src="images/img-birds-newsworks.jpg" alt="Newsworks Birdhouses"></div>
+       </div>
+          
+      <br> 
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <div class="two column push-three"></div>
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-events.html" -->
+  </div>
+  
+  		  <div id="burke" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Thomas Frazer Burke</strong></h3>
+                <p><strong>Birdhouses:</strong> <em>John Chads’ House,  Canitoe Corners - Martha Stewart’s home in Bedford, NY, Inspired by Andrew Wyeth’s Christina’s World, Inspired by Andrew Wyeth’s Goodbye, My Love, Inspired by Andrew Wyeth’s Evening at Kuerners, The Clubhouse at Augusta National, home of the Masters Golf Tournament</em></p>
+             	<p><strong>Artist Bio: </strong>Tom Burke spent 25 years building custom homes with his father in Delaware. He still builds houses but now his business card reads: “Builder of Fine Bird Homes.”</p>
+                <p>Burke combines his craftsman’s skills with an artistic bent to create replicas of historic buildings or a client’s home. “These birdhouses are whimsical, not architectural reproductions,” says Burke, whose custom work can be spotted in yards all around Wilmington.</p>
+                <p>From a workshop in the basement of his Delaware Avenue condo building, Burke has been crafting birdhouses that are as impressive as the homes they replicate. The bird that nests in one of his multi-room creations may enjoy features such as a Palladian window, cedar-shingle roof, or clapboard siding.</p>
+                <p><strong>Contact: </strong><a href="mailto:tom@tfburkebirdhomes.com">tom@tfburkebirdhomes.com</a></p>
+                <p><strong>Website: </strong><a href="http://www.tfburkebirdhomes.com" target="_blank">www.tfburkebirdhomes.com</a></p></div>
+             	<div class="four columns"><img src="images/birdhouse-tburke2.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="aument" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Ralph Aument</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>The Silo (Log Cabin area)</em></p>
+                <p><strong>Materials:</strong>  pine, oak, mahogany, copper, tin, and a repurposed funnel.  I usually build with whatever materials I have available on my workbench.</p>
+                <p><strong>Artist Bio:</strong> Ralph Aument, of New Castle, Delaware, has been designing and building birdhouses for family and friends for over thirty years.  This silo birdhouse is a recent design.</p>
+                <p><strong>Contact: </strong><a href="mailto:raument@aol.com">raument@aol.com</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-raument.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="auth" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Alison Auth </strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Nena, a Birdtique</em></p>
+                <p><strong>Materials:</strong> Metal Candle Base, Porch Column, 50’s Drawer Pull, wire, TOTC ceiling tin, cast iron knob, address number.  Nena is Spanish for “baby/darling”.  This birdhouse was designed for a Carolina wren or tufted titmouse. </p>
+                <p><strong>Artist Bio:</strong> Alison Auth is a freelance artist and designer working in Richmond, Virginia. After years in the film industry, she opened a scenery company specializing in set design and unusual prop construction. She began restoring homes with her first house at age 24 and continues to this day, in addition to providing prop design and construction services to the advertising industry. Alison is also a regular contributor to Birds & Blooms magazine where she creates bird and garden art out of household cast-offs. She began making “Birdtiques” as a natural expression of her love for birds, houses, and architectural salvage. She and her husband Tim and teenage daughter Maddy live and work on their 4 acre homestead in the heart of Virginia’s capital city.</p>
+                <p><strong>Contact: </strong><a href="mailto:alison@remade.biz">alison@remade.biz</a><br>
+				<strong>Website:</strong> <a href="http://www.remade.biz/birdtiques.html" target="_blank">www.remade.biz/birdtiques.html</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-aauth.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>  
+          
+          <div id="austmer" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Austin + Mergold LLC</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>The Finch Stable, from Domus Avicus Philadelphicus</em></p>
+                <p><strong>Artist Bio:</strong> Austin + Mergold is an architecture, landscape and design practice located in Philadelphia and Upstate NY.  Domus Avicus Philadelphicus endeavors to draw aviary urban habitats into the public eye by creating urban bird shelters, inspired by Philadelphia’s iconic rowhomes.  We aim to have the public ponder the life of their fellow urban inhabitants – the birds – and how the functions of avian habitats – dry, sheltered, and well-ventilated spaces - are similar to that of our own.  The Domus Avicus birdhouses highlight the existence of an often-overlooked urban eco-system and support the need to protect and provide for Philadelphia’s native wildlife.</p>
+                <p><strong>Website: </strong><a href="http://www.austin-mergold.com" target="_blank">www.austin-mergold.com</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-austinmergold.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="bass" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Jacob Bass</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Bluebird Box</em></p>
+                <p><strong>Artist Bio:</strong> Jacob has been volunteering at the Arboretum for the Garden Railway since he was eight years old.  Now a junior at Central High School in Philadelphia, he is working this year on a bluebird conservation project at the Arboretum.  This project has been undertaken to fulfill a requirement of his pursuit of Eagle Scout ranking.  Look for the other boxes built by Jacob and his volunteer helpers around the Arboretum.</p>
+                <p><em>Look for the other boxes around the Arboretum built by Jacob and his volunteer helpers which included including his fellow members from Boy Scouts of America Troop #665 from Dresher, PA.</em></p>
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-jbass.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="brosius" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Howard Brosius</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Green Roof Quadraplex</em></p>
+                <p><strong>Materials:</strong> The birdhouse is a quadraplex for four families of birds. It has a green roof which keeps the birds cool in the summer and warm in the winter.  It is hand made with western red cedar and filled with a porous soil mixture.  It is sturdy and makes a unique decorative feature in the garden.</p>
+                <p><strong>Artist Bio:</strong> Howard Brosius is Executive Director of Chipping Hill Micro Farms (CHMF), a nonprofit which aims to teach children about growing food through direct interaction with soil, herbs, flowers and vegetables.   CHMF currently produces food and offers garden and nutrition curriculum at seven Philadelphia daycare and community organizations.   Due to consistent instruction (and delicious veggies), demand for the Micro Farms and hands-on nutrition education has grown.  Parents report that their kids now ask for “celery boats” and lettuce wraps at home.  Howard also builds green roof bird houses to acquaint the children with nature and environmental studies.  The birdhouses are also sold to individuals, garden centers, and public gardens to generate revenue to support CHMF’s inner city classes. </p>
+                <p><strong>Website:</strong> <a href="http://www.chippinghillmicrofarms.org" target="_blank">www.chippinghillmicrofarms.org</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-hbrosius.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="buono" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Frank Buono</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Sweet Retreat</em></p>
+                <p><strong>Materials:</strong> The birdhouse is made from Western Red Cedar and the roof is a heavy gauge of copper. </p>
+                <p><strong>Artist Bio:</strong> I am a self-employed carpenter/woodworker.  I’ve built my own pond, landscaped my yard and worked for a boat builder.  I have many hobbies including biking, fishing, model trains, and I enjoy making and fixing things. I always have a project in mind.  I love my business and customers/friends and my Labrador retriever "Cricket".   I’m crazy about the outdoors, woods, and the Jersey shore.  </p>
+                <p><strong>Contact: </strong><a href="mailto:mudgully2@hotmail.com">mudgully2@hotmail.com</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-fbuono.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="cahill" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Joanna Omlor Cahill</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>The Rusted Aviary</em></p>
+                <p><strong>Materials:</strong> Made from recycled tin roof, bailing wire & copper moss with an industrial perch; The Rusted Aviary is meant to provide shelter while still allowing exposure to a natural environment. The design of this birdhouse was inspired by the look and feel of a bird's nest.</p>
+                <p><strong>Artist Bio:</strong>I am a wife, mother to 2 girls and a full time greeting card and social stationery artist. I'm also a scavenger for things in nature or multiples of different kinds. I love taking various elements and re-purposing them into functional art. </p>
+                <p><strong>Contact:</strong> <a href="mailto:artdesignpaper@gmail.com">artdesignpaper@gmail.com</a></p>
+                <p><strong>Website:</strong> <a href="http://www.artdesignpaper.com" target="_blank">www.artdesignpaper.com</a></p>
+                <p><strong>Etsy Shop:</strong><a href="http://www.etsy.com/shop/joannaomlorcahill" target="_blank">www.etsy.com/shop/joannaomlorcahill</a></p>
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-jomlorcahill.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="carraz" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Estelle Carraz-Bernabei</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Nature’s Magic</em></p>
+                <p><strong>Materials:</strong>  Made with moss, sea glass, branches, quartz crystal, twigs and a little honeybee.  My daughter Ciel's love of mythical magical worlds inspired me. An enchanted realm, nature's magic, a lush forest and faraway dreams create this birdhouse sanctuary.</p>
+                <p><strong>Artist Bio: </strong>Energy, emotion and organic cosmic elements are subjects I really deliberate over. My work has always been about tapping into the free spirit within. The earth and sky elements are the main focus. I want others to see the energy I feel.  I see beauty in the simplest things in life; the wonderful magic of nature and cosmos that surround us.</p>
+                <p><strong>Website: </strong> <a href="http://www.earthenskyonline.com" target="_blank">www.earthenskyonline.com</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-ecarraz.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="crooked" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Crooked Works</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Toss!</em></p>
+                <p><strong>Materials:</strong>  Salvaged chicken wire and salvaged bike tire tubes.  Designed to be tossed into the air to be slung over wires, tree limbs or other projecting urban infrastructures.</p>
+                <p><strong>Artist Bio: </strong>Crooked Works is an architecture-design-build firm in New Orleans, LA, and Amherst, MA. The firm’s projects address the tough issues of urban identity, food security, and environmental stewardship. With every design solution, the firm aims to remap the comfort zone, offering up experiential delight and intelligent relationships for better urban living.</p>
+                <p><strong>Website: </strong> <a href="http://www.crookedworks.com" target="_blank">www.crookedworks.com</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-crookedworks.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="gayman" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Murrie Gayman</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>The Beethoven Birdhouse</em></p>
+                <p><strong>Materials:</strong>  Pine and cedar</p>
+                <p><strong>Artist Bio: </strong>Pennsylvania artist/craftsman Murrie Gayman owns Barnwood Murals.  He designs, creates and installs dramatic works of art in public spaces.   His murals are custom designed and crafted of weathered wood in components that can be assembled anywhere in the United States or abroad, in any size. Gayman’s barn-wood mosaics combine many of the elements that the artist is passionate about – drawing, painting, woodworking, folk art, history and set design.</p>
+                <p><em>I couldn’t resist a chance to combine design, woodworking, humor, and a love of birds and music.  Or to work again with the great people at Morris Arboretum.</em></p>
+                <p><strong>Contact: </strong><a href="mailto:greenside@comcast.net">greenside@comcast.net</a></p>
+                <p><strong>Website: </strong> <a href="http://www.barnwoodmurals.com" target="_blank">www.barnwoodmurals.com</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-mgayman.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="hawkes" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Jennifer Hawkes</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Woodsy Hollow</em></p>
+                <p><strong>Materials:</strong>  bark, branches, lichen, metal, wood and cardboard</p>
+                <p><strong>Artist Bio: </strong><em>My birdhouse was inspired by walks in the Wissahickon/Valley Green trails with my dog this winter. The celadon green lichen looked beautiful in contrast to the white snow.  My birdhouse was done in collaboration with Lincoln Woods, a local woodworker.</em></p>
+                <p>Jennifer Hawkes graduated from the School at the Art Institute of Chicago with a Masters in Art Therapy.  After school she lived in San Francisco where she studied with several recognized California landscape artists working on location, or “plein air”.
+                Jennifer returned to the east coast in 2008 and continued her studies at Nelson Shank’s Studio Incamminati. She has participated in several group and solo shows including the Prince Street Gallery, NY and the Princeton Public Library.  Recent commissions include a children’s illustrated book on school gardens for the Westchester YMCA and two murals in the Green School education center at New York Botanical Gardens. Her paintings reside in many private collections in US and Europe. </p>
+                <p><strong>Website: </strong> <a href="http://www.jenniferhawkes.com" target="_blank">www.jenniferhawkes.com</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-jhawkes.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="jones" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>John Hurd Jones</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Shaman of the Woods</em></p>
+                <p><strong>Materials:</strong>  fired ceramic, wood, and metal; also, a glass eye.</p>
+                <p><strong>Artist Bio: </strong>John Hurd Jones is a glass artist from Philadelphia who has a background in architecture and fine art. His work ranges from sculptural portraits in glass, to Italian goblets made with cast off bottles, to multi-dimensional wall hangings. His designs, which can be seen in various private collections and at the Museum of Art and Design in NYC, all begin and grow from his 20 years of experience and respect for the medium of glass.</p>
+                <p><strong>Contact: </strong> <a href="mailto:john.jones7@verizon.net">john.jones7@verizon.net</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-jhurdjones.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="kaufman" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Rachel Kaufman</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>House of Blues</em></p>
+                <p><strong>Materials:</strong>   Ceramic and glass over a substrate (base) of a wooden birdhouse that is attached with thin set and grouted; it has also been waterproofed.</p>
+                <p><strong>Artist Bio: </strong>Rachel Kaufman is an Escapades Producer at Brandywine Senior Living at Dresher Estates and does mosaic arts for fun! She is a member of The Mosaic Society of Philadelphia and has studied with and been inspired by Philadelphia's premier mosaicist, Isaiah Zagar from Philadelphia's Magic Garden.  </p>
+                <p><strong>Contact: </strong> <a href="mailto:kaufzoo@yahoo.com">kaufzoo@yahoo.com</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-rkaufman.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="lisk" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Penelope T. Lisk</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Reach for the Birds</em></p>
+                <p><strong>Materials:</strong> PVC pipe, wood, foam, garden stakes, terra cotta dish, mulch.</p>
+                <p><strong>Artist Bio: </strong>I have always found joy in birds; their beautiful variations of color, song and purpose.  As a tiny child I was told that if you put salt on a bird’s tail it could not fly:  I spent many happy hours running around the backyard with a salt cellar trying to slow down a Robin so that I could pet it.  That enthusiasm has followed me through life and is reflected in this installation, which welcomes the birds to live in the limbs of a human form.  Birds combine my love of science, animals and art. I have exhibited several photos of feather patterns and use textures and colors influenced by those patterns in my paintings and prints.  I keep a “bird list” of observed species and am a very light duty “Birder.” My birdhouse structure is adapted from Cornell Lab of Ornithology design found on their <a href="http://www.birds.cornell.edu/Publications/Birdscope/Winter2009/chickadee_tube.html" target="_blank"><strong>website</strong></a>.</p>
+                <p><strong>Website: </strong> <a href="http://www.pennylisk.com" target="_blank">www.pennylisk.com</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-plisk.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="mcnutt" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Devin McNutt, <em>Saffron Creations</em></strong></h3>
+				<p><strong>Birdhouse:</strong> <em>A Nest for Kinnaris</em></p>
+                <p><strong>Materials:</strong> cedar, vintage metal tins, recycled cans, steel nails, brass tacks.  Kinnaris is a mythical half-woman half-bird creature found in Hinduism and Buddhism. The kinnars are often depicted as having the head, torso and arms of a human and the wings, tail and feet of a bird or swan.</p>
+                <p><strong>Artist Bio: </strong>Devin McNutt is a jeweler who uses vintage tins to handcraft necklaces, earrings and bracelets in her Philadelphia studio. Her ‘one-woman’ jewelry business,<em> Saffron Creations</em>, can be seen at many local craft shows and boutiques.</p>
+                <p><strong>Website: </strong> <a href="http://www.saffron-creations.com" target="_blank">www.saffron-creations.com</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-dmcnutt.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="orr" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Amy Orr</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Urban Weaver Nest</em></p>
+                <p><strong>Materials:</strong> The Urban Weaver Nest was inspired by the complex structures made by weaver birds in Africa and the shiny objects collected by North American Magpies to attract mates. This nest is an assemblage of post consumer ephemera including plastic parts, wires from electronic devises and miscellaneous found objects. </p>
+                <p><strong>Artist Bio: </strong>Amy Orr makes art with a pallet of post-consumer materials including twist ties, chicken bones, shattered auto glass, junk mail and: credit cards. She cuts them up to obscure personal information, then reassembles the plastic fragments into lush patterned surfaces including sculpture, functional objects, jewelry, quilts and graphic mosaics for editorial work and commissions. Amy Orr's work is on view at Gravers Lane Gallery in Chestnut Hill.</p>
+                <p><strong>Contact:</strong> <a href="mailto:amyorr1@gmail.com">amyorr1@gmail.com</a></p>
+                <p><strong>Website: </strong> <a href="http://www.amyorr.net" target="_blank">www.amyorr.net</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-aorr.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="trust" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Natural Lands Trust</strong></h3>
+				<p><strong>Birdhouses:</strong> <em>Barred Owl, Eastern Screech Owl and Bluebird Boxes</em></p>
+                <p><strong>Artist Bio: </strong>Natural Lands Trust is the region’s foremost land conservation organization and is dedicated to protecting the forests, fields, streams, and wetlands that are essential to the sustainability of life in eastern Pennsylvania and southern New Jersey. Since its founding in 1953, Natural Lands Trust has preserved more than 100,000 acres, including 42 nature preserves totaling more than 22,000 acres. </p>
+
+<p>But protecting land from future development is only the first step in conservation. Natural Lands Trust has always believed it must actively care for the lands it owns—for the benefit of both people and wildlife. More than half of the organization’s staff are dedicated to land stewardship and habitat restoration. Natural Lands Trust’s network of nature preserves serve as critical habitat for a myriad of animal species, including neotropical migratory songbirds, raptors, shore birds, and waterfowl.</p>
+
+<p>Today, millions of people and animals enjoy the healthy habitats, clean air and water, bountiful recreational opportunities, and scenic beauty provided by the lands the organization has preserved. For more information, including preserves to visit and upcoming events, go to<a href="http://www.natlands.org/events/category/activity-birding/upcoming" target="_blank">www.natlands.org</a>  </p>
+                <p><strong>Website: </strong> <a href="http://www.natlands.org" target="_blank">www.natlands.org</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-naturallands1.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="psco" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Timothy Hill of Philadelphia Salvage Company</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Casa Recuperada</em></p>
+                <p><strong>Materials:</strong> Base--southern yellow pine slab, pine flooring, trim; House--parts drawers from Buck's Hardware, trim pieces inside, hinges, window lock, outlet plate, hinges, decorative key, keyhole escutcheon, & small parts; Roof--roof slate, roofing nails, flooring; all nails and screws used were re-purposed from our in-store stock.  Nothing was bought or brought in specifically to construct this house.</p>
+                <p><strong>Artist Bio: </strong>Timothy Hill built this birdhouse in between his duties as manager of the Philadelphia Salvage Company shop.  He is a musician who loves working with his hands and believes wholeheartedly in the mission of salvaging industrial and architectural elements and reusing or re-purposing them.  The best way to keep in touch with Philly Salvage is through their <a href="https://www.facebook.com/phillysalvage" target="_blank"><strong>Facebook page</strong></a>.
+</p>
+                <p><strong>Website: </strong> <a href="http://www.philadelphiasalvage.com" target="_blank">www.philadelphiasalvage.com</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-psco.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="drobinson" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>David Robinson of Natural Edge LLC</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Big Log Chalet</em></p>
+                <p><strong>Materials:</strong> Natural hollow log with cedar top and miscellaneous twigs and branches.  Top hinges for clean out.</p>
+                <p><strong>Artist Bio: </strong>Natural Edge hand builds garden architecture and interior furniture using New Jersey harvested red cedar timbers and Osage-orange wood branches.  These creations, unique of character, are strong, comfortable and radiate positive energy.</p>
+                <p><strong>Contact: </strong> <a href="mailto:naturaledge@comcast.net">naturaledge@comcast.net</a></p>			 
+			 </div>
+             	<div class="four columns"><img src="images/birdhouse-drobinson.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="jrobinson" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours"><strong>Joe Robinson</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Birdbrain Birdhouse</em></p>
+                <p><strong>Materials:</strong> All natural wood and bark for the seated character, and cedar for the bird housing, fastened with steel screws.</p>
+                <p><strong>Artist Bio: </strong>The imagery that I have developed over the years is known as Joe Robinson Stand-ups. I have used that style to create the seated Birdbrain Birdhouse character, involving the same whimsical nature as in all my stand-ups...fun stuff!</p>
+                <p><strong>Contact: </strong> <a href="mailto:Joesr49@msn.com">Joesr49@msn.com</a></p>			 
+			 	</div>
+             	<div class="four columns"><img src="images/birdhouse-jrobinson.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          <div id="goats" class="reveal-modal">
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="tours"><strong>Shady Apple Goats</strong></h3>
+				<p><strong>Birdhouse:</strong> <em>Lost and Found</em></p>
+                <p><strong>Materials:</strong> An old for sale sign from Mill Road, Flourtown; barn board from Yerkes mill, Collegeville; wreath of dried red nandina, broom corn and rose hips; red twig dogwood, copper nails and screws, found wire and nails.</p>
+                <p><strong>Artist Bio: </strong>Most of the year we milk goats and make cheese at our small urban farm in Flourtown, PA. In winter, we gather up all our found items and begin making birdhouses. We repurpose discarded, ignored or overlooked things and give them new life. For more information on our work and mission see our website.</p>
+                <p><strong>Website: </strong> <a href="http://www.shadyapplegoats.com" target="_blank">www.shadyapplegoats.com</a></p>			 
+			 	</div>
+             	<div class="four columns"><img src="images/birdhouse-shadyapplegoats.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

@@ -1,0 +1,39 @@
+/*ancillary and index pgs*/
+.indexpara {margin-top: .83em;}
+
+/*holds blurb that floats left of wall. different in ie*/
+.introholder {line-height: 140%;}
+
+/*results as an image wall*/
+.innerthumb {
+	position:relative;
+	top: 50%;
+	}/*margin-top: -half value of image height variable*/
+.imageinfo1 {margin: .33em .33em 0 0em; font-weight: bold;}
+.imageinfo1 a, .imageinfo1 a:visited {color: #000;}
+.imageinfo1 a:hover, .imageinfo1 a:visited:hover {color: #c60;}
+.imageinfo2, .imageinfo3 {margin: 0 .33em 0 0em;}
+.imageinfo2 {font-style: oblique;}
+#col1 .thumb, #col1 .thumbonly {height: 100px; width: 100px; border: solid 1px #dfdcce; margin: 0 auto;}
+.imageunit {float: left; margin: 0 0 .33em .33em; height: 180px; width: 150px; font-size: .92em; text-align: center;} 
+/*statusheader*/
+.recordpageheader.vcatresultstatus { margin-left: 1.83em;}
+
+/*advanced search*/
+#advancedsearchContent h1 {margin-top: 0; margin-left: 40px; color: #900; font-size: 1.33em; font-style: oblique;}
+h3 {font-style: oblique; font-size: 1em; margin: 1.5em 0 0 0;}
+.cf {margin: .17em 0 0 0;}
+#advancedsearch input, #advancedsearch select, #advancedsearch option, #advancedsearch textarea {font-size: 12px;}
+#advancedsearch table input, #advancedsearch table select, #advancedsearch table textarea {border:solid 1px #666;}
+#advancedsearch .button {background-color: #ccc; font-weight: bold;}
+#advancedsearchContent p, .cf {line-height: 145%;}
+#ancillaryContent p {line-height: 140%;}
+#advancedsearch table td {padding: 1.33em 1.33em 0 0;}
+#advancedsearch table {margin-bottom: 1.5em;}
+
+
+/*For IE compatibility*/
+
+/*IE6*/
+.ie6 .introholder {float: none !important; width: auto !important; line-height: 150%; padding: 0 1em 1em 0;}
+

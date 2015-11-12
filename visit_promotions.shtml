@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Plan Your Visit</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-promotions.jpg" alt="Promotions"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    s
+    <div class="six columns push-three">
+    <h2 class="first">Promotions</h2>	
+    <div class="panel">
+    <h3><strong>Member Deals</strong></h3>
+    <p> <strong>10% discount on all Annenberg Center Live Performances</strong><br>
+	    Morris Arboretum has partnered with the Annenberg Center to offer our members a discount. Arboretum Members will enjoy a 10% discount on all Annenberg Center Live Performances, October – May. Members can enter the promo code, <strong>Arboretum10</strong>, online or mention it while speaking to the box office to obtain the discount.</p>
+     <p><strong>Members save $2 when they see Audubon to Warhol at the Philadelphia Museum of Art</strong><br>
+		October 27 through November 30, 2015<br>
+        See things in new and different ways when you visit <a href="http://philamuseum.org/exhibitions/818.html" target="_blank">Audubon to Warhol</a> this fall. You’ll explore stunning works from the late eighteenth century to the Pop Art era of the 1960s. Morris Arboretum members save $2 on adult special exhibition tickets when they show their membership card. For hours and more information, visit <a href="http://philamuseum.org/" target="_blank">philamuseum.org</a>. <em>This offer is only available in person only, and subject to ticket availability.</em> </p>
+
+	<h4><a href="membership.shtml">Not a Member? Learn more and join today <i class="efoundicon-right-arrow"></i></a></h4>
+    </div>
+    
+    <h3><strong>2nd Sundays in Chestnut Hill</strong></h3>
+    <p>Kids get in free with each full-price adult admission! <em>Mention offer "2nd Sunday".</em></p>
+    <h3><strong>AAA Cardholder Discount</strong></h3>
+    <p>$2.00 off admission when you show your current AAA Card.</p>
+    <h3><strong> Art-Reach ACCESS Museum Program</strong></h3>
+    <p>ACCESS Cardholders (those Pennsylvania residents who monitor their government issued cash and food benefits with an EBT card), are invited to visit Morris Arboretum for just $2. </strong> Visit <a href="http://www.art-reach.org/programs/access-admission/" target="_blank">www.art-reach.org</a> for additional information.</p>
+    <h3><strong>AHS- American Horticulture Society Reciprocal Admission</strong></h3>
+    <p>The American Horticultural Society (AHS) Reciprocal Admission Program offers members of participating gardens free admission to the Morris Arboretum.  A valid membership card from a participating garden must be presented.   <a href="http://www.ahs.org/gardening-programs/rap" target="_blank">Click here for a list of participating gardens.</a>  Directories are also for sale in the Shop at the Morris Arboretum.   RAP discounts do not apply to special ticketed events, such as concerts, or members only events.  Free admission is not applicable for members of Great Valley Nature Center, Riverbend Environmental Center, and Winterthur based on the 90-mile exclusion policy of the RAP program.</p>
+    <h3><strong>BBBS (Big Brothers Big Sisters)</strong></h3>
+    <p>$2.00 off admission (up to 4 people). “Littles (children/tweens with a BBBS) Always Free”. Must mention affiliation.</p>
+    <h3><strong>Kids Visit Free in January!</strong></h3>
+    <p>Valid January 2 - 31, 2015.</p>
+    <h3><strong>Norwood Fontbonne Academy Staff Discount</strong></h3>
+    <p>Faculty and staff of Norwood Fontbonne Academy receive complimentary admission upon showing a valid school ID.</p>
+    <h3><strong>PennCard Holders</strong></h3>
+    <p>Penn students, alumni, faculty, and staff receive complimentary admission upon showing a valid PennCard.</p>
+    <h3><strong><strong>PHS Members</strong></strong></h3>
+    <p>$2.00 off admission when you show your PHS Membership card.</p>
+    <h3><strong>St. Joseph's Villa Residents</strong></h3>
+    <p>Mention you are a St. Joseph's Villa resident and receive complimentary admission.</p>
+    <h3><strong>Tyler Arboretum Members</strong></h3>
+    <p><a href="http://www.tylerarboretum.org/" target="_blank">Tyler Arboretum</a> members who present a valid membership card receive free admission.</p>
+     <h3><strong>Veteran Discounts</strong></h3>
+    <p>Morris Arboretum welcomes veterans to visit free on Veterans Day and Memorial Day.</p>
+    <h3><strong>WHYY Discount</strong></h3>
+    <p>$2.00 off admission (up to 4 people total discount) when you show your WHYY Card.</p>
+    <h3><strong>WURD Radio Member Discount</strong></h3>
+    <p>$4.00 off admission (carload) when you show your WURD Member card. Plus, 20% off your purchase of a Morris Arboretum Membership.</p>
+    <h3><strong>WHYY Discount</strong></h3>
+    <p>$2.00 off admission (up to 4 people total discount) when you show your WHYY Card.</p>
+      <hr>
+      <h3><a href="membership_discounts.shtml"><i class="foundicon-star"></i> Check out our exclusive Member Discounts at local Chestnut Hill/Mt. Airy restaurants, retailers, and more!</a></h3>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        
+s    </div>
+    <!--#include virtual="elements/sidebar-visit.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-visit.html" -->
+    </div>
+  
+    <div id="widenerModal" class="reveal-modal large">
+        <!--#include virtual="elements/widener-alert.html" -->
+    </div>  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

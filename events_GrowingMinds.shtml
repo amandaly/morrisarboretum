@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Education</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-gm.jpg" alt="Growing Minds"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Growing Minds Youth Programs</h2>
+        <p>Growing Minds is a program series for kids and families
+that inspire a sense of wonder about the natural world within the beautiful
+setting of the Morris Arboretum. The classes offer children and their caregivers the opportunity to connect meaningfully with nature, through a wide variety of creative and educational programs.
+Take a look and sign up for these programs that are certain to be enriching, fun, and memorable!</p>
+		<hr>
+        <h2><strong>Fall 2015</strong></h2> 
+      
+      	<h3><strong>Weekday Daytime Classes</strong></h3>
+        <h3>Seed to Sprouts, Autumn Adventures! (Ages 2-4)</h3>
+        <p><strong>Session I: Six Mondays - September 14, 21, 28, October 5, 12, 19 &bull; 10:30 - 11:30am<br>
+		Session II: Six Mondays - October 26, November 2, 9, 16, 23, 30 8 &bull; 10:30 - 11:30am</strong><br>
+		<em>Pam Newitt, Educator and Founder, Nature By The Yard</em></p>
+      	<p>Is your toddler a budding naturalist? Join us this fall for a series of outdoor adventures designed to introduce children and their caregivers to the wonders of the natural world! Each session will include guided exploration through the Arboretum and a craft to take home. Children must be walking and accompanied by an adult. Please dress for the outdoors and for the weather. Class size is limited to the first 15 registrants. This is our most popular children's series! Sign up for one or both sessions - each class is a new adventure!</p> 
+        <p><a href="https://online.morrisarboretum.org/growingminds#sproutsi" class="button radius small">Session I: Register Now</a></p>
+        <p><a href="https://online.morrisarboretum.org/growingminds#sproutsii" class="button radius small">Session II: Register Now</a></p>
+        
+        <br>
+        <h3>Free Storytime at the Arboretum (Ages 1-5)</h3>
+        <p><strong>Fridays: September 11, 25, October 23, 30, November 6, 20, December 11, 18 &bull; 10:30 - 11:00am</strong><br>
+		<em>Tegan Conner, Youth Services Librarian, Wissahickon Valley Public Library<br>
+		Amy Ambler, Children’s Librarian, Free Library of Springfield Township</em></p>
+        <p>Join us for fun and engaging reading sessions with local librarians. Each session is tailored to the changing seasons and complements the natural setting of the Arboretum. Storytime is held outdoors in nice weather, at the Outdoor Children's Classroom, next to the Widener Visitor Center. In the case of inclement weather, Storytime is held in the Upper Gallery at the Visitor Center. </p>
+        <p><a href="https://online.morrisarboretum.org/storytime" class="button small">Register Now</a></p>
+        <hr>
+        <h3><strong>After School Classes</strong></h3>
+        <h3>Kids Click! Kids Photography Workshop (Ages 8-12)</h3>
+        <p><strong>Six Tuesdays: October 6, 13, 20, 27, November 3, 10 &bull; 4:00 - 5:30pm</strong><br>
+		<em>Kim Soles, Photographer and Founder, Indigo Nature Arts</em></p>
+        <p>This six-week photography workshop offers kids the opportunity to get out in nature, be creative, and have fun while capturing the Morris Arboretum's changing landscape of fall! Kids will learn the basics of lighting, color, texture, composition, and depth of field. They will also gain knowledge of how photographers make a living, and will be inspired with assignments they can choose from. Our last session ends with a presentation of the child's work on screen. They will gain experience in presenting and the basics of a photographic critique. Children must have their own camera, know how to use it, and make sure that it has been charged before arriving to class. Film cameras are welcome. IPhone cameras are acceptable in cases where a camera is not available. </p>
+        <p><a href="https://online.morrisarboretum.org/growingminds#kidsclick" class="button small">Register Now</a></p>
+        <hr>
+        <h3><strong>Weekend Classes</strong></h3>
+        <h3>Nature Sleuths (Ages 5-7)</h3>
+        <p><strong>Four Sundays: October 4, 11, 18, 25 &bull; 2:00 - 3:00pm</strong><br>
+		<em>Pam Newitt, Educator and Founder, Nature By The Yard</em></p>
+        <p>Autumn is a wonderful time for children to explore the great outdoors, developing their intellectual curiousity while having fun in nature! Join us to take a close look at trees, birds, and other wildlife that call the Morris Arboretum home. Each session will focus on a particular topic of the natural world, delving into how it fits into the Arboretum's web of life. One week we may use binoculars to find migrating birds, while another week we may follow the colorful progress of the leaves' changing fall colors; all within the safe confines of the Arboretum's trails. Then back inside, we will create a take-home project related to our outdoor adventures. </p>
+        <p><a href="https://online.morrisarboretum.org/growingminds#sleuths" class="button small">Register Now</a></p>
+        <br>
+        <h3><span class="red">(Class Full)</span> Kids' Holiday Cookies (Ages 5-10)</h3>
+        <p><strong>Saturday, December 12 &bull; 1:00 - 3:00pm</strong><br>
+		<em>Josh Hunter, Morris Arboretum Chef, and Owner, Company's Coming Catering </em></p>
+        <p>Bring the kids by for some fun holiday baking and decorating with chef Josh Hunter from Company’s Coming Catering. In this hands-on class your young ones will make gingerbread people, sugar cookies, chocolate chip, and spritz cookies. With guided instruction, your little bakers will prepare, bake (adults will do this part), and decorate cookies to bring home proudly. Bring a container to take home your cookies. </p>
+        <p><a href="https://online.morrisarboretum.org/page.aspx?pid=411#cookies" class="button small">Register Now</a></p>
+        
+      <br> 
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-ed.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-ed.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

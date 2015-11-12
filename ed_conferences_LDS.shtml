@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Education</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-lds.jpg"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+	  <h3 class="first"><em>The 27th Annual Winter Landscape Design Symposium</em></h3>
+      <h2 class="first">Zooming In/Zooming Out:  <em>Native Design from the Intricate to the Expansive</em> </h2>
+            <h4><strong>Date and Location:</strong> </h4>
+			<p class="first"><strong>Thursday, January 14 – Friday, January 15, 2016<br>
+Science Center Auditorium, Montgomery County Community College, Blue Bell, PA</strong></p>
+            <p>Typically landscape designers first determine their overall design direction, and then zoom in to design the details. But in an ecology-based approach, a site’s intricate environmental characteristics can and should influence big picture decisions. This two-day conference will explore crucial aspects of the native design process, beginning at the scale of individual species, and gradually zooming out to include plant community design, ecological master planning, and methods for creating sophisticated ecological designs within the context of current as well as emerging landscape practices.</p>
+            <h4><strong>Featured Speakers:</strong></h4>
+			<ul class="content_list">
+            	<li><strong>Ted Elliman</strong>, botanist and invasive species manager at the New England Wildflower Society, will examine naturally occurring flora in forest, meadow, wetland, and coastal plant communities focusing on both common and rare species, and the effects of natural succession, disturbance, and invasive plants.</li>
+            	<li><strong>John Kett</strong>, landscape architect with Reed Hildebrand in Cambridge, Massachusetts, will explore how his design firm works with clients and consultants to ensure that landscape management plans achieve both design and ecological goals.</li>
+            	<li><strong>Roy Diblick</strong>, co-founder of Northwind Perennial Farm in Wisconsin, will discuss his approach to social planting design, in which plants, rather than being isolated specimens, interact to form dynamic communities.</li>
+            	<li><strong>David Maynes</strong>, project manager with the landscape architecture firm Richardson & Associates in Maine, explains how his firm uses a site’s plants and materials, ecological patterns and processes, and layered histories as inspiration and anchor.  Learn how this deeply immersive approach achieves landscapes that strengthen and enhance the relationship between people and place.</li>
+            </ul>
+            <br>        
+            <p><strong>CEUs available for landscape architects, APLD members, arborists, and horticulturists.</strong></p>
+
+      <hr>
+
+      <h3><strong>Complete Agenda</strong></h3><br>
+      <ul class="accordion">
+          <li>
+            <div class="title">
+              <h4>Thursday, January 14</h4>
+            </div>
+            <div class="content">
+                <p><strong>8 a.m.</strong> Registration and Continental Breakfast</p>
+                <p><strong>9 a.m.</strong> Welcome</p>
+                <p><strong>9:15 a.m. Native Graminoids:  From the Species to the Community Level
+Part I – Sedges and Rushes: Tell Us Something We Don’t Know — Wesley Knapp
+</strong>Sedges and rushes are some of our most ubiquitous and beautiful native plants; yet they often play only bit parts in our designed landscapes. Join a botanist-ecologist for a palette-expanding experience as he delves into some of our region’s most interesting and useful species.</p> 
+                <p><strong>10:15  a.m.  Break</strong></p>
+                <p><strong>10:30 a.m.  Part II – Native Grasslands: Making Sense of the Community Scale—
+Greg Edinger</strong> Successful establishment of native grasses requires not only an understanding of the plants themselves, but the ecological contexts that sustain them. This presentation “zooms out” to offer a broad yet revealing look at these unique communities, their characteristic species, structures, patterns, and processes</p>
+                <p><strong>11:30 a.m. Plant Community Design:  The Horticulture-Ecology Gradient,
+Part I – The Science behind Wild and Designed Plant Communities--Claudia West</strong>   
+                While designers now have access to many native species and their cultivars, awesome plants don’t always translate into great projects.  This presentation dives into the fascinating world of wild plant communities, the inter-planting strategies revolutionizing gardens in Europe, and the core plant community principles on which concrete landscape strategies can be based.</p>
+                <p><strong>12:30 p.m. Lunch  </strong> <em>Book signing with Claudia West</em></p>
+                <p><strong>1:45  p.m.  Part II – Wild by Intent: Ecosystem Thinking from the Lady Bird Johnson Wildflower Center--Michelle Bright </strong>Learn how the Ecosystem Design Group of the world-renowned Lady Bird Johnson Wildflower Center uses “ecosystem thinking” and a plant community-based approach throughout its design, research, consulting, and higher education practices. Case studies show how this way of working, grounded in the vision of the Center’s founder, Lady Bird Johnson, is being applied to contemporary landscape design and ecological restoration.</p>
+                <p><strong>2:45 p.m.  What We Need: Designers Converse -- Michelle Bright, Larry Weaner, Claudia West </strong>Join a wide ranging and frank discussion of the evolving green industry, and the practical and conceptual alterations needed to better support the work of ecology minded designers.</p> 
+                <p><strong>3:30 p.m.  Break</strong></p>
+                <p><strong>3:45 p.m.  Making Ecological Design Beautiful--Context Driven: Design For and By Place 
+David Maynes</strong> The landscape architecture firm Richardson and Associates designs in the spirit of place, using a site’s plants and materials, ecological patterns and processes, and layered histories as inspiration and anchor.  Gain an inside look at how this deeply immersive approach achieves landscapes that strengthen and enhance the relationship between people and place.</p>
+                <p><strong>4:45 p.m. Complimentary reception will with beer, wine, and hors d’oeuvres</strong></p>
+			</div>
+          </li>
+          <li>
+            <div class="title">
+              <h4>Friday, January 15</h4>
+            </div>
+            <div class="content">
+            <p><strong>9 a.m.  Landscape Redux: A Tale of Management Balancing Acts, Synthesis, and Big Visions--Jenna Webster</strong> 
+			How do you turn around a weed-infested landscape when many of the necessary steps conflict with imperiled bird species already using that very landscape? Learn how a unique planting and management plan for a 100-acre grassland atop a capped landfill negotiated this challenge by synthesizing crowdsourced data, scientific research, field experience, and a vision steeped in site history.</p> 
+            <p><strong>10 a.m.  Break</strong></p>
+            <p><strong>10:30 a.m.  Plant Communities and Associations of the Northeast: An Ecologist’s Perspective 
+Ted Elliman </strong> 
+			The northeast features diverse forest, meadow, wetland, and coastal plant communities, all of which can serve as valuable models for the design of native landscapes. Join ecologist Ted Elliman as he examines naturally occurring flora in these communities, focusing on both common and rare species and the effects of natural succession, disturbance, and invasive plants.</p>
+            
+            <p><strong>11:30 a.m.  The Social Life of Plants: Insights on Planting Design--Roy Diblik </strong>Acclaimed nurseryman, designer, and author Roy Diblik will discuss his approach to social planting design, in which plants, rather than being isolated specimens, interact to form dynamic communities.  He will draw upon his years of experience using innovative techniques, including planting in gravel to control weeds and, more recently, with hugelkultur—or “hill culture” planting in mounded organic material—on vacant lots in Chicago.</p>
+            <p><strong>12:30 p.m.  Lunch</strong> <em>Book signing with Roy Diblik and sale of Reed Hilderbrand’s monograph.</em></p>
+            <p><strong>1:45p.m. Seeds of a National Seed Strategy -- Peggy Olwell</strong> 
+			Does the quality and quantity of seed needed by a burgeoning native design movement exist? Learn about a new federal program, overseen by the western hemisphere’s largest seed purchaser, to establish a network of native seed collectors, growers, and seed storage facilities. Learn about the role designers can play in this important initiative, which seeks to ensure that the right seed is in the right place at the right time.</p>
+            
+            <p><strong>2:45 p.m. Native Variation: a Panel on Ecotypes, Selections, & Cultivars
+Roy Diblik, Ted Elliman, Peggy Olwell</strong> Once a designer selects a species the decision making process is not over. Is a cultivar of that species a help or a hindrance? Is a seed-grown selection a better option? Or, should a regional ecotype be specified? If so, is it even available? Our panel will discuss ways to navigate these increasingly important and complex decisions.</p>
+            
+            <p><strong>3:30 p.m. Break</strong></p>
+            
+            <p><strong>3:45 p.m. Making Ecological Design Manageable Realizing Design Intent through Ecological Management: Insights from Reed Hilderbrand John Kett</strong> 
+			Working with ecological patterns to achieve specific spatial aims and rich habitats requires a carefully calibrated yet flexible management regime. Through the lens of ongoing projects, this session explores how the design firm Reed Hilderbrand works with clients and consultants to ensure that landscape management achieves both design and ecological goals.</p>
+            
+            <p><strong>5:00 p.m.  Adjourn</strong></p>
+			</div>
+          </li>
+        </ul>
+        
+        <p><strong><a href="pdf/LDS2016-agenda.pdf" target="_blank">For a printable PDF of the Agenda click here.</a></strong></p>
+        <p><strong><a href="pdf/LDS2016-Brochure.pdf" target="_blank">For a printable PDF of the Brochure click here.</a></strong></p>
+        <hr>      
+        <p><strong>Sponsored by</strong><br>
+Morris Arboretum of the University of Pennsylvania<br>
+New Directions in the American Landscape (<em>developed by Larry Weaner Landscape Associates</em>)</p>
+		<p><strong>Co-sponsored by</strong><br>
+PA/DE Chapter of the American Society of Landscape Architects</p>
+        
+      
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    
+    <div class="three columns push-three">
+    <div class="panel">
+     <h2><a href="https://online.morrisarboretum.org/LDS" class="button radius medium"><strong>Register Today!</strong></a></h2>        
+	<hr>
+    <h3><strong>Accomodations</strong></h3>
+    <p>A block of rooms has been reserved at the Courtyard by Marriott for a group rate of $109/night (not including taxes). To book a room using the group rate,  call (215-699-7247) and mention the group name, “Landscape Design Symposium,” .  Reserve before December 23, 2015 for discounted rate.</p>
+    <hr>
+        <h3><strong>Directions</strong></h3>
+        <p><a href="pdf/LDS2016-Directions.pdf" target="_blank"><strong>Click here to download a printable PDF of directions to the conference  &raquo;</strong></a></p>
+    </div>
+    </div>
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-events.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

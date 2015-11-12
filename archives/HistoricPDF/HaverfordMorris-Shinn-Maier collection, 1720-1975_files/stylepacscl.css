@@ -1,0 +1,355 @@
+/*indexpage*/
+.indeximageholder {float: right; margin: .42em; 0 1em 1em;}
+.indexpara {margin-top: .83em;line-height: 150%;}
+.title18px {
+	 color:#900;
+	 margin: 0 0 .83em 0;
+	 font-weight: bold;
+      font-size: 1.5em;	 
+      font-style: oblique;
+      letter-spacing: .05em;
+	 }
+.printer .title18px {
+	 margin: .5em 0 .5em 0;
+}
+.caption {letter-spacing: 0.01em; margin-top: 0.33em; line-height: 150%; font-size: .92em; background-color: #f3f3f3; padding: 0 0 3px 0;}
+.caption a {display: block; margin: 0 1px 0 5px;}
+.caption a, .caption a:visited {color: #000;}
+.caption a:hover, .caption a:visited:hover {color: #c60;}
+#indexholder {line-height: 140%;}
+#holdwall {margin: .25em auto 0 auto; max-width: 520px;}
+#walltable {width: 98%; margin-left: -1em;}
+.wall {text-align: center;width: 100%;}
+a.thumblink {
+			display:block;
+			float:left;
+			height:110px;
+			margin:1em 0 0 1.25em;
+			}	
+	
+.resultsunit {padding-bottom: .5em;}
+.resultstopdata {padding: .45em 0 .08em 0;}
+.callno {color: #555;font-variant: small-caps; font-size:.92em; }
+.resultstitle {letter-spacing: .02em;font-weight: bold;}
+.resultsinfo {margin: .25em 1.27em 1em 0;}
+.formatdiv {float: right;padding-bottom: .91em;width: 10em;text-align: right;}
+.resultsdesc {min-height: 4em;}
+.resultsdesc .summary {margin-top: .25em;line-height: 140%;}	
+em, .discrep, .creatorlabel {letter-spacing: .01em;}
+.creatorlabel {float: left; width: 4.75em; font-style: oblique;}
+.creatorlist {margin-left: 4.83em;}
+.date_added { font-size:0.92em; font-style:oblique; } 
+.pdficon {vertical-align: top; padding-left: 0.5em;}
+.dotlist  {padding:.25em 1em 0 13px;}
+.browseall {background-color: #eee; font-size: 1.08em; margin: 1.5em 0 0 0;}
+.browseallinst {background-color: #eee;font-size: 1.08em; margin: 1.5em 0 0 0;}
+.sidebarcredits {clear: both;font-size: .92em; margin-left: .27em; font-family: Arial, Helvetica, sans-serif;}
+.sidebarcredits a, .sidebarcredits a:visited {color: #666;}
+.sidebarcredits a:hover, .sidebarcredits a:visited:hover {color: #c60;}
+.discrep {margin: .42em 0 .17em 0; font-style: oblique; }
+
+
+			
+			
+			
+			
+			
+			
+/*relatedinfo*/
+#recordtitleholder, .resultsunit.relatedinfo  {margin-left: 1em;}
+.recordnavforms {margin-left: 1em; margin-bottom:0;}
+.sidecont #recordinfo, .resultsunit.relatedinfo {margin-top: 0;}
+.resultsdesc.relatedinfo div {margin-top: .42em; }
+.creatorsection {margin-top: 1em;}
+.resultsdesc.relatedinfo .creatorsection .creatorlabel.relatedinfo {font-style: normal; padding-right: .33em; font-weight: bold; margin-top: 0;}
+.resultsdesc.relatedinfo .creatorsection .creatorlist.relatedinfo {margin-left: 5.17em; margin-top: 0;}
+.resultsdesc.relatedinfo .secondinfo {margin: 1.5em 0;}
+
+
+
+
+
+.callno a {font-variant: normal;}
+
+
+.aftersearchshim {height: .5em !important;}
+/*--- Main Div styles ---*/
+div#main{
+    margin: 0 .08em 0 1em;
+    width: auto;
+    text-align:left;
+    
+    }
+
+/*change*/
+div#main #header {
+    padding:0;
+    display:block;
+    border: none;
+    }
+div#main #header h2 {margin: .33em 0 0 0; color: #444; text-align: left; padding-left: 90px;}
+
+div#main #header img{display:none;}
+/*change*/
+div#main #title {
+    display: block;
+    margin:1.5em 0 0 0;
+    padding: 0;
+    background-color:transparent;
+    }
+div#main #title h1, div#main #title h2 {text-align: left; font-weight: bold; color: #393939; font-family: Tahoma, Arial, sans-serif;padding:0 0 0 0; }
+div#main #title h1 {margin:0 0 .38em 0; font-size: 1.75em;font-style: oblique;}
+div#main #title h2 {margin: .17em 0 .75em 0; font-size:1.33em; letter-spacing: .04em;font-variant: small-caps; line-height: 100%;}
+
+/*--- Main Content Div ---*/
+div#main #contents {
+    display:block;
+    margin: 0;
+    border-top: none;
+    border-bottom: none;
+    font-family: Verdana;
+    }
+
+
+
+/*--- Table of Contents styles ---*/
+div#main #toc {
+    display:block;
+    width: 18.75em;
+    position: relative;
+    float:left;
+    clear:left;
+    margin: 0 .76em 0 .38em;
+    padding-left: .38em;
+    border-right: 1px solid #000;
+    }
+
+div#main #toc h3 {margin: 1.33em .67em 1.33em 0;}
+
+div#main dt {font-weight:bold; }
+div#main dd {}
+div#main .summary dt {margin:0; color: #555;}
+div#main .summary dd {}
+div#main .summary dt {float: left; margin: 0; padding-right: .5em;}
+div#main .summary dd {padding-bottom: .5em;}
+/*--- EAD body ---*/
+
+div#main #content-right p {margin: .83em 0 0 0;}
+div#main #content-right {display:block;margin: 0 0 0 0; line-height: 140%;}
+
+/*--- Typography ---*/
+
+div#main #contents h3 {
+    margin: 0 0 .75em 0;
+    font-size: 117%;
+    font-variant: small-caps;
+    border-bottom: none;
+    background-color: #f9e7c2; padding: 0 0 .57em 1.71em; background-position: -2px -3px;
+    line-height: 95%;
+    border-top: solid 8px #bdbdbd;
+    }
+
+div#main h4 {
+    font-size: 1em;
+    margin: .83em 0 0 0;
+    padding:0; 
+    color: #555;
+    }
+table.containerList {min-width: 98%;}
+div#main  .series h4 { background-color: #f9e7c2; margin: .42em -.42em 0 0; padding: 0 0 .45em 2.27em; border-top: solid 2px #bdbdbd;line-height: 120%}
+div#main .subseries h4 { background-color:#f9e7c2;padding: 0 0 .36em 2.27em; margin: .5em 0 0 0; line-height: 95%;}
+div#main  .series .containerHeader .containertype { background-color: #f9e7c2; margin: .36em 0 0 -.27em; padding: 0 0 .45em 0; line-height: 120%; text-align: center;border-top: solid 2px #bdbdbd;}
+div#main .subseries .containerHeader .containertype { background-color:#f9e7c2;margin: .5em 0 0 0; padding: 0 0 .36em 0; line-height: 95%; text-align: center;}
+
+	
+div#main .folds_up h4 {margin-bottom: .36em;}
+div#main #content-right .folds_up p {margin-top: .36em;}
+div#main p {margin: .67em;}
+div#main br {margin:0; padding:0;}
+.pdfversion {margin-top: -.75em;}
+
+.container {text-align: center;}
+
+
+div#main .returnTOC {font-size: 85%; margin-top: 1.2em;}
+div#main .returnTOC a {color: #c60;}
+/*--- Emph styles -------*/
+div#main .smcaps {font-variant: small-caps;}
+div#main .underline {text-decoration: underline;}
+
+/*--- Styles Index entry elements ---*/
+div#main .indexEntry {display:block}
+
+
+/*---Container List Styles  --*/
+
+
+
+div#main tr.series{background: transparent;}
+div#main tr.subseries{background-color: transparent;}
+
+
+div#main .containerHeader {font-variant: small-caps; font-weight:bold; color:#555; text-align: center;}
+
+
+/*--- Clevel Margins ---*/
+div#main table.containerList {border:none; margin: -1em -.42em 0 -.17em; width: auto;}
+div#main table.containerList tr.even td.c p, div#main table.containerList tr.odd td.c p {margin-top: 0;}
+div#main table td.c{padding-left: 0;padding-bottom: 0}
+div#main table td.c01{padding-left: 0;padding-bottom: 0}
+div#main table td.c02{padding-left:  8px;padding-bottom: 0}
+div#main table td.c03{padding-left: 16px;padding-bottom: 0}
+div#main table td.c04{padding-left: 24px;padding-bottom: 0}
+div#main table td.c05{padding-left: 32px;padding-bottom: 0}
+div#main table td.c06{padding-left: 40px;padding-bottom: 0}
+div#main table td.c07{padding-left: 48px;padding-bottom: 0}
+div#main table td.c08{padding-left: 56px;padding-bottom: 0}
+
+div#main .address {display:block; margin: 8px;}
+/*change*/
+
+div#main h5 {margin: 0 0 .5em 0;}
+
+/*---- Table Styles ---*/
+div#main table {
+    font-size: 93%;
+    }
+div#main .even p, div#main .odd p {margin: 0 0 0 0;}
+.even {background-color:#f0f0f0}
+.odd {background-color:#fff;}
+div#main .even td {padding-top: .27em;}
+div#main .odd td {padding-top: .18em;}
+div#main #contents #content-right table.containerList tr.even td.c p, div#main #contents #content-right table.containerList tr.odd td.c p {margin-top: 0 !important;}
+
+
+div#main .subseries td {padding: 0 0 0 0;}
+div#main .containerHeader, div#main .title {padding: .18em 0 .18em 0;}
+
+
+/*change*/
+div#main .citation{
+    border: none;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    }
+.citationdetail, div#main .citation {
+	font-family: Courier, monotype; 
+	font-size: 1em;
+	background-color:#eee;
+	}
+div#main .citation h4, div#main .citation h5 {margin: 0 0 0 0; font-size: 12px; float: left; color: #000; padding-right: .67em; font-family: Courier, monotype;}
+h5.oddevenhead {font-weight: normal;}
+.citation p {margin: 0 0 0 0;font-family: Courier, monotype;}
+
+
+
+						   
+						   
+
+
+
+/*---List Styles---*/
+div#main .simple{list-style-type: none;}
+div#main .arabic {list-style-type: decimal}
+div#main .upperalpha{list-style-type: lower-alpha}
+div#main .loweralpha{list-style-type: upper-alpha}
+div#main .upperroman{list-style-type: upper-roman}
+div#main .lowerroman{list-style-type: lower-roman}
+ul
+{
+list-style-image:url(../images/common/dotvet16.gif);
+list-style-type:disc;
+}
+.folds_up ul {margin: 0 0 0 .58em; padding-left: .67em;}
+
+/*openshut in center*/
+h3, #show_all, #hide_all, #content-right h3, #content-right h3.open, #content-right h3.closed {cursor: pointer;}
+#content-right h3, #content-right h3.open, #content-right h3.closed {
+	background-repeat: no-repeat;
+	padding-left: 1.5em;
+	}
+#content-right h3, #content-right h3.open {
+    background-image: url(../images/common/arrowopeneadcontent.gif);
+}
+#content-right h3.closed {
+    background-image: url(../images/common/arrowclosedeadcontent.gif);
+}
+
+div#main .thisis {margin-left: 0 ; font-style: oblique; letter-spacing: .02em; font-size: .92em; font-family: Verdana; line-height: 125%;}
+div#main .noteother {margin: 0 0 0 0; font-style: oblique; letter-spacing: .01em;}
+
+/*styles for custom sidebar*/
+
+.sidecont div#fixedsidebar {
+   margin: -.5em 0 0 26px !important;
+   left: 0;
+   overflow-y: auto;				   
+}
+
+.sidecont #biceps {
+     z-index: 12; 
+	position: absolute; 
+	top: 0; 
+	left: 0;
+	height: 101px; 
+	background-image: url(../images/pacscl/fixedlogo.gif); 
+	background-repeat: no-repeat; 
+	display: block;
+	}
+.sidecont #logo { 
+	background-image: none; 
+	}
+.sidecont #toplining, .sidecont #logo, .sidecont #sidestrip, .sidecont #biceps, .sidecont #fixedsidebar {
+	background-repeat: no-repeat;
+	}
+.sidebar.sidecont #col2, .sidecont #biceps {
+	width:248px; 
+	}	
+.sidecont #fixedsidebar, .sidecont .finditmargin, .sidecont .finditmargingray, .sidecont .finditmarginyellow, .sidebar.sidecont #col2, .sidecont #toplining {
+	width: 222px;
+	}
+.sidecont .finditbg, .sidecont #col1 {
+	margin-left: 222px;
+	}
+	
+/*THESE ARE THE CRITICAL DIRECTIVES THAT SHOULD BE ADDED WITH JAVASCRIPT */
+body.sidebar.sidecont {background-attachment: fixed;}
+.sidecont #toplining, .sidecont #logo, .sidecont #sidestrip, .sidecont #biceps, .sidecont #fixedsidebar {     
+	position: fixed;
+	}
+
+
+
+.sidecont #title h1 {line-height: 115%;}
+.sidecont #tabbarsidecont {
+	margin: 0 -.83em 0 0;
+	}
+.sidecont .tabrecord.first {
+	margin-left: 1.83em;
+	}
+.sidebar.sidecont .footerinfo {margin-left: 19.27em !important;}
+#show_all, #hide_all {
+	margin-top: .36em;
+	padding: 0 30px 0 0;
+	background-position:right;
+	background-repeat:no-repeat;
+	font-weight: bold;
+	font-style: oblique;
+	letter-spacing: .032em;
+	}
+#show_all:hover, #hide_all:hover {
+	color: #c60
+	}
+#show_all {
+	background-image: url(images/common/show_all.gif);
+	}
+#hide_all {
+	background-image: url(images/common/hide_all.gif);
+	}
+.sidebar #col2 .expand-collapse {
+	margin: 1.75em .5em 1.75em 0;
+	text-align: right;
+	}
+.holdancillary {margin: 2.08em 0 0 .75em;}
+.chronlist {width:100%;}
+.wheneadancillary {margin: 2.08em 0 0 .75em;}

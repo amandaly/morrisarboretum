@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Membership</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-membership.jpg"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Member Discounts</h2>
+      <div class="panel">
+    <p> <strong>10% discount on all Annenberg Center Live Performances</strong><br>
+	    Morris Arboretum has partnered with the Annenberg Center to offer our members a discount. Arboretum Members will enjoy a 10% discount on all Annenberg Center Live Performances, October – May. Members can enter the promo code, <strong>Arboretum10</strong>, online or mention it while speaking to the box office to obtain the discount.</p>
+     <p><strong>Members save $2 when they see Audubon to Warhol at the Philadelphia Museum of Art</strong><br>
+		October 27 through November 30, 2015<br>
+        See things in new and different ways when you visit <a href="http://philamuseum.org/exhibitions/818.html" target="_blank">Audubon to Warhol</a> this fall. You’ll explore stunning works from the late eighteenth century to the Pop Art era of the 1960s. Morris Arboretum members save $2 on adult special exhibition tickets when they show their membership card. For hours and more information, visit <a href="http://philamuseum.org/" target="_blank">philamuseum.org</a>. <em>This offer is only available in person only, and subject to ticket availability.</em> </p>
+     </div>
+      <p>In addition to 10% off at <a href="visit_theshop.shtml">The Shop</a> and <a href="visit_cafe.shtml">Compton Cafe</a>, show your Membership Card at these local retailers to receive great discounts. <br>
+		<span class="orange"><i class="efoundicon-star"></i> = New!</span></p><br><br>
+      
+      <div class="row">
+      	<div class="six columns">
+        
+        <p><strong><a href="http:// www.artefactantiques.com" target="_blank">Artefact Architectural Antiques</a></strong><br>10% discount</p>
+                
+        <p><strong><a href="http://www.theboneappetiteonline.com" target="_blank">The Bone Appetite</a></strong><br>10% discount (Food NOT Included)</p> 
+                
+        <p><strong><a href="http://www.carolschwartzgallery.com" target="_blank">The Carol Schwartz Gallery</a></strong><br>10% discount</p>
+        
+        <p><strong><a href="http://www.thecedarshouse.com" target="_blank">The Cedars House</a></strong><br>10% discount on food & program purchases</p>
+        
+        <p><strong><a href="http://www.YourPond.com" target="_blank">Cedar Run Landscapes</a></strong><br>
+          15% discount on purchases up to $1500 (max discount $150)</p> 
+        
+        <p><strong><a href="http://www.countrysidegardencenter.com" target="_blank">Countryside Nursery &amp; Garden Center</a></strong><br>
+          10% discount on plants</p>
+        
+        <p><strong><a href="http://www.danielslawnandgarden.com" target="_blank">Daniel's Lawn &amp; Garden Center</a></strong><br>10% discount</p>
+        
+        <p><strong><a href="http://www.davidbrothers.com" target="_blank">David Brothers Bean Road Nursery</a></strong><br>10% discount on all native plants in stock</p>
+        
+        <p><strong><a href="http://www.earthbreadbrewery.com/" target="_blank">Earth Bread &amp; Brewery <i class="efoundicon-star orange"></i> </a></strong><br>15% discount (food only)</p>
+        
+        <p><strong><a href="http://www.FranksWine.com" target="_blank">Frank’s Union Wine Mart</a></strong><br>20% discount on wine</p>
+        
+        <p><strong><a href="http://www.gasper.net" target="_blank">Gasper Landscapes</a></strong><br>15% discount on regular priced merchandise</p>
+        
+        <p><strong><a href="http://gomtairy.com/doing-business/directory/ground-zero-salon/" target="_blank">Ground Zero Salon <i class="efoundicon-star orange"></i> </a></strong><br>15% off any service</p>
+        
+        <p><strong><a href="http://www.hollydaysnursery.com" target="_blank">Holly Days Nursery &amp; Landscaping</a></strong><br>10% discount on plant material</p> 
+        
+        </div>
+        
+        <div class="six columns">
+        <p><strong><a href="http://www.laureloakgardencenter.com" target="_blank">Laurel Oak Garden Center</a></strong><br>10% discount</p> 
+        
+        <p><strong>Marano Gardens</strong><br>10% discount</p>
+        
+        <p><strong><a href=" http://www.mariesgardens.com/" target="_blank">Marie's Garden</a></strong><br>10% discount</p>
+        
+        <p><strong><a href="http://www.meadowbrookfarm.org/" target="_blank">Meadowbrook Farm</a></strong><br>10% off plants at Meadowbrook Farm (not applicable online or off-site)</p> 
+                
+        <p><strong><a href="http://www.nightkitchenbakery.com" target="_blank">Night Kitchen Bakery</a></strong><br>10% discount</p>
+        
+        <p><strong><a href="http://www.parksideorchids.com" target="_blank">Parkside Orchid Nursery</a></strong><br>10% discount</p>
+        
+        <p><strong><a href="http://pilatesalchemy.com/index.html" target="_blank">Pilates Alchemy <i class="efoundicon-star orange"></i> </a></strong><br>
+        $15 off first private session</p>
+        
+        <p><strong><a href="http://www.plymouthnursery.com" target="_blank">Plymouth Nursery</a></strong><br>10% discount</p>
+        
+        <p><strong><a href="http://www.primexgardencenter.com" target="_blank">Primex Garden Center</a></strong><br>10% discount on trees, shrubs & greenhouse foliage plants</p>
+        
+        <p><strong><a href="http://www.rotheflorists.com" target="_blank">Rothe Florists</a></strong><br>
+        15% discount</p>
+        
+        <p><strong><a href="http://www.tablesbenches.com" target="_blank">Stable Tables</a></strong><br>10% discount on all tables</p>
+        
+        <p><strong><a href="http://www.chestnuthill.tenthousandvillages.com" target="_blank">Ten Thousand Villages CH</a></strong><br>10% discount</p> 
+        
+        <p><strong><a href="http://www.trolleycardiner.com" target="_blank">The Trolley Car Diner</a></strong><br>10% discount</p>
+                
+        </div>
+      </div>
+        
+        
+      <br>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-membership.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-support.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

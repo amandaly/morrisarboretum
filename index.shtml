@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+  <meta charset="utf-8" />
+  <meta name="p:domain_verify" content="1d70c3665b239dc570c328e3519f944b"/>
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+
+
+  <title>Morris Arboretum of the University of Pennsylvania</title>
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+
+  <script src="foundation/javascripts/modernizr.foundation.js" type="text/javascript"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  </head>
+<body>
+  
+  
+  <!-- Header and Nav bar -->
+  <div class="row" > 
+    <div class="four columns">
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" class="hide-for-small" alt="Morris Arboretum"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" class="show-for-small" alt="Morris Arboretum"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+<!-- The Orbit slider is initialized at the bottom of the page by calling .orbit() on #slider -->
+  <div class="row hide-for-small">
+    <div class="twelve columns">
+      <div id="slider">
+      <a href="ed_lectures.shtml"><img src="images/slider/slide-CBOG15.jpg" alt="Connections Beyond Our Garden"/></a>
+      <a href="ed_classes.shtml"><img src="images/slider/slide-fall-classes.jpg" alt="Fall Classes"/></a>
+      <a href="botanical.shtml"><img src="images/slider/slide-botany.jpg" alt="Plant Research"/></a>
+      <a href="events_patrick_dougherty.shtml"><img src="images/slider/slide-PD-latespring.jpg" alt="Patrick Dougherty"/></a>
+	  
+	  <span class="hide">
+      <a href="ed_classes.shtml"><img src="images/slider/slide-fall-classes.jpg" alt="Fall Classes"/></a>
+      <a href="botanical.shtml"><img src="images/slider/slide-botany.jpg" alt="Plant Research"/></a>
+      </span>
+      </div>
+    </div>
+    </div>
+<!-- End Orbit -->
+  
+  
+<!-- Feature Section -->
+<div class="row mini-nav hide-for-small">
+        <div class="four columns">
+    		<h1><a href="calendar.shtml">Upcoming Events <i class="efoundicon-right-arrow"></i></a></h1>
+            <p class="hide-for-small"><a href="calendar.shtml">NOVEMBER - JANUARY</a></p>
+            <hr class="show-for-small">
+        </div>
+        
+        <div class="four column hide">
+            <h1 class="red hide"><a href="#" data-reveal-id="weatherModal">Weather Update <i class="efoundicon-right-arrow"></i> </a></h1>
+            <p class="hide-for-small red"><a href="#" data-reveal-id="weatherModal">Check for closings or delays</a></p>
+            <hr class="show-for-small">
+        </div>
+        
+        <div class="four column">
+            <h1 ><a href="bloomCalendar.html">What's in Bloom? <i class="efoundicon-right-arrow"></i> </a></h1>
+            <p class="hide-for-small"><a href="bloomCalendar.html">Spicebush &amp; more!</a></p>
+            <hr class="show-for-small">
+        </div>
+        
+		<div class="four columns">
+    		<h1><a href="visit.shtml">Plan Your Visit <i class="efoundicon-right-arrow"></i></a></h1>
+            <p class="hide-for-small"><a href="visit.shtml">Everything you need to know</a></p>
+            <hr class="show-for-small">
+        </div>
+        <hr class="hide-for-small">
+</div>
+<!-- End Feature Section -->
+
+<!-- Subfooter -->
+ <div class="row hide-for-small">
+ 	<div class="four columns subfooter">
+          <h1><a href="http://cms.business-services.upenn.edu/morrisarboretum-blog/"><i class="efoundicon-quote"></i><br>Read Our Blog!</a></h1>
+    </div>
+ 	<div class="four columns subfooter">
+          <h1><a href="membership.shtml"><i class="foundicon-heart"></i><br>Become a Member </a></h1>
+    </div>
+    <div class="four columns subfooter">
+        <h1><a href="volunteer.shtml"> <i class="foundicon-people"></i><br>
+        Volunteer Opportunities</a></h1>
+    </div>
+ </div>
+<!-- Mobile Subfooter -->
+	<div class="row show-for-small">
+    	<div class="twelve columns">
+        <a href="visit.shtml"><img src="images/slider/slide-visit-fall.jpg" alt="Plan Your Visit"/></a>
+        	<p id="quick-nav">Quick links:</p>
+        </div>
+    </div>
+   <div class="row show-for-small quick-nav">
+    <div class="three columns">
+    </div>
+    <div class="three columns hide">
+          <h1 class="red hide"><a href="#" data-reveal-id="weatherModal"><i class="efoundicon-right-arrow"></i> Weather Updates </a></h1>
+    </div>
+    <div class="three columns ">
+          <h1><a href="visit_hours.shtml"><i class="efoundicon-right-arrow"></i> Hours &amp; Fees </a></h1>
+    </div>
+    <hr>
+ 	<div class="three columns">
+          <h1><a href="calendar.shtml"><i class="efoundicon-right-arrow"></i> Upcoming Events </a></h1>
+    </div>
+    <hr>
+    <div class="three columns">
+        <h1><a href="bloomCalendar.html"><i class="efoundicon-right-arrow"></i> What's in Bloom? </a></h1>
+    </div>
+    <hr>
+    <div class="three columns">
+        <h1><a href="membership.shtml"><i class="efoundicon-right-arrow"></i> Become a Member </a></h1>
+    </div>
+ </div>
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+
+<!--Reveal Modal-->
+  		<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+        </div>
+        <div id="fallModal" class="reveal-modal">
+              <div class="row">
+             	<div class="twelve columns">
+                <div class="flex-video"><iframe width="1000" src="//www.youtube.com/embed/LVhfKaNLmxc" frameborder="0" allowfullscreen autoplay></iframe></div>
+            	 </div>
+             </div><a class="close-reveal-modal">&#215;</a>
+        </div>
+   
+  <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="foundation/javascripts/jquery.foundation.reveal.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js" type="text/javascript"></script>
+  
+  <script src="foundation/javascripts/jquery.foundation.topbar.js" type="text/javascript"></script>
+  <script src="foundation/javascripts/jquery.foundation.mediaQueryToggle.js" type="text/javascript"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 5000,  // if timer is enabled, time between transitions
+        pauseOnHover: false, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   })
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+      
+</body>
+</html>

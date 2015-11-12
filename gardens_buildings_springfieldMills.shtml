@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page-new.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Springfield Mills</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  
+</head>
+<body>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '{your-app-id}',
+          xfbml      : true,
+          version    : 'v2.0'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+  
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-buildings.jpg"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h3 class="first">Buildings</h3>
+        <h2 class="first">Springfield Mills at Morris Arboretum</h2>
+        <br>
+          <div id="slider"> 
+            <img src="images/img-mill-gallery1.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery2.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery3.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery4.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery5.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery6.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery7.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery8.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery9.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery10.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery11.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery12.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery13.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery14.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery15.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery16.jpg" alt="Grist Mill"/></a>
+            <img src="images/img-mill-gallery17.jpg" alt="Grist Mill"/></a>
+           </div> 
+        <br>
+        <p>Springfield Mills is open for demonstrations during Mill Demonstration Days and at other times by scheduling a <a href="#tours">group tour</a>.</p>
+        <a id="demo"></a><h3><strong>2016 Mill Demonstration Day Schedule</strong></h3>
+        <p class="first"><strong>May 16th, June 19th with Insider Art Show, July 17th, August 21st, September 18th, October 16th with Bloomfield Farm Day.</strong></p>
+        <p><em>Grist Mill Demonstrations are free. Donations appreciated.</em></p>
+        <p>The grist mill is located directly across from the Arboretum’s main entrance on Northwestern Avenue. It offers visitors an interactive experience of a working 19th century mill. Visit the historic creek-side flour mill to watch one-ton millstones grind corn and wheat kernels and see 160 year old machinery transport and sift the grind to produce meal and flour. The flour is used to bake muffins on site. Kids and adults will also enjoy grinding their own flour on the pedal powered mill.</p>
+        <hr>
+        <h3>A Working Piece of History</h3>
+        <p>Watch a  typical mill demonstration in this 2 minute video.</p>
+        <div class="flex-video"><iframe width="420" height="315" src="//www.youtube.com/embed/2ycRhpl5x8Q" frameborder="0" allowfullscreen></iframe></div>
+		<!-- OLD VIDEO><div class="flex-video hide"><iframe width="420" height="315" src="//www.youtube.com/embed/-O_IxdgW-8A" frameborder="0" allowfullscreen></iframe></div><!-->
+        <h4><strong><a href="http://morrisarboretum.blogspot.com/2015/02/growing-grinding-baking-eating-corn.html">Growing, Grinding, Baking & Eating Corn at Morris Arboretum</a></strong></h4>
+        <p><a href="http://morrisarboretum.blogspot.com/2015/02/growing-grinding-baking-eating-corn.html">Read more &raquo;</a></p>
+        <hr>
+        <a id="tours"></a><h3>Springfield Mills Tours</h3>
+        <p>In addition to mill demonstration days, group tours can be arranged. Current tours include History of Bloomfield Farm and the Historic 1761 Grist Mill (60 minutes). Contact Lisa Bailey at <a href="mailto:baileyl@upenn.edu">baileyl@upenn.edu</a> or 215.247.5777 x157 to schedule your tour.</p>
+	  <hr>
+        <h3>Springfield Mills History</h3>
+        <p>Springfield Mills and the Miller’s Cottage date back to 1761 and are the oldest architectural features at the Morris Arboretum. Springfield Mills contains the most complete inventory of original flour mill works and related machinery of any mill in the area. The mill, with its <a href="http://en.wikipedia.org/wiki/Oliver_Evans" target="_blank">Oliver Evans</a> mill works, provides a unique view of 19th and early 20th century agriculture and milling in the Wissahickon Valley. Volunteers and staff are actively engaged in restoring the mill with the goal of renewing its water-powered operation. Springfield Mills is a contributing structure in the Morris Arboretum’s National Register of Historic Places listing.</p>
+
+        <p>The connections between food consumption, food production and land use is hard to imagine in a society where supermarkets with have become our main link to food.  The role of mills in communities is largely forgotten or taken for granted.  Springfield Mills creates a visual narrative of the social, economic and technological role mills play in food production and how important land conservation and plant diversity are to assuring we have food on the table.</p>
+        <p>Farmers came from many miles to have their grain ground into flour.The Flourtown Village was the great wheat market of the eastern counties of the state around and north of Philadelphia.</p>
+        <p>The mill used water power for an array of functions including sawing timber, grinding flour and animal feed, generating electricity, running agricultural machines and pumping water to irrigate the fields.</p><br>
+        <dl class="tabs five-up">
+          <dd class="active"><a href="#simpleContained1">1761</a></dd>
+          <dd><a href="#simple2">1854</a></dd>
+          <dd><a href="#simple3">1890s</a></dd>
+          <dd><a href="#simple4">1907</a></dd>
+          <dd><a href="#simple5">1914</a></dd>
+          <dd><a href="#simple6">1932</a></dd>
+          <dd><a href="#simple7">1970s</a></dd>
+          <dd><a href="#simple8">2008</a></dd>
+          <dd><a href="#simple9">2011</a></dd>
+          <dd><a href="#simple10">2015</a></dd>
+        </dl>
+        <ul class="tabs-content">
+          <li class="active" id="simpleContained1Tab"><br>
+          	<p>&nbsp;</p>
+            <p><strong>1761</strong> <em>William Streeper, Jr. built the original saw and grist mill along with a stone cabin that is still a part of the Miller’s Cottage. His father was one of the first Crefelt-Sommerhausen immigrants to settle in Germantown.The original mill was powered by an undershot wheel and was known as Streeper’s Mill.</em></p>
+          </li>
+          <li id="simple2Tab">
+          	<p>&nbsp;</p>
+			<p><strong>1854 </strong><em>Springfield Mills was proclaimed the name of the new mill built by a Streeper son-in-law, Henry Piper. The name and date are inscribed in a marble date stone on the east side. This was a time of great local prosperity and an expanding Philadelphia population needing to be fed.</em></p>
+          </li>
+          <li id="simple3Tab">
+          	<p>&nbsp;</p>
+			<p><strong>1890s</strong> <em>The mill went into foreclosure sale and was eventually repurchased by Henry Piper, Jr. A turbine, more efficient than a water wheel, was installed about this time and it appears the mill was refitted to serve more effectively as a feed mill. Competition from the mid-west replaced most local flour mills.</em></p>
+          </li>
+          <li id="simple4Tab">
+          	<p>&nbsp;</p>
+			<p><strong>1907</strong> <em>“It was as if the miller had turned out the lights, locked the doors and walked away", according to one report. The mill and farm land was now included in George Thomas’s development of the Wissahickon Valley Country Club (WVCC). George Thomas named the farm property, including the mill, Bloomfield Farm.</em></p>
+          </li>
+          <li id="simple5Tab">
+          	<p>&nbsp;</p>
+			<p><strong>1914</strong> <em>John T. Morris purchased Bloomfield Farm, after WVCC was completed. During John and Lydia’s ownership the mill was used primarily as a feed mill for the horses and dairy, but also generated DC power for the farm and ran farm equipment. Trout was raised here and sold in the city. Oats, wheat, barley, vegetables, pigs, milk, butter and eggs were produced for the estate and the community.</em></p>
+          </li>
+          
+          <li id="simple6Tab">
+          	<p>&nbsp;</p>
+			<p><strong>1932</strong> <em>The mill was in good condition when the will of Lydia Morris established the Morris Arboretum of the University of Pennsylvania. Most agricultural functions were ordered to cease when the University took possession. During WW II, the Lignum-vitae bearing in the water turbine were replaced and the mill was active in providing water for livestock and the Victory Gardens.</em></p>
+          </li>
+          <li id="simple7Tab">
+          	<p>&nbsp;</p>
+			<p><strong>1970s</strong> <em>The decade began a period of restoration and renewal for the Morris Arboretum. Among projects undertaken in the 1980s were stabilization of the grist mill and renovation of the Miller’s Cottage.</em></p>
+          </li>
+          <li id="simple8Tab">
+          	<p>&nbsp;</p>
+			<p><strong>2008</strong> <em>Following roof repairs in 2007, Run-of-the-Mill Volunteers begin structural restoration following plan of Samuel Harris, Restoration Architect and Engineer.</em></p>
+          </li>
+          <li id="simple9Tab">
+          	<p>&nbsp;</p>
+			<p><strong>2011</strong> <em>Structural stabilization of Mill completed along with changes to permit public visitation.  Mill opens for the public during first Bloomfield Farm Day celebration.  Mill restoration volunteers work to restore millstone operations and mill machinery.</em></p>
+          </li>
+          <li id="simple10Tab">
+          	<p>&nbsp;</p>
+			<p><strong>2015</strong> <em>West wall is restored, completing the building envelope. All interior machines are restored and belt-driven from the line shafts for demonstrations.  Over 1,000 visitors participate in demonstrations and scheduled tours.</em></p>
+          </li>
+        </ul>
+        <hr>
+        <h3>Volunteer at the Mill</h3>
+        <p>The Run-of-the-Mill volunteers are restoring Springfield Mills to water-powered operation. The mill stones and water-powered machinery are over a century old. Volunteers work on the mill on the second Saturday of every month and operate the mill during public events at Bloomfield. Activities include carpentry, masonry, equipment restoration and general clean up. Research, documentation and education volunteers are welcome. </p>
+        <p><strong>Contact: Bob Gutowski - <a href="mailto:gutowski@upenn.edu">gutowski@upenn.edu</a> or 215.247.5777 ext.132</strong></p>
+        <hr>
+        <h3>Mills of the Wissahickon Valley</h3>
+        <p>The historic Wissahickon Valley was home to over sixty mills from colonial times to WWII. Springfield Mills is one of four remaining Mills of the Wissahickon you can tour or visit. Explore all the mills of the Wissahickon.</p>
+        <ul class="content_list">
+        	<li><a href="http://www.rittenhousetown.org" target="_blank">Historic Rittenhouse Town</a></li>
+            <li><a href="http://www.wvwa.org/evans_mill.htm" target="_blank">Evans-Mumbower Mill</a></li>
+            <li><a href="http://www.ushistory.org/hope/history/mill.htm" target="_blank">Mather Mill</a></li>
+        </ul>
+        <h3>Links to other local mills</h3>
+        <ul class="content_list">
+        	<li><a href="http://www.spoommidatlantic.org/index.php" target="_blank">Society for the Preservation of Old Mills (SPOOM) MidAtlantic Chapter</a></li>
+        	<li><a href="http://www.newlingristmill.org" target="_blank">Newlin Grist Mill </a></li>
+        	<li><a href="http://anselmamill.org/" target="_blank">The Mill at Anselma </a></li>
+        	<li><a href="http://www.buckscounty.org/government/ParksandRecreation/Others/StoverMyers" target="_blank">Stover-Myers Mill</a></li>
+        </ul>
+        <hr> 
+      <h3>Questers Support Restoration of Springfield Mills</h3>
+      <p>On May 5th, 2014 the Questers Fairwold Chapter with Pennsylvania State and International Questers presented a $7,000 grant to the Morris Arboretum of the University of Pennsylvania for continued restoration of Springfield Mills.  The Fairwold Questers have supported restoration of the Morris Arboretum’s grist mill since 2008.  Previous grants restored the mill windows and the turbine pit bridge.  Both were critical elements in re-opening the mill for tours.  Most recently the historic, two-ton mill stones grinding surfaces were refinished by an expert millwright and are grinding corn meal after 60 years of inactivity.  This new grant will help restore the wooden “blow-out” wall facing the Wissahickon Creek.  The grant was presented by Vickie Sierchio, Fairwold Quester President.  
+			<br>
+Questers is an international organization with 101 chapters in PA and chapters in 41 states and Ontario.  Questers supports conservation and restoration of historical sites and objects.
+For information, go to <a href="http://www.PAQuesters.com" target="_blank">www.PAQuesters.com</a> and <a href="http://www.questers1944.org" target="_blank">www.questers1944.org</a>.</p>
+       
+          
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-buildings.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-gardens.html" -->
+  </div>
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+ 
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

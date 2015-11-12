@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html>
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Events</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+    <script> 
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '{your-app-id}',
+          xfbml      : true,
+          version    : 'v2.0'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+  
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-special-events.jpg" alt="Special Events at Morris Arboretum"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+        <h2 class="first">Special Events</h2><br> 
+        <dl class="tabs three-up">
+          <dd class="active"><a href="#simpleContained1">NOVEMBER</a></dd>
+          <dd><a href="#simple2">DECEMBER</a></dd>
+          <dd><a href="#simple3">JANUARY</a></dd>
+        </dl>
+        
+        <ul class="tabs-content">
+           <li class="active" id="simpleContained1Tab"> 
+              <div class="row">
+                <div class="eight columns">
+                  <h3 class="first"><strong>Holiday Garden Railway</strong> </h3>
+                <p class="first"><strong>On display November 28 - January 4 | Daily 10:00am - 4:00pm</strong><br>
+                <em>Free with garden admission.</em></p>
+				<p>Come see the Holiday Garden Railway dressed in its wintry finest!</p>
+                </div>
+                <div class="four columns"><br><img src="images/ad-hgr.jpg" alt="Holiday Garden Railway">
+                  </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Winter Wellness Walks</strong> </h3>
+                <p class="first"><strong>Saturdays November - March | 10:30 - 11:30am</strong> <em><br>
+                     Free with regular garden admission. Meet in front of the Widener Visitor Center.</em></p>
+                <p>Led by an experienced Volunteer Guide, these brisk walks will stick to the paved paths and get your heart rate up.</p>
+                </div>
+                <div class="four columns"><br><img src="images/ad-wellness-walks.jpg" alt="Winter Wellness Walks"><br>
+                </div>
+              </div>
+              
+             </li>
+             
+             <li id="simple2Tab">
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Winter Wellness Walks</strong> </h3>
+                <p class="first"><strong>Saturdays November - March | 10:30 - 11:30am</strong> <em><br>
+                     Free with regular garden admission. Meet in front of the Widener Visitor Center.</em></p>
+                <p>Led by an experienced Volunteer Guide, these brisk walks will stick to the paved paths and get your heart rate up.</p>
+                </div>
+                <div class="four columns"><br><img src="images/ad-wellness-walks.jpg" alt="Winter Wellness Walks"><br>
+                </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                  <h3 class="first"><strong>Holiday Garden Railway</strong> </h3>
+                <p class="first"><strong>On display November 28 - January 4 | Daily 10:00am - 4:00pm</strong><br>
+                <em>Free with garden admission.</em></p>
+				<p>Come see the Holiday Garden Railway dressed in its wintry finest! </p>
+                </div>
+                <div class="four columns"><br><img src="images/ad-hgr.jpg" alt="Holiday Garden Railway">
+                  </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Friday Night Lights!</strong> </h3>
+                <p class="first"><strong>FRIDAY, DECEMBER 5 | 4:30 - 7:30pm</strong> <em><br>
+                    Advanced ticket purchase required. </em><br>
+					Member Adult: $9.00 / Member Child: $3.00<br>
+					Non-member Adult: $16.00 / Non-member Child: $8.00 </p>
+                <p>Start a new holiday tradition and come enjoy the Holiday Garden Rail all lit up and decorated for the season during special evening hours. White lights sparkle along the rails and miniature greens adorn the buildings. </p>
+                </div>
+                <div class="four columns"><br><p><img src="images/ad-friday-night-lights.jpg" alt="Friday Night Lights"></p>
+                <p><a href="https://morrisarboretum.ticketleap.com/friday-night-lights/dates/Dec-05-2014_at_0430PM" class="button small radius"><strong>Get Tickets Now!</strong></a></p> </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Penn Glee Club Holiday Concert</strong> </h3>
+                <p class="first"><strong>SATURDAY, DECEMBER 6 | 2:00 - 3:00pm</strong> <em><br>
+                    Free with garden admission.</em></p>
+                <p>A winter tradition, the Penn Glee Club will return to Morris Arboretum on Saturday, December 6 for their 5th Annual Holiday Concert. Come and enjoy the Glee Club's fun and diverse holiday repertoire, while enjoying hot cocoa and cookies in the garden.</p>
+                <p><strong> <a href="http://www.youtube.com/watch?v=-AfkJqgo5h8" target="_blank"><i class="efoundicon-monitor"></i> Check out a preview from last year's concert!</a></strong></p>
+                </div>
+                <div class="four columns"><br><p><img src="images/ad-glee-club.jpg" alt="Penn Glee Club Concert"></p>
+                </div>
+              </div>              
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong><em>Emily Dickinson &amp; Beatrix Potter: Tale of Two Gardeners</em></strong> </h3>
+                <p><strong>Speaker:</strong> Marta McDowell, <em>Author, Teacher, and Lecturer</em></p>
+                <p class="first"><strong>WEDNESDAY, DECEMBER 10 | 2:00pm</strong><br>
+                <em>Payment and registration required. $15 Members / $20 Non-members; <a href="https://online.morrisarboretum.org/CBOG">click here to register online</a> or  call 215.247.5777, ext 125.</em></p>
+				<p>Reclusive poet Emily Dickinson, followed a life of obscurity with posthumous celebrity as one of America's greatest writers. In Amherst, she was known as a consummate gardener, exploring the fields around town for wildflowers, studying botany and tending her own conservatory. Author and illustrator Beatrix Potter's children's books are famous for captivating stories about rabbits, ducks and mice. In real life Potter was as much a naturalist and gardener as a writer, eventually owning a series of farms in England's Lake District. She became an early advocate of sustainable agriculture and a pioneering landscape preservationist and conservationist. Author, teacher, and popular lecturer Marta McDowell, whose books include Emily Dickinson's Gardens: A Celebration of a Poet and Gardener (2004) and Beatrix Potter's Gardening Life: The Plants and Places That Inspired the Classic Children's Tales (2013) is particularly interested in the relationship between the "pen and the trowel" - people who, like her, are passionate about both writing and gardening.
+</p>
+                <p><em>A reception with refreshments will follow the presentation. </em></p>
+                </div>
+                <div class="four columns"><br><img src="images/img-headshot-mcdowell.jpg" alt="Marta McDowell"><p align="center">Marta McDowell, <br><em>Author, Teacher, and Lecturer</em></p>                
+                <p><a href="https://online.morrisarboretum.org/CBOG" class="button small radius"><strong>Register Online Now</strong></a></p>
+</div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Friday Night Lights!</strong> </h3>
+                <p class="first"><strong>FRIDAY, DECEMBER 12 | 4:30 - 7:30pm</strong> <em><br>
+                    Advanced ticket purchase required. </em><br>
+					Member Adult: $9.00 / Member Child: $3.00<br>
+					Non-member Adult: $16.00 / Non-member Child: $8.00 </p>
+                <p>Start a new holiday tradition and come enjoy the Holiday Garden Rail all lit up and decorated for the season during special evening hours. White lights sparkle along the rails and miniature greens adorn the buildings. </p>
+                </div>
+                <div class="four columns"><br><p><img src="images/ad-friday-night-lights.jpg" alt="Friday Night Lights"></p>
+                <p><a href="https://morrisarboretum.ticketleap.com/friday-night-lights/dates/Dec-12-2014_at_0430PM" class="button small radius"><strong>Get Tickets Now!</strong></a></p> </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Friday Night Lights!</strong> </h3>
+                <p class="first"><strong>FRIDAY, DECEMBER 19 | 4:30 - 7:30pm</strong> <em><br>
+                    Advanced ticket purchase required. </em><br>
+					Member Adult: $9.00 / Member Child: $3.00<br>
+					Non-member Adult: $16.00 / Non-member Child: $8.00 </p>
+                <p>Start a new holiday tradition and come enjoy the Holiday Garden Rail all lit up and decorated for the season during special evening hours. White lights sparkle along the rails and miniature greens adorn the buildings. </p>
+                </div>
+                <div class="four columns"><br><p><img src="images/ad-friday-night-lights.jpg" alt="Friday Night Lights"></p>
+                <p><a href="https://morrisarboretum.ticketleap.com/friday-night-lights/dates/Dec-19-2014_at_0430PM" class="button small radius"><strong>Get Tickets Now!</strong></a></p> </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="twelve columns">
+                <h3 class="first red"><strong><em>Garden Closed December 24 &amp; 25. Happy Holidays!</em></strong> </h3>
+                </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Friday Night Lights!</strong> </h3>
+                <p class="first"><strong>FRIDAY, DECEMBER 26 | 4:30 - 7:30pm</strong> <em><br>
+                    Advanced ticket purchase required. </em><br>
+					Member Adult: $9.00 / Member Child: $3.00<br>
+					Non-member Adult: $16.00 / Non-member Child: $8.00 </p>
+                <p>Start a new holiday tradition and come enjoy the Holiday Garden Rail all lit up and decorated for the season during special evening hours. White lights sparkle along the rails and miniature greens adorn the buildings. </p>
+                </div>
+                <div class="four columns"><br><p><img src="images/ad-friday-night-lights.jpg" alt="Friday Night Lights"></p>
+                <p><a href="https://morrisarboretum.ticketleap.com/friday-night-lights/dates/Dec-26-2014_at_0430PM" class="button small radius"><strong>Get Tickets Now!</strong></a></p> </div>
+              </div>
+             </li>
+             
+            <li id="simple3Tab">
+            <br>
+              <div class="row">
+                <div class="twelve columns">
+                <h3 class="first red"><strong><em>Garden Closed January 1. Happy New Year!</em></strong> </h3>
+                </div>
+              </div>
+              <hr>
+             <div class="row">
+                <div class="eight columns">
+                <h3 class="first"><strong>Winter Wellness Walks</strong> </h3>
+                <p class="first"><strong>Saturdays November - March | 10:30 - 11:30am</strong> <em><br>
+                     Free with regular garden admission. Meet in front of the Widener Visitor Center.</em></p>
+                <p>Led by an experienced Volunteer Guide, these brisk walks will stick to the paved paths and get your heart rate up.</p>
+                </div>
+                <div class="four columns"><br><img src="images/ad-wellness-walks.jpg" alt="Winter Wellness Walks"><br>
+                </div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                  <h3 class="first"><strong>Holiday Garden Railway</strong> </h3>
+                <p class="first"><strong>On display through Sunday, January 4 | Daily 10:00am - 4:00pm</strong><br>
+                <em>Free with garden admission.</em></p>
+				<p>Come see the Holiday Garden Railway dressed in its wintry finest! </p>
+                </div>
+                <div class="four columns"><br><img src="images/ad-hgr.jpg" alt="Holiday Garden Railway">
+                  </div>
+              </div>
+              <hr>
+               <div class="row"><br>
+                <div class="eight columns">
+                  <h3 class="first"><strong><em>Gardens of the Jazz Age</em> (Lukens Endowed Lecture)</strong> </h3>
+                  <p><strong>Speaker:</strong> Jenny Rose Carey, <em>Director of the Ambler Arboretum, Temple University </em></p>
+                <p class="first"><strong>SUNDAY, JANUARY 18 | 2:00pm</strong><br>
+                <em>Free; pre-registration required.</em></p>
+                <p>In this light-hearted, yet serious lecture, Jenny Rose Carey, Director of the Ambler Arboretum at Temple University, and a member of the Garden Club of Philadelphia, investigates the
+fascinating gardens of the Jazz Age. Using images from magazines, books and glass lantern slides
+from the Archives of American Gardens at the Smithsonian, she weaves garden history, design,
+social history and women’s history into a tale of the times. At its height in the 1920s, the Jazz
+Age was known for music, dancing, liberation, and fun. Influences from Europe and America’s
+own garden past combined to produce some of the most creative and opulent gardens in
+American Garden History. Gardens, like art and music, reflect their time of creation. </p>
+                <p><a href="https://online.morrisarboretum.org/pages/continuing-education/endowed-lecture-fall-2014-endowed-lectures" class="button small radius"><strong>Register Online Now</strong></a></p>
+                </div>
+                <div class="four columns"><br><img src="images/ad-headshot-carey.jpg" alt="Gardens of the Jazz Age"><br>
+                <p align="center">Jenny Rose Carey<br> <em>Director of the Ambler Arboretum, Temple University</em></p></div>
+              </div>
+             </li>
+             
+
+           </ul>
+
+       
+        <br>
+       
+    <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        <br>  
+        
+    </div>
+    <!-- Nav Sidebar -->
+    <!--#include virtual="elements/sidebar-events.html" -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+    <!--#include virtual="elements/subnav-events.html" -->
+  </div>
+  
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+ 
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Horticulture</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-research.jpg" alt="Horticulture Research"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Horticulture Research</h2>
+      	<h3><strong>Collaborative Plant Exploration Program in China</strong></h3>
+ 
+        <p>Morris Arboretum's Paul W. Meyer, <em>The F. Otto Haas Director</em> and Anthony S. Aiello, <em>The Gayle E. Maloney Director of Horticulture and Curator</em> have been part of the collaborative plant exploration program in China for many years. Learn more about their expeditions to China in The Arnold Arboretum of Harvard University's quarterly publication, <a href="http://arnoldia.arboretum.harvard.edu/issues/247" target="_blank"><em>Arnoldia</em></a>.</p>
+		
+        <p><strong><a href="http://arnoldia.arboretum.harvard.edu/pdf/articles/2013-70-3-the-quest-for-the-hardy-southern-live-oak.pdf" target="_blank">The Quest for the Hardy Southern Live Oak</a></strong><br>
+        Anthony S. Aiello</p>
+        
+        <p><strong><a href="http://arnoldia.arboretum.harvard.edu/pdf/articles/2012-69-4-japanese-flowering-cherries-a-100-year-long-love-affair.pdf" target="_blank">Japanese Flowering Cherries: A 100-Year-Long Love Affair</a></strong><br>
+        Anthony S. Aiello</p>
+        
+        <p><strong><a href="http://arnoldia.arboretum.harvard.edu/pdf/articles/1952.pdf" target="_blank">The Return to China, Mother of Gardens</a></strong><br>
+      Paul W. Meyer</p>
+
+        <p><strong><a href="http://arnoldia.arboretum.harvard.edu/pdf/articles/1955.pdf" target="_blank">By the Numbers: Twenty Years of NACPEC Collections</a></strong><br>
+   	  Anthony S. Aiello, Michael S. Dosmann</p>
+
+        <p><strong><a href="http://arnoldia.arboretum.harvard.edu/pdf/articles/1958.pdf" target="_blank">Paperbark Maple - <em>Acer griseum</em></a></strong><br>
+        Paul W. Meyer</p>
+
+        <p><strong><a href="http://arnoldia.arboretum.harvard.edu/pdf/articles/1961.pdf" target="_blank">Manchurian Fir - <em>Abies holophylla</em></a></strong><br>
+        Paul W. Meyer</p>
+        
+        <p><strong><a href="http://arnoldia.arboretum.harvard.edu/pdf/articles/1967.pdf" target="_blank">Amur Maackia - <em>Maackia amurensis</em></a></strong><br>
+        Paul W. Meyer</p>
+
+        <p><strong><a href="http://arnoldia.arboretum.harvard.edu/pdf/articles/1968.pdf" target="_blank">Farges Filbert - <em>Corylus fargesii</em></a></strong><br>
+        Anthony S. Aiello</p>
+        
+        <hr>
+
+      <h3><strong>The Catalogue of Plants in the Living Collection</strong></h3>
+        <p>This online catalogue is a listing of every living plant for which collection records are kept.  It represents 7,618 records for plants and seedlots alive in the Arboretum as of January 2015. Because a record may have more than one plant, our collection has over 12,000 accessioned plants and seedlots.  These 12,000 plants represent approximately 2,500 taxa (types of plants). Annuals and most perennials are not accessioned.</p>
+        <p>This list is arranged alphabetically by scientific name.  It gives accession number, current location, scientific name, common name, provenance, source, how received, collector number, and native range for each plant or seedlot.  Accession numbers ending with an “#” are seedlots or non-labelled seedlings in propagation. 
+        </p>
+        <p>A grid map of the Arboretum is included to help users locate plants throughout the living collection.  Plants located at the Greenhouse, the Nursery, or Bloomfield Farm can be viewed by appointment only.</p>
+        <p> <a href="pdf/PlantCatalogue.pdf" target="_blank"><strong>Download a pdf of the Catalogue of Plants in the Living Collection </strong><i class="efoundicon-down-arrow"></i></a></p>   
+            
+      <br>  
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-research.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-research.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

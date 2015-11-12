@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html>
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Education</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+    <script> 
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '{your-app-id}',
+          xfbml      : true,
+          version    : 'v2.0'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+  
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-lectures.jpg" alt="Lectures"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="eight columns push-three">
+          <h2 class="first">Lectures &amp; Talks</h2>
+              <h2><em>Connections Beyond Our Garden</em> Lecture Series</h2>
+              <br>
+              <div class="row">
+                <div class="eight columns">
+                <a id="nov"></a>
+                  <h4 class="first"><strong>Getting and Giving—Tales of Cooking Seasonally and Eating Well for the Holidays</strong> </h4>
+                <p class="first"><strong>WEDNESDAY, NOVEMBER 11 | 2:00pm</em></strong></p>
+                <p><em>Registration and payment required. Members: $15 / Non-members: $20</em></p>
+                <p><strong>Speaker: Christopher Hirsheimer and Melissa Hamilton, <em>Canal House</em></strong></p>
+                <p>Hirsheimer, was a founder and executive editor, and Hamilton, the test kitchen director and food editor of Saveur magazine.  They now publish the award-winning series of seasonally inspired cookbooks, Canal House Cooking in Frenchtown, NJ.  In addition to their cookbooks, and daily blog, Canal House Cooks Lunch, they collaborate on projects with notable chefs and restaurateurs, cookbook authors, editors, garden designers, food entrepreneurs and distillers including: Los Angeles chef/restaurateur Nancy Silverton, Chicago’s master chef and television personality Rick Bayless, and Kentucky’s finest bourbon distillery, Maker’s Mark.</p> 
+                <p>Hirsheimer and Hamilton will share stories from their travels all over the world and from our own beautiful corner of the Northeast where they use ingredients found in most markets, building relationships with the people who grow, craft, raise and sell the foods we eat.</p>
+                <p><strong><a href="http://whyy.org/cms/fridayarts/canal-house/" target="_blank"><i class="efoundicon-monitor"></i>Watch this delightful pair as they talk about how they launched their food styling studio. </a></strong></p>
+              </div>
+                <div class="four columns"><br><p><img src="images/ad-cbog-Hirsheimer.jpg" alt="Christopher Hirsheimer and Melissa Hamilton"></p><br>
+                <p><a href="https://online.morrisarboretum.org/pages/continuing-education/lecture-fall-2015-connections-beyond-our-garden-" class="button medium">Register Now</a></p></div>
+              </div>
+              <hr>
+              <div class="row">
+                <div class="eight columns">
+                  <h4 class="first"><strong>Beauty, Craft and Creating Public Spaces in a City</strong> </h4>
+                <p class="first"><strong>WEDNESDAY, DECEMBER 2 | 2:00pm</em></strong></p>
+                <p><em>Registration and payment required. Members: $15 / Non-members: $20</em></p>
+                <p><strong>Speaker: Laurie Olin, <em>Partner, OLIN</em></strong></p>
+                <p>Bryant Park in NYC, Washington Monument Grounds in Washington DC, the American Academy in Rome, US Embassy in London,  and closer to home, the Barnes Foundation, Anne d’Harnoncourt Sculpture Garden and Dilworth Park.  These are just a few of the projects from the portfolio of the internationally known firm OLIN.  Dedicated to affecting positive change through landscape architecture, urban design and planning, the firm is known for creating iconic and vibrant landscapes.</p>  
+                <p>Laurie Olin, winner of the prestigious National Medal of Arts, a distinguished teacher, author and one of the most renowned landscape architects practicing today, has guided many of OLIN’s signature projects from vision to realization.  He will speak about the sculpture gardens, parks and civic spaces the firm designed between 1975-2015, the challenges in designing these types of projects, and what makes for a successful public space.</p>
+              </div>
+                <div class="four columns"><br><p><img src="images/ad-cbog-Olin.jpg" alt="Laurie Olin"></p>
+                <br>
+				<p><a href="https://online.morrisarboretum.org/pages/continuing-education/lecture-fall-2015-connections-beyond-our-garden-" class="button medium">Register Now</a></p></div>
+              </div>
+
+              
+                      
+      <br> 
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!-- Nav Sidebar -->
+    <div class="one column"></div>
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-ed.html" -->
+  </div>
+  
+  <!--Reveal Model-->
+     	   <div id="thomsonModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Keith Thomson</h3>
+            	 <p>Keith Thomson is professor emeritus of natural history, University of Oxford, and Executive Officer, American Philosophical Society since 2012. He is also the author of more than 200 scientific papers and twelve books. Thomson lives in Philadelphia.</p>
+                 <p>Keith Thomson on <strong>The Young Charles Darwin</strong><br>
+                    What sort of person was the young naturalist who developed an evolutionary idea so logical, so dangerous, that it has dominated biological science for a century and a half? How did the quiet and shy Charles Darwin produce his theory of natural selection when many before him had started down the same path but failed? This book is the first to inquire into the range of influences and ideas, the mentors and rivals, and the formal and informal education that shaped Charles Darwin and prepared him for his remarkable career of scientific achievement.</p>
+                    <p>Keith Thomson concentrates on Darwin’s early life as a schoolboy, a medical student at Edinburgh, a theology student at Cambridge, and a naturalist aboard the Beagle on its famous five-year voyage. Closely analyzing Darwin’s Autobiography and scientific notebooks, the author draws a fully human portrait of Darwin for the first time: a vastly erudite and powerfully ambitious individual, self-absorbed but lacking self-confidence, hampered as much as helped by family, and sustained by a passion for philosophy and logic. Thomson’s account of the birth and maturing of Darwin’s brilliant theory is fascinating for the way it reveals both his genius as a scientist and the human foibles and weaknesses with which he mightily struggled.</p>
+                 </div>
+                <div class="four columns"><img src="images/img-headshot-thomson.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="mcdowellModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">Marta McDowell</h3>
+            	    <p>Marta McDowell lives, writes and gardens in Chatham, New Jersey. She shares her garden with her husband, Kirke Bent, their crested cockatiel, Sydney, and assorted wildlife. Her garden writing has appeared in popular publications such as Woman’s Day, Fine Gardening and The New York Times. Scholars and specialists have read her essays on American authors and their horticultural interests in the journals Hortus and Arnoldia.</p>
+                    <p>Timber Press published Marta’s book, Beatrix Potter's Gardening Life, in 2013. It won the Silver Award from the Garden Writers Association in June 2014. Emily Dickinson’s Gardens, was published by McGraw-Hill in 2005.  Marta was an advisor for the New York Botanical Garden's 2010 exhibit "Emily Dickinson's Gardens: The Poetry of Flowers" and was a featured speaker. </p>
+                    <p>Marta teaches landscape history and horticulture at the New York Botanical Garden. A popular lecturer on topics ranging from design history to plant combinations, she has been a featured speaker at locations ranging from Wave Hill to the Garden Club of Philadelphia to the Beatrix Potter Society's Linder Lecture at the Sloane Club in London. With artist Yolanda Fundora, Marta wrote A Garden Alphabetized (for your viewing pleasure) in 2008.</p>
+                    <p>Her current projects include a book about the history of American gardening as seen through the gardens and grounds of the White House due out from Timber Press in 2016. Marta is on the Board of the NJ Historical Garden Foundation at the Cross Estate in Bernardsville, New Jersey.</p>
+                 </div>
+                <div class="four columns"><img src="images/img-headshot-mcdowell.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="fitzpatrickModal" class="reveal-modal">
+          	<div class="row">
+             	<div class="eight columns"><h3 class="tours">John W. Fitzpatrick</h3>
+            	    <p>John W. Fitzpatrick became the Louis Agassiz Fuertes Director of the Cornell Lab of Ornithology in August 1995. He received his B.A. from Harvard in 1974 and his Ph.D. from Princeton in 1978. An expert on the Florida Scrub-Jay, he is co-author of at least six bird species new to science. His book, <em>Florida Scrub Jay: Demography of a Cooperative-breeding Bird</em> earned him a William Brewster Award, the highest research award given by the American Ornithologists' Union. He also studies systematics and biogeography of South American birds. He co-authored <em>Neotropical Birds: Ecology and Conservation</em>, and was a major contributor to Volume 9 of the <em>Handbook of Birds of the World</em>.</p>
+<p>Today, Fitzpatrick works on the ecology, conservation biology, landscape genetics, and regional land management of endangered species, with emphasis on the cooperative-breeding Florida Scrub-Jay. He remains closely involved in an intensive, long-term demographic study (42 years and counting) of the color-marked jay population at the Archbold Biological Station. At the Cornell Lab of Ornithology, Fitzpatrick is involved in developing internet-based projects for citizen engagement in monitoring bird populations around the world, and using these data to draw attention to regional and global conservation priorities.</p>
+
+                 </div>
+                <div class="four columns"><img src="images/ad-Fitzpatrick.jpg"></div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+ 
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

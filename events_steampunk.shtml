@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Events</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-steampunk.jpg" alt="SteamPUNK Expo"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">2015 STEAMpunk Expo</h2>
+      <h3>Sunday, June 21 | 10:00am - 8:00pm<br>
+      <em>Various events throughout the garden.</em>
+      </h3>
+        <p>Explore the “what if?” around every bend as you stroll the dynamic Victorian garden. Discover the alternative aesthetic of steampunk, where a reimagined past creates a fantastic future. Before electricity and fossil fuels, steam was the power that drove adventure and exploration. Come to the Morris Arboretum for a day of events, fashion, food and fun. Watch the sun dip beyond the horizon as we celebrate the longest day of the year with an outdoor evening concert.  <a href="http://morrisarboretum.ticketleap.com/steampunk-expo/t/steampunk15/">Purchase tickets through TicketLeap</a>.</p>
+        <br>
+        <h4><strong>Dining Options at the STEAMpunk Expo:</strong></h4>
+        <ul class="content_list">
+        <li><a href="visit_cafe.shtml">Compton Caf&eacute;</a> will be open until 5:00pm</li>
+        <li>Picnicking on the grounds permitted after 5:00pm</li>
+        </li>
+        </ul>
+		<hr>
+        <h3><strong>Activities include:</strong></h3>
+        <h3><strong>Power it Up!</strong></h3>
+        <p><strong>1:00-4:00pm, <em>various locations throughout garden</em></strong></p>
+        <p>Imagine if you had to travel by hot air balloon or steam locomotive. Imagine if you had to wind your cell phone to charge it up. Explore the power of the past through the world of STEAM - Science, Technology, Engineering, Art and Math.  At activity stations throughout the Arboretum you can experience the fun as you experiment with water power, create a nature sun print, build a wind-up Lego&reg; race car, and construct a self-powered butterfly. <strong><em>Free with regular garden admission, however some activities may have a small fee.</em></strong></p>
+         <hr>
+        <h3><strong>The Museum of Interesting Things</strong></h3>
+        <p><strong>1:00-4:00pm, <em>Visitor Center Lower Gallery</em></strong></p>
+        <p>Stop by the Lower Gallery of the Visitor Center to get your hands on the past.   The Museum of Interesting Things, a traveling interactive demonstration/exhibition of antiques and inventions will be on hand to inspire your innovation and creativity.  Learn from the past to invent a better future. <strong><em>Free with regular garden admission.</em></strong></p>
+         <hr>
+        <h3><strong>Eureka!  The Invention Show</strong></h3>
+        <p><strong>1:00-4:00pm, <em>Visitor Center Classroom</em></strong></p>
+        <p>Denny Daniel  of The Museum of Interesting Things expounds on the Industrial Revolution, the mechanical era, and the earlier forms of green energy with interactive demonstrations of such items as the steam engine, Thomas Edison cylinder phonograph, windup toys and mechanical inventions. <em><strong>*Requires Expo ticket</strong></em></p>
+        <p><a href="http://morrisarboretum.ticketleap.com/steampunk-expo/t/steampunk15/" class="button small">Get Tickets Now</a></p>
+         <hr>
+        <h3><strong>Steampunk Storytelling</strong></h3>
+        <p><strong>11:30am-12:00pm, <em>Azalea Meadow Stage</em></strong></p>
+        <p>Historian, author and professor of arms Mark Donnelly will regale the audience with a tale of steampunk adventure.  <strong><em>Suitable for all ages.  Free with regular garden admission.</em></strong></p>
+          <hr>
+        <h3><strong>The Language of Flowers*</strong></h3>
+        <p><strong>12:00pm and 2:00pm, <em>Visitor Center Classroom</em></strong></p>
+        <p>A flower is worth more than a thousand words!  The tender loveliness of the essence of flowers can cast a magical spell and bring joy to the heart.  This presentation, by  Priscilla Gene W. Shaffer, instructor of flower arranging at Temple University/Ambler, and owner of Arts & Flowers, s'il vous plait! Inc., will include images of these gifts of nature, as well as discuss the symbolism attributed to these natural beauties through the ages. <em><strong>*Requires Expo ticket</strong></em></p>
+        <p><a href="http://morrisarboretum.ticketleap.com/steampunk-expo/t/steampunk15/" class="button small">Get Tickets Now</a></p>
+         <hr>
+         <h3><strong>Grist Mill Demonstration</strong></h3>
+        <p><strong>1:00 - 4:00pm, <em>Takes place at Bloomfield</em></strong></p>
+        <p>Visit historic Springfield Mills at Morris Arboretum’s Bloomfield Farm. At the mill, which was once powered by water, enjoy watching the corn ground and baked into muffins. <strong><em>Free with regular garden admission.</em></strong></p>
+          <hr>
+        <h3><strong>Contraptions – The Rube Goldberg Variations*</strong></h3>
+        <p><strong>1:00pm - 2:00pm, <em>Upper Gallery</em></strong></p>
+        <p>Historian and author Mark Donnelly presents the inventions no one mentions.  Professor Donnelly’s research into science gone wrong will captivate and amuse you.<strong> <em>*Requires Expo ticket.</em></strong></p>
+        <p><a href="http://morrisarboretum.ticketleap.com/steampunk-expo/t/steampunk15/" class="button small">Get Tickets Now</a></p>
+         <hr>
+        <h3><strong>Pterodomania – The Victorian Craze for Ferns*</strong></h3>
+        <p><strong>2:30-3:30pm, <em>Visitor Center Upper Gallery</em></strong></p>
+        <p>Victorians were obsessive collectors, and with the introduction of quicker steamships to transport plants, and the Wardian case to protect the plants as they traveled across oceans, collecting ferns became a Victorian passion.  Morris Arboretum’s own plant propagation goddess and delightful speaker, Shelly Dillard, will transport you back with words and images to discover this little known facet of Victorian culture. <strong><em>*Requires Expo ticket.</em></strong></p>
+        <p><a href="http://morrisarboretum.ticketleap.com/steampunk-expo/t/steampunk15/" class="button small">Get Tickets Now</a></p>
+         <hr>
+        <h3><strong>Bartitsu Workshop*</strong></h3>
+        <p><strong>3:00 - 4:00pm, English Park</strong></p>
+        <p>Learn to defend yourself like a true Victorian gentleman or lady.  Professor of Arms, Mark Donnelly, will lead you through a participatory workshop designed to help you ward off those street thugs. <em><strong>*Requires Expo ticket.</strong></em></p>
+        <p><a href="http://morrisarboretum.ticketleap.com/steampunk-expo/t/steampunk15/" class="button small">Get Tickets Now</a></p>
+         <hr>
+        <h3><strong>Fashion Show</strong></h3>
+        <p><strong>4:00-5:00pm,  Azalea Meadow Stage</strong></p>
+        <p>Come be awed by the original steampunk creations designed by students from The Art Institute of Philadelphia.  After a fashion show on the Azalea Meadow stage, students and their models will be available for up close looks and discussion. <em><strong>Free with regular garden admission.</strong></em></p>
+         <hr>
+        <h3><strong>Archaeology of the Ancient Near East in the Steam and Diesel Eras</strong></h3>
+        <p><strong>4:00-5:00pm, <em>Visitor Center Upper Gallery</em></strong></p>
+        <p>In the late 19th century archaeologists began to explore areas of the near east that were little known to Europeans.  Hear University of Pennsylvania archaeologist and Steampunk fiction author Brad Hafford discuss the mysteries uncovered in these early expeditions.<strong><em>*Requires Expo ticket.</em></strong></p>
+        <p><a href="http://morrisarboretum.ticketleap.com/steampunk-expo/t/steampunk15/" class="button small">Get Tickets Now</a></p>
+         <hr>
+        <h3><strong>This Way to the Egress*</strong></h3>
+        <p><strong>7:00 - 8:00pm, <em>Azalea Meadow Stage</em></strong></p>
+        <p>Dance your way toward sunset and hail the arrival of summer as This Way to the EGRESS presents the music from their astonishing new album Great Balancing Act. The band’s sound is a colorful collision of ragged rock, skewed eastern european beats, ska, sultry tangos and other brands of unclassifiable musical mayhem.
+        <em><strong>*Requires Expo ticket.</strong></em></p>
+        <p><a href="http://morrisarboretum.ticketleap.com/steampunk-expo/t/steampunk15/" class="button small">Get Tickets Now</a></p>
+      
+      <br>
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!-- Nav Sidebar -->
+	<!--#include virtual="elements/sidebar-events.html" -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-events.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

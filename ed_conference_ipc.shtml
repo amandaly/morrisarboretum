@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Education</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-ipc.jpg" alt="Invasive Plant Conference"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="eight columns push-three">
+      <h2 class="first"><small>Save the Date</small><br>
+		Mid-Atlantic Invasive Plant Council 2015 Conference <br>
+		<em><strong>Advances in Invasive Plant Science:</strong> Applying research outcomes to management and restoration at the species, community, and landscape levels</em></h2>
+      <h3>Tuesday, August 4 &amp; Wednesday, August 5, 2015<br>
+		Juniata College, Ellis Hall Ballroom<br>
+		Huntingdon, PA</h3>
+        <h4><strong>Keynote Speaker: </strong></h4>
+        <p>Johnny Randall, Director of Conservation Programs, North Carolina Botanical Garden</p>
+        <br>
+        <p>Join researchers and invasive plant managers as they come together to discuss the latest invasive plant research and how it can be used to increase the effectiveness of invasive plant management strategies.</p>
+        <p> Managing invasive plants in the Mid-Atlantic region can be complicated.  The area encompasses urban lands and wilderness areas, stretches from coastal swamps to high mountain forests, and includes numerous well-established invasive species.  Adding to the complexity are the threats of newly-emerging invasive species, the recent addition of biocontrol vectors, and the role of restoration in recently-managed areas.   With all of these factors, a scientific approach to managing invasive plants is critical to success.</p> 
+       
+        
+        <br>
+       <ul class="accordion">
+          <li>
+            <div class="title">
+      		<h3><strong>Complete List of Speakers</strong> <em>(Click to expand)</em></h3>
+            </div>
+            <div class="content">
+              <ul class="content_list">
+                <li><strong>Vanessa Beauchamp</strong> is an associate professor in the Department of Biological Sciences at Towson University. She is a plant ecologist and her interests include forest succession, habitat restoration, and invasive plant species. She received her Ph.D. from Arizona State University where she focused on the effect of dams on riparian ecosystems. Her postdoctoral work with the U.S. Geological Survey looked at restoration of xeric riparian terraces invaded by Tamarix. She’s currently studying the effect of a suite of invasive shrubs on forest understory species composition and investigating the ecology of wavyleaf basketgrass. She’s also one of the lead investigators on Project Wavyleaf, a Towson University citizen science initiative to map the distribution of wavyleaf basketgrass.</li> 
+                <li><strong>Deborah Delaney</strong> is an assistant professor of entomology in the Entomology and Wildlife Ecology Department at the University of Delaware. She teaches courses on insects and society as well as apiculture and pollination ecology. She is also a former beekeeper.  Deborah received her Ph.D. in entomology from Washington State University and her M.S. in environmental science from Oregon State University.</li> 
+                <li><strong>Mark Frey</strong> received a B.A. in Biology and in Environmental Studies from Oberlin College and an M.S. in Environmental Science from The Ohio State University. Mark joined the Exotic Plant Management Team (EPMT) in 2011. As EPMT Liaison, Mark manages a team of invasive plant control experts and provides technical invasive plant expertise to the National Capital Region parks. The Team supports the parks by controlling dozens of prioritized infestations of established weeds, eradicating early detection targets, and monitoring results. The team works in sixteen parks in D.C., Maryland, Virginia, West Virginia, and Pennsylvania. Before coming to D.C. Mark managed the Presidio Trust’s habitat restoration program in San Francisco. </li> 
+                <li><strong>Art Gover</strong> is a research support associate with the Wildland Weed Management program in the Department of Plant Science at the Penn State University.  Art has worked at Penn State since 1985, engaging in agronomic weed control, roadside/utility vegetation management, weed management in utility turf/landscapes, and his current emphasis on vegetation management in natural area settings.  Art’s primary duties are to assist the PA Bureau of State Parks to develop and implement habitat management plans at system-wide and park levels, provide operational and classroom training for staff and volunteers, conduct field research to refine current practice, provide support for field staff on an ongoing basis, and curate the Wildland Weed Management website at Penn State.  </li> 
+                <li><strong>Lea Johnson</strong> is an assistant professor at the University of Maryland, College Park in the Department of Plant Science and Landscape Architecture, and received her Ph.D. from Rutgers University.  She is a plant ecologist working on restoration of damaged urban land and applications of ecological science to land management. She does field projects in a variety of human-altered environments, from highway roadsides to effluent-rich rivers, public parks, and abandoned dumps. Her current interests include long-term effects of ecological restoration of urban woodlands.  She has worked for the New York City Department of Environmental Protection, and developed a science curriculum in Urban Ecology currently used in New York City high schools.  </li> 
+                <li><strong>Spencer Johnson</strong> is a Regional Team Leader for Invasive Plant Control, Inc.  As a regional Team Leader he has spent many years travelling the U.S. treating invasive plants in natural areas.  Stationed in Silver Spring, Maryland Spencer is currently managing up to six regional strike teams focused on utilizing selective control of invasive species in natural areas.  Spencer and his crews have treated hundreds of sites and species with a strong focus on EDRR.</li> 
+                <li><strong>Sara Kuebbing</strong> is a research fellow at the Yale School of Forestry & Environmental Studies where she studies the impacts of non-native, invasive species on native communities and ecosystems. Sara earned her doctoral degree in ecology and evolutionary biology from the University of Tennessee, Knoxville and her bachelor’s degree in wildlife conservation from the University of Delaware. </li> 
+                <li><strong>Kerrie Kyde</strong> is the Invasive Plant Ecologist for the Maryland Natural Heritage Program, Wildlife and Heritage Service, Maryland Department of Natural Resources.  She is responsible for assessment, control and monitoring of invasive plants and the ecological problems they cause on public land owned by DNR, about 475,000 acres.  She manages the new Statewide Eyes program, involving Maryland citizens in invasive plant identification, mapping and ultimately, control.  Ms. Kyde is a founding member of the Maryland Invasive Species Council, and was the founding president of the Mid-Atlantic Exotic Pest Plant Council (2000-2002). She is the Chair of Maryland’s Invasive Plant Advisory Committee, which is responsible for ranking ornamental invasives and addressing them through regulation.  She was a member of the original Maryland Master Naturalist Program Steering Committee. She works closely with non-governmental organizations and private citizens to tackle local invasive species issues.</li> 
+                <li><strong>Jorge Bogantes Montero</strong> is a natural resource specialist in the Stewardship Department of the Anacostia Watershed Society.   Before coming to AWS, Jorge worked for six years in biodiversity conservation issues and natural resources management in Costa Rica.  He received his B.S. in natural resources management and protection from Universidad Estatal a Distancia, in Costa Rica. Since April 2009 he has been working with the staff of the Anacostia Watershed Society doing reforestation, wetland restoration, as well as other revegetation projects, and invasive plant management. To do this work Jorge leads volunteer events engaging watershed residents and the public in meaningful outdoor stewardship activities.  Jorge also helps AWS's team of educators to teach people about conservation and restoration issues. </li>  
+                <li><strong>Norris Muth</strong> is an associate professor of biology at Juniata College with particular interests in the ecology and evolution of plant invasions. He began his studies at Brown University investigating the spread of purple loosestrife across the wetlands of Rhode Island. Persisting in the swamps of New England, Norris received his Masters of Forest Science from Yale University describing the herbivorous insect communities associated with Phragmites. He then completed his PhD at Stonybrook University assessing the relative contributions of "nature and nurture" to invasive species success. More recently Norris has undertaken studies on hemlock wooly adelgid, tree-of-heaven, the fungal associates of invading species, and the prospects for plant salvages to increase the commercial availability of native species.</li>
+                <li><strong>Samantha Nestory</strong> is a graduate research assistant at the University of Delaware.  She is pursuing a Master’s degree in Entomology under the advisement of Judy Hough-Goldstein. She received her bachelor’s degree in ecology from the University of Delaware in 2014. She plans to enter the field of restoration ecology upon graduation.</li> 
+                <li><strong>Ben Prater</strong> is a conservation biologist and the Director of Conservation at Wild South. Ben oversees the work of Wild South across national forests in eight states with active Wilderness stewardship programs and Wilderness designation campaigns underway.  Ben graduated from Catawba College with a degree in environmental science. He went on to earn a Master’s of Environmental Management from Duke University’s Nicholas School of the Environment where he focused on learning the principles of resource ecology, and ecosystem management.  Ben has been involved with Wild South since 2003. Now, as the Director of Conservation at Wild South he has dedicated his knowledge and skills to making a difference in the world of conservation and forest advocacy. </li>
+                <li><strong>Johnny Randall</strong> is the Director of Conservation Programs at the North Carolina Botanical Garden and adjunct faculty in the UNC-Chapel Hill Curriculum for the Environment and Ecology. Johnny is from Charlotte NC and received his bachelor’s degree in biology from UNC-Charlotte. He then attended Virginia Tech where he received both a masters and Ph.D. in botany/plant ecology. Johnny served as biology faculty at UNC-Greensboro and at the University of North Florida for a total of 10 years before coming to the North Carolina Botanical Garden in 1998. His primary responsibilities at the NC Botanical Garden are to oversee the conservation and management of approximately 1,000 acres of natural areas, administer the Garden’s conservation seed programs, and direct rare plant recovery projects.  Johnny also does research on rare plant reintroductions and habitat restoration/rehabilitation.  He is a member of the NC Plant Conservation Program Scientific Committee, a board member and past president of the NC Invasive Plant Council, and sits on several conservation boards and committees. </li>
+                <li><strong>Rod Walker</strong> has been involved in forestry all of his life.  He grew up on 18 wooded acres in Pennsylvania, his father worked for Westvaco for his entire career, and he and his wife Maggie have owned timberland in Wisconsin, West Virginia, and Virginia for over 40 years.  They currently own over 2,000 acres including the land where they live adjoining the Shenandoah National Park, not far from Charlottesville.  From the time he bought his first woodland in 1973, Rod has been studying forest management and practicing multi-use stewardship - including an ever increasing focus on forest health and dealing with invasive species.  He graduated from MIT in 1971 with a BS and an MS in Computer Science as well as a Master’s Degree in Finance from the MIT Sloan School of Management.  He retired from a 40+ year career in IT consulting (unrelated to forestry) in 2012.  Before retiring he was the CEO and Chairman of the Board of a 700+ person consulting firm.  Today he is leading the effort to launch the Blue Ridge PRISM, a Cooperative Weed Management Area covering 10 counties of Virginia. </li>
+    
+            </ul>
+            </div>
+          </li>
+        </ul>
+        
+        <ul class="accordion">
+          <li>
+            <div class="title">
+              <h3><strong>Complete Conference Agenda</strong> <em>(Click to expand)</em></h3> 
+            </div>
+            <div class="content">
+            <h3>Day One, August 4</h3>
+            <p><strong>8:15am Registration and Continental Breakfast</strong></p><br>
+            <p><strong>9:00am  Welcome and Introduction</strong> —Damien Ossi, <em>President, Mid-Atlantic Invasive Plant Council</em></p>
+            <br>
+            <p><strong>9:10am Keynote Talk: Invasive Plants Are NOT for the Birds</strong><em>—Johnny Randall, Director of Conservation Programs, North Carolina Botanical Garden, The University of North Carolina at Chapel Hill</em><br>
+            The co-evolutionary relationship between birds and the dispersal of fleshy fruits has gone bad. The bird/plant mutualism benefits multitudes of plants (for the effective dispersal of fruits/seeds) and birds (that receive a nutritious “reward”). Non-native plants (both invasive and benign) have “spoiled” this relationship by facilitating invasive plant spread, competing with native plants for fleshy fruit dispersal, and altering bird nutrition. In this presentation I will discuss the relationship between and among these separate but related phenomena for some of the common and incipient invasive plants in our region.</p> 
+            <br>
+            <p><strong>10:10am   Break</strong></p>
+            <br>
+            <p><strong>10:30am Ecological Restoration of Invaded Urban Forests: What Is Possible?</strong> <em>—Lea Johnson, Assistant Professor at the Univesity of Maryland</em><br>
+            More than half of humanity now lives in cities. Municipalities are increasingly turning to ecological restoration of urban forests to provide ecosystem services that cannot be outsourced. These forests are subjected to ongoing human-caused disturbances that provide challenges to restoration, from extreme fragmentation and local atmospheric warming to frequent introduction of non-native, invasive species. Studies of the effects of restoration treatments after 15-20 years in New York City Park forests invaded by non-native woody plants indicate both successes and a need for possibility-based approaches to setting targets for urban ecological restoration.</p>
+            <br>
+            <p><strong>11:00am Using Research to Guide Invasive Plant Management Efforts in the Anacostia River, a River in the Nation's Capital</strong> <em>-Jorge Bogantes Montero, Natural Resource Specialist, Stewardship Department, Anacostia Watershed Society</em><br>
+            For the last 10 years, the Anacostia Watershed Society (AWS), an environmental non-profit organization in the Washington, DC area, has been tackling the threat posed by invasive plant species in the wetlands, forests, and meadows of the Anacostia River watershed, an urban watershed in the Mid-Atlantic region. Throughout these years, AWS has been looking for ways to prioritize its invasive plant management efforts to make them more successful. As a small non-profit organization, scientific research has not been a top priority for AWS. However, as a way to make invasive plant removal efforts more beneficial and cost effective, AWS has started to measure the efficacy of its invasive plant management efforts by conducting applied field research. This research has made a difference in measuring removal success, recovery of native plant community, and also to determine what removal techniques work best. </p>
+            <br>
+            <p><strong>11:30am Prioritizing Early Detection Species in the National Capital Region</strong> <em>—Mark Frey, Exotic Plant Management Team Liaison, National Capital Region</em> <br>Invasive plants are found throughout the mid-Atlantic and no one has the resources to attack all plants impacting all areas. One important component of an effective invasive plant control program is target species prioritization. This presentation will discuss the qualitative and semi-quantitative prioritization systems in use or development for the National Parks Service's National Capital Region.</p>
+            <br>
+            <p><strong>12 noon Lunch</strong></p>
+            <p><strong>1:15pm The Linville Gorge Wilderness: A Case Study in Adaptive Management</strong> <em>—Ben Prater, Director of Conservation, Wild South</em><br>
+            The 1964 Wilderness Act called for preservation of “natural” conditions in wilderness areas.  For wilderness managers, preserving natural conditions has historically meant to do nothing or to actively prevent the destruction of the resource by disturbance.  In recent years, wilderness managers have begun to see that this is a contradiction especially when it comes to “natural” disturbances like wildfire. To further complicate matters we now have threats to our wild places such as the invasion of exotic pests that have drastic impacts on the “natural” conditions and wild character of wilderness areas.  Ben will use the Linville Gorge Wilderness, a fire-adapted 12,000 area with rare endemic plants, as a case study in adapting our management strategies as our ecological knowledge expands, threats grow, and our value for wilderness deepens. He will discuss the combined problems of the ecological degradation due to fire suppression and the invasion of non-native invasive plant species.</p>
+            <br>
+            <p><strong>1:45pm Managing Co-Invaded Forest Ecosystems:  Lessons from Research on Co-Occurring Invasive Woody Shrubs</strong> <em>—Sara Kuebbing, Postdoctoral Fellow, Yale School of Forestry and Environmental Studies</em> <br>
+            It is now common to find multiple nonnative, invasive plant species growing side by side in invaded habitats. Yet, a disproportionate amount of research has focused on understanding the effects of single rather than multiple invaders. This is true for eastern deciduous forests, which can be invaded by multiple woody shrub species. I discuss how interactions between invasive shrubs can alter their impacts on native plant communities and ecosystem function, and how co-occurring shrubs may indirectly promote the presence of other nonnative plants.</p>
+            <br>
+            <p><strong>2:15pm Forming a Landowner-Centric Cooperative Weed Management Area (CWMA)</strong> <em>—Rod Walker, One of the founders of the Blue Ridge PRISM; landowner in Albemarle County, VA</em><br>
+            A brief introduction to CWMAs will be followed by an update on the Blue Ridge PRISM (Partnership for Regional Invasive Species Management).  The Blue Ridge PRISM is the first CWMA to be headquartered in Virginia.  It covers 10 counties (almost 3 million acres) including the entire Shenandoah National Park.  This update will cover the strategies and plans for pulling together a large number of diverse landowners to work toward common goals.</p>
+            <br>
+            <p><strong>2:45pm   Break</strong></p>
+            <br>
+            <p><strong>3:00pm   Mechanical and Biological Controls Methods for Japanese Stiltgrass (Microstegium vimineum)</strong> —Samantha Nestory, <em>Graduate Research Assistant at the University of Delaware</em><br>
+Japanese stiltgrass (Microstegium vimineum) is an invasive grass that poses a major threat to the biodiversity of many natural areas throughout its introduced range. While there are recommended control methods, few studies have scientifically quantified the efficacy of these control methods. A study conducted through the University of Delaware evaluated the effect of mowing height on regrowth, reproductive output, and the resident plant community. </p>
+            <br>
+            <p><strong>3:30pm Halt! Who Goes There? Maryland's Weed Risk Assessment Process</strong> —Kerrie Kyde, <em>Invasive Plant Ecologist/ Regional Biologist 
+Natural Heritage Program, Maryland DNR - Wildlife and Heritage Service</em><br>
+In 2011, Maryland created an Invasive Plant Advisory Committee, and adopted a formal risk assessment and ranking system for plants, largely those introduced through ornamental horticulture,  This session explains the background of the law, the assessment tool and its use, and the current species rankings of invasive plants within the state.  The need for and development of the new Statewide Eyes program is also described.</p>
+            <br>
+            <p><strong>4:00pm   Adjourn</strong></p>
+            <p><strong>5:00pm   Poster Session and Reception</strong></p>
+            <br><br>
+            
+            <h3>Day Two, August 5</h3>
+            <p><strong>8:15am Registration and Continental Breakfast</strong></p><br>
+            <p><strong>9:00am Mid-Atlantic Invasive Plant Council Business Meeting</strong><em> —Damien Ossi, President, MAIPC</em></p>
+            <br>
+            <p><strong>9:45am Sustaining Native Pollinators: Beyond the Butterfly Garden</strong> <em>-Deborah Delaney, assistant professor of entomology in the Entomology and Wildlife Ecology Department at the University of Delaware</em> <br>
+            If our native landscapes are to be “sustainable,” our native flora needs to be able to self-perpetuate. This requires seed production and, in turn, the services of pollinators. This presentation will discuss pollinators found in the northeast and their nutritional requirements; the effect of land use on pollinator health and diversity; and new data on pollinator preferences of different plant cultivars within specific genera.   Deborah will also cover invasive Plants and their impacts on native pollinators.</p>
+            <br>
+            <p><strong>10:15am Break</strong></p>
+            <br>
+            <p><strong>10:30am The Ecology and Control of Wavyleaf Basketgrass (Oplismenus undulatifolius)</strong> <em>—Vanessa Beauchamp, Associate Professor, Department of Biological Sciences, Towson University</em><br>
+            In her talk Dr. Beauchamp will cover habitat, seed production, dispersal and competitive ability of wavyleaf basketgrass, a relatively new forest understory invader in the mid-Atlantic.   She will also talk about an ongoing herbicide control study and a new citizen-science initiative to map the distribution of wayleaf basketgrass.</p>  
+            <br>
+            <p><strong>11:00am Hits and Misses: Managing Japanese Stiltgrass with Preemergence Herbicides</strong><em>—Art Gover, Research Support Associate with the Roadside Vegetation Management Project of the Department of Horticulture at the Penn State University</em><br>
+            This talk will review the specifics of using pre-emergence herbicides to manage stiltgrass, compare this approach to postemergent methods, and consider how this approach integrates with other management tools and management of other species in the same setting.</p>
+            <br>
+            <p><strong>11:30am Source materials for ecological restoration and the role of local adaptation</strong> —Norris Muth, associate professor of biology at Juniata College—Managing the invasive species in a site is but one important aspect of the larger goal of restoration. Whether the goals of a project include restoration of function, aesthetics, or a particular community composition, it is always necessary to consider what might come after the weeds are gone (if we should be so fortunate). In the most promising of cases, native or desirable plants may colonize a site at an acceptable rate, unassisted. In other cases it is often necessary to play a more active role towards shaping the future vegetation by intentional introduction or reintroduction of selected species. This type of management leads to a number of potentially non-trivial decisions, including, from where should our restored plants be sourced? Addressing this question carefully is important as it will affect the ultimate success of the effort, the price tag and logistical ease of the project, and the ecological and evolutionary future of the site and the species therein. Our presentation here aims to address some of the major concerns about revegetation provenance choices with a particular focus on the role and scope of local adaptation.</p>
+            <br>
+            <p><strong>12 noon Lunch</strong></p>
+            <br>            
+            <p><strong>IPC Strike Team Field Demonstration</strong><br>
+            During this session participants will take a 15 minute stroll to the Peace Chapel Natural Area.  The Peace Chapel occupies 14 acres just east of the Juniata College campus, off Warm Springs Avenue in Huntingdon, Pennsylvania, and is part of the larger 315-acre Baker-Henry Nature Preserve. The preserve was originally donated to Juniata by John C. Baker and C. Jewett Henry as a bird sanctuary and land preserve. The crew from one of Invasive Plant Control, Inc’s  (IPC) Mid Atlantic Strike Teams will be onsite to demonstrate the tools, equipment, and various methods used to treat some of the common invasives in the Mid Atlantic including Ailanthus and spotted knapweed.   IPC’s strike teams travel thousands of miles each year selectively treating invasives in natural area and are currently developing a model EDRR Strike Team for the Department of Defense.</p>
+            <br>
+            <p><strong>3:30pm Return to Conference Room and Adjourn </strong></p>
+            
+			</div>
+          </li>
+        </ul>
+        <h3><strong>Registration &amp; Fees</strong><br>
+		<em><span class="red">Registration is now closed.</span></em></h3>
+        <p>$210 per person<br>
+        $155 for lifetime MAIPC members<br>
+        $100 for Students with ID<br>
+        <em>*Registration will be refunded only if notification is received no later than seven (7) working days prior to the event less a $15 processing fee.</em></p>
+                <p class="hide"><a href="https://online.morrisarboretum.org/pages/continuing-education/conference--2015-invasive-plant-conference" target="_blank" class="button medium"><strong>Register Online Now</strong></a></p>
+		<br><br>
+        <p><strong>Who Should Attend</strong><br>
+        Managers of parks, preserves, conservation districts and other natural areas, invasive plant management and restoration specialists, researchers, students, gardeners, landscape architects, managers of botanical gardens and nurseries, extension agents, environmental educators, garden writers, recreational land managers, and others interested in learning more about invasive plants, biodiversity, and habitat restoration.</p>
+        
+        <p><strong>Overnight Accommodations</strong><br>
+		A limited number of overnight accommodations are available in the Juniata College dormitories. <a href="http://services.juniata.edu/conferences/registration/form.html?camp_id=144" target="_blank">Click here for reservations &raquo;</a></p>
+        <p><a href="http://www.juniata.edu/about/visit/accommodations.html" target="_blank">Click here for a list of area hotels &raquo;</a></p>
+        
+      	<p class="hide"><strong>The following Continuing Education Units (CEUs) will be available:</strong><br>
+		International Society of Arboriculture CEUs for certified arborists<br>
+		Society of American Foresters Continuing Forestry Education Credits<br>
+		Pesticide recertification for the following states:  PA, DE, NJ, WVA, MD, VA
+</p>
+      	
+       	<br>
+        <h3><strong>This conference was made possible by the generous support and cooperation of the following partners:</strong></h3>
+        
+        <p><strong>Full Conference Sponsor:</strong><br>
+Invasive Plant Control, Inc.</p>
+<p><strong>Scholarship Sponsors:</strong><br>
+National Park Service Mid-Atlantic Exotic Plant Management Team<br>
+National Park Service National Capital Region Exotic Plant Management Team<br>
+National Park Service Northeast Exotic Plant Management Team</p>
+<p><strong>Champion Sponsors:</strong><br>
+Ernst Conservation Seeds<br>
+Powdermill Nature Reserve<br>
+Sarver Ecological</p>
+<p><strong>Supporting Sponsors:</strong><br>
+Chesapeake Natives, Inc.<br>
+Earth Sangha<br>
+Maryland Native Plant Society<br>
+Maryland Nursery  Landscape and Greenhouse Association<br>
+Pennsylvania Center for Private Forests<br>
+University of Georgia, Center for Invasive Species & Ecosystem Health<br>
+Virginia Native Plant Society</p>
+		 
+        <br>
+		<p><a href="http://www.maipc.org/"><img src="images/logo-MAIPC.jpg" width="190" alt="Mid Atlantic Invasive Plant Council"></a> <a href="http://www.invasiveplantcontrol.com/"><img src="images/logo-IPC.jpg" width="95" alt="Invasive Plant Control" class="left" style="padding-right:20px;"></a></p>
+
+        
+      
+      <br> 
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!-- Nav Sidebar -->
+    <div class="one column"> </div>
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-ed.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

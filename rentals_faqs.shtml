@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html>
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Rentals</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-rentals.jpg"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Rental FAQs</h2>
+      <h4><em><br>
+      May I bring my wedding party to Morris Arboretum for picture-taking?</em></h4>
+        <p>As long as you have rented the arboretum for your wedding, you are welcome to shoot your wedding photos on the grounds.</p> 
+        
+        <hr>
+        <h4><a id="vendors"></a><em>May I hire any caterer of my choosing?</em></h4> 
+      	<p>You must choose your caterer from a list of approved caterers that offer you a broad range of menu options, styles and pricing. We have carefully pre-screened our caterers to assure that they are thoroughly familiar with the Arboretum's facilities and policies, while offering you the highest quality of support and service. <strong>The preferred caterers can be contacted at the numbers below:</strong> </p>
+      	<div class="row">
+            <div class="four columns"><p><a href="http://www.birchtreecatering.com/" target="_blank">Birchtree Catering</a><br>
+            215.744.9489 </p></div>
+            <div class="four columns"><p><a href="http://www.toscanolansdale.com/" target="_blank">Carl Bruno <br>
+            Ristorante Toscano</a><br>
+          	267.240.5624</p></div>
+            <div class="four columns"><p><a href="http://www.companyscomingphl.com/" target="_blank">Company's Coming</a><br>
+            610.247.4353</p></div>
+        </div>
+        <div class="row">
+        	<div class="four columns"><p><a href="http://feastyoureyescatering.com/" target="_blank">Feast Your Eyes</a><br>215.634.3002</p></div>
+            <div class="four columns"><p><a href="http://jamcater.com" target="_blank">Jeffrey Miller</a> <br>610.622.3700</p></div>
+            <div class="four columns"><p><a href="http://www.joshuasevents.com/" target="_blank">Joshua's Catering</a><br>
+            215.224.1800 </p></div>
+        </div>
+        <hr>
+        <h4><em>Can we get married at the Arboretum November through March?</em></h4>
+        <p>Yes, we do have ceremonies/receptions at the Arboretum November through March. However, the tented area is not available during that time. Only the Upper Gallery in the Widener Building is available for events, limiting the maximum attendance to 65. Still interested? Contact the Rentals Team for pricing and more information.</p>
+        <hr>
+       <h4><em> Is there a ceremony-only option?</em></h4>
+        <p>Yes, from time to time the Arboretum is able to accommodate ceremony-only events in the Garden. The Arboretum offers a two hour window, shortly after the public closing of the Garden, during which time you can have a ceremony (with up to 75 people) and time to roam the Garden capturing exquisite wedding photos. Ceremony-only events cannot be booked more than three months in advance.</p>
+        <hr>
+        <h4><em>How can I reserve a date at the Morris Arboretum?</em></h4>
+        <p> In order to secure a date, you must sign a contract. At that time we ask for a non-refundable deposit of 50% of the <a href="rentals_rates.shtml">rental fee</a>. The Morris Arboretum does not hold dates without a contract. The final rental payment is due 90 days before your event.</p>
+        <hr>
+        <h4><em>May we serve alcohol?</em></h4>
+        <p>Yes. You provide your own alcohol but your caterer's bartender must serve all alcoholic beverages. Additionally, alcoholic beverages cannot be consumed in public areas of the Garden during public hours.</p>
+        
+        <hr>
+        <h4><em>Besides caterers, does the Morris Arboretum require the use of specifc vendors?</em></h4>
+        <p>Any florist, band, DJ, or officiant is welcome to service your event at the Arboretum. However, all vendors will be required to follow all Garden policies and procedures, including load-in and load-out procedures.</p>
+        
+        <hr>
+        <h4><em>What is the maximum number of guests that can be accommodated for a sit-down reception?</em></h4>
+        <p>175 is the maximum that can comfortably be seated in our tented reception area attached to the Widener Visitor Center carriage house. Within the Widener Visitor Center, the Upper Gallery can accommodate 65.</p>
+        
+        <hr>
+        <h4><em>Can I hold my ceremony and/or reception in the Rose Garden?</em></h4>
+        <p>Under certain circumstances and times of the year, the Rose Garden can be made available for a ceremony at an additional fee. Please inquire if you are interested.</p>
+        
+        <hr>
+        <h4><em>Are the grounds and reception area wheelchair accessible?</em></h4>
+        <p>Yes. <a href="visit_accessibility.shtml">Please visit our Accessibility page for additional information.</a></p>
+        
+        <hr>
+        <h4><em>In the case of inclement weather, what happens to an outdoor wedding?</em></h4>
+        <p>As a back-up, the Upper Gallery or the Side Tent of the Widener Visitor Center are alternatives, in the event of inclement weather. You can work with your caterer on a rain plan set-up. All approved caterers are prepared to make the switch quickly should the need arise.</p>
+                
+        <hr>
+        <h4><em>Is there a parking fee for our guests?</em></h4>
+        <p>We have ample, free parking.</p>
+        
+        <hr>
+        <h4><em><a id="accomodations"></a>Are there lodging options conveniently located nearby for my guests?</em></h4>
+        <p>Yes, there are bed and breakfast accommodations and an inn in nearby Chestnut Hill, and hotels close by in the Ft. Washington and Plymouth Meeting areas of suburban Montgomery County. <strong>Below is a list of nearby accomodations:</strong> </p><br>
+        <div class="row">
+            <div class="six columns"><p><a href="http://www.chestnuthillhotel.com/" target="_blank">Chestnut Hill Hotel</a><br>8229 Germantown Avenue<br>Philadelphia, PA<br>Contact: (215) 242-5905</p></div>
+       
+        	<div class="six columns"><p><a href="http://doubletree3.hilton.com/en/index.shtml" target="_blank">Double Tree Suites</a><br>Germantown Ave and Hickory Road<br>Plymouth Meeting, PA<br>Contact: (610) 834-8300</p></div>
+        </div>
+        
+        <div class="row">
+            <div class="six columns"><p><a href="http://www.marriott.com/hotels/travel/phlpy-springhill-suites-philadelphia-plymouth-meeting/" target="_blank">Spring Hill Suites </a><br>430 Plymouth Road<br>Plymouth Meeting, PA<br>
+            Contact: Russell Banks <br>
+            (484) 213-8687 </p>
+            </div><br>
+        	<div class="six columns"><p><a href="http://www.marriott.com/hotels/travel/phlcy-courtyard-philadelphia-plymouth-meeting/" target="_blank">Courtyard by Marriott</a><br>Germantown Pike and Hickory Road<br>Plymouth Meeting, PA<br>
+        	  Contact: Russell Banks <br>
+        	  (484) 213-8687</p></div>
+        </div>
+        
+        <div class="row">
+        	<div class="six columns"><p><a href="http://hamptoninn3.hilton.com/en/hotels/pennsylvania/hampton-inn-philadelphia-plymouth-meeting-PHLPMHX/index.shtml" target="_blank">Hampton Inn</a><br>Chemical Road<br>Plymouth Meeting, PA<br>Contact: (610) 567-0900</p></div><br>
+            <div class="six columns"><p><a href="http://www.ihg.com/holidayinn/hotels/us/en/fort-washington/ftspa/hoteldetail" target="_blank">Holiday Inn</a> <br>Pennsylvania Ave and Bethlehem Pike<br>Fort Washington, PA<br>Contact: (215) 643-3000</p></div>
+        </div>
+        
+      <div class="row">
+        	<div class="six columns"><p><a href="http://hiltongardeninn3.hilton.com/en/hotels/pennsylvania/hilton-garden-inn-philadelphia-ft-washington-PHLFWGI/index.shtml" target="_blank">Hilton Garden Inn</a><br>530 W. Pennsylvania Avenue<br>Fort Washington, PA<br>
+        	  Contact: Amy Aldred<br>
+        	  (215) 646-4637 x103</p></div><br>
+        <div class="six columns"><p><a href="http://plymouthmeeting.house.hyatt.com/hyatt/hotels-plymouthmeeting-house/" target="_blank">Hyatt Somerfield Suites</a> <br>501 E. Germantown Pike<br>East Norriton, PA<br>Contact: (610) 313-9990 x601</p></div>
+        </div> 
+        
+      <br>  
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-rentals.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-rentals.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

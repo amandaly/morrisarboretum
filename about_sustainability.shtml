@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | About</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-sustainability.jpg" alt="Sustainability at Morris Arboretum"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="eight columns push-three">
+      <h2 class="first">Sustainability at Morris Arboretum</h2>
+      <br><br>
+        <p>When the University of Pennsylvania launched its <a href="http://www.upenn.edu/sustainability/about-us/our-climate-action-plan" target="_blank"><strong>Climate Action Plan 2.0</strong></a> in the fall of 2014, it increased its geographic footprint from the core academic campus, to more fully reflect the full range of the University’s built assets, incluing the Hospital of the University of Pennsylvania, the Morris Arboretum, the New Bolton Center, and Penn’s leased space and real estate projects.</p>  
+        <p>As part of the Climate Action Plan 2.0, Morris Arboretum is documenting the current state of its environmental sustainability efforts to institutionalize best practices and build upon past successes, including landscape management, horticulture, the construction and operation of a LEED Platinum building, academic programs and community outreach and engagement.</p>
+        <p>Morris Arboretum is committed to sustaining our natural resources. The 167-acre Arboretum property is a collection of landscape demonstrations exhibiting stewardship of different kinds of landscapes found throughout the metropolitan area.</p> 
+<br><br>
+<blockquote style="font-size:28px;">Our Sustainability Achievements</blockquote>
+<div class="row">
+<div class="three columns mobile-six"><h3><img src="images/img-sustain-collection.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns mobile-six"><hr><h3><strong>Collection of Living Plants</strong></h3>
+<p>More than 12,000 labeled plants of approximately 2,500 types are growing in the Arboretum’s living collection. These include representatives of the temperate floras of North America, Asia, and Europe. <a href="gardens.shtml"><strong>Learn More &raquo; </strong></a></p></div>
+</div>
+
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-hort-center.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>Horticulture Center Complex and Bloomfield Farm</strong></h3>
+<p>Located across the street from the Arboretum’s public garden is Bloomfield Farm, showcasing sustainable demonstrations of the oldest and newest structures at Morris Arboretum</p>
+<p><strong>Platinum LEED designated Horticulture Center:</strong>  This 20,840-square foot facility built in 2010 provides work space for the Arboretum’s horticulture, public programs, and facility staff The Arboretum is committed to “raising the bar” for itself as well as for the wider community; as such, the Horticulture Center demonstrates the highest level of sustainable practices, and has achieved the highest level of LEED® Certification: Platinum. <a href="hort_center.shtml"><strong>Learn More &raquo; </strong></a></p> 
+<br>
+<p><strong>Springfield Mills: </strong>Recently restored to working order, the Grist Mill offers visitors an insight into where food comes from, and management of water resources. <a href="gardens_buildings_springfieldMills.shtml"><strong>Learn More &raquo; </strong></a></p></div>
+</div>
+
+
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-botany.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>Botanical Research Conservation </strong></h3>
+<p>Since its inception as a public garden, the Morris Arboretum has served as a center for botanical research. We recognize the importance of understanding the dynamic nature of the flora and seek to gain insights into these changes through work in the field, laboratory, and at the computer. <a href="botanical.shtml"><strong>Learn More &raquo; </strong></a></p></div>
+</div>
+
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-research.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>Horticultural Research and Plant Exploration </strong></h3>
+<p>Morris Arboretum experts have been part of collaborative plant exploration programs with other arboreta to study plants throughout Asia and the U.S. <a href="horticulture.shtml"><strong>Learn More &raquo; </strong></a></p></div>
+</div> 
+
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-parking.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>Sustainable Parking Lot</strong></h3>
+<p>Morris Arboretum’s parking lot is a demonstration lot for sustainability. Installed 25 ago as one of the first of its kind, the parking lot has filtered into the earth about 31,863,304 gallons of precipitation from the Wissahickon watershed. This equates to a lifetime of drinking water for more than 1,000 of our neighbors downstream, or the annual tap water used by about 4,000 households, or one day’s average tap water use by 366,245 Philadelphians. The parking lot will be renewed and rededicated in the fall of 2015 so as to continue its sustainable attributes.</p></div>
+</div>
+
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-ed.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>Educational Programming</strong></h3> 
+<p>Youth programs like Growing Minds provide an introduction to the natural world. Youth who are connected to nature are more likely to be sustainable stewards in the future.</p>
+<p><strong>Professional and Continuing Education Programs:</strong> The Morris Arboretum offers a wide array of courses dedicated to the history, research, appreciation and preservation of natural landscapes, plants and animals, as well as classes for professional credit. Youth programs like the Growing Minds series provide an introduction to sustainability issues for children. <a href="ed_classes.shtml"><strong>Learn More &raquo; </strong></a></p>
+<br>
+<p><strong>Internship Program:</strong> The internship program provides hands-on experience and education that prepares interns for careers in public gardens and related fields. Morris Arboretum offers year-long, full-time accredited internships in nine different areas. <a href="ed_internships.shtml"><strong>Learn More &raquo; </strong></a>
+<br>
+<p><strong>Partners in Education:</strong> This program is collaboration between the Morris Arboretum and Title I Schools in Philadelphia to promote environmental awareness in K-12 grade students. <a href="ed_partners.shtml "><strong>Learn More &raquo; </strong></a></p>
+<br>
+<p><strong>Summer Adventure Camp:</strong> For youth ages 6-10, the Arboretum’s summer camp introduces children to the wonders of nature. <a href="ed_summerAdventureCamp.shtml"><strong>Learn More &raquo; </strong></a></p>
+<br>
+<p><strong><strong>Conferences and Symposiums</strong></strong></p>
+	<p>The Arboretum’s annual winter symposium on ecological landscape design brings together speakers from across the country to discuss environmental issues that relate to landscape design, including the use of native plants, restoration, and wildlife habitat creation. <a href="ed_conferences_LDS.shtml"><strong>Learn More &raquo;</strong></a></p>
+	<p>Woody Plant Conference features speakers on topics related to woody plants, from pest and disease problems to plant exploration and design. <a href="woodyPlantConference.shtml"><strong>Learn More &raquo;</strong></a></p></div>
+</div>
+    
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-cafe.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>The Shop and Cafe</strong></h3>
+<p><strong>3 Star Certified Green Restaurant:</strong> Our café has met the environmental standards of the Green Restaurant Association, a national non-profit that has been greening restaurants since 1990. <a href="visit_cafe.shtml"><strong>Learn More &raquo;</strong></a></p>
+<br>
+<p><strong>The Shop at Morris Arboretum</strong> is uniquely green, specializing in locally crafted goods, and recycled and repurposed items. <a href="visit_theshop.shtml"><strong>Learn More &raquo;</strong></a></p></div>
+</div>
+
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-consulting.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>Consulting Services</strong></h3> 
+<p>Morris Arboretum’s Urban Forestry Consultants are recognized tree care experts who are not only help to conserve our urban forests, but teach others to be stewards as well. Our clients  are diverse, and include landscape architecture firms, educational institutions, businesses, professional organizations, and federal, state, local governments, and other institutions. <a href="arboriculture.shtml"><strong>Learn More &raquo;</strong></a></p></div>
+</div>
+
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-penn.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>Penn Outreach</strong> </h3> 
+<p>Morris Arboretum is active in its outreach to Penn students including Penn Preceptorials, the ESCAPE program, and the Penn Tree Program. <a href="yourArboretum.shtml"><strong>Learn More &raquo;</strong></a></p></div>
+</div>
+
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-ooal.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>Exhibits</strong></h3>
+<p><em>Out on a Limb</em> – a Tree Adventure exhibit provides experiential environmental education unique to the mid-Atlantic region. <a href="gardens_treeadventure.shtml"><strong>Learn More &raquo;</strong></a></p></div>
+</div>
+
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-preservation.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>Historic Preservation and Restoration</strong></h3> 
+<p>Morris Arboretum is a model for historic preservation and adaptive reuse. In preserving and restoring existing features at the Arboretum, we are modeling the best sustainable practices. <a href="gardens_buildings.shtml">Learn More &raquo;</a></p></div>
+</div>
+
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-bike-share.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>Philly Bike Share Program</strong></h3>
+<p>Morris Arboretum has been featured on the Bike Share billboard at 40th and Spruce near Penn’s Campus. Philadelphia continues to be one of the most bike-friendly cities in the country with the launch of its own bike sharing program called Indego. Launched in the spring of 2015, Indego allows visitors or members to rent bicycles from 70 stations located from the Delaware River, across the Schuylkill River, into West Philadelphia and from South Philadelphia to North Philadelphia, including Temple University’s main campus. Cyclists can walk up to any Indego station and check out bikes for quick trips around the city 24 hours a day, seven days a week. The quick and convenient system allows users to return their bike rental to the nearest station after their ride is complete.</p>
+<p><strong>Green Admission</strong><br>
+Morris Arboretum offers half priced admission to anyone who visits the Arboretum without a car (Hike, Bike, or Septa).</p></div>
+</div>
+ 
+
+
+
+<div class="row">
+<div class="three columns"><h3><img src="images/img-sustain-arbnet.jpg" alt="Sustainability"></h3></div>
+<div class="nine columns"><hr><h3><strong>Awards and Recognition</strong></h3>
+<p>The Morris Arboretum has received numerous awards for its many sustainable efforts.</p>
+
+<h4><strong><em>Out on a Limb</em> - a Tree Adventure exhibit	</strong></h4>
+<ul class="content_list">	
+    <li>Buildy Award 2015, Mid-Atlantic Association of Museums</li>
+    <li>Excellence in Exhibition Design 2010, American Association of Museums</li>
+    <li>Philadelphia Gold Medal for Design Excellence 2010,	 American Institute of Architects</li>
+    <li>Pennsylvania Architectural Excellence 2010,	 American Institute of Architects</li>
+    <li>Best of Philly Award 2010,	 Philadelphia Magazine</li>
+    <li>International 'Making Cities Liveable Green Places' Award 2010</li>
+    <li>Model of Excellence Award	 University of Pennsylvania	 2010</li>
+</ul>
+ 
+<h4><strong>Horticulture Center</strong></h4>
+<ul class="content_list">	
+    <li>American Architecture  Award 2012,	 Chicago Anthenaeum</li>	
+    <li>Land Development Award 2011, Montgomery County Planning Commission</li>
+    <li>Merit Award for Design Excellence and Sustainability Commendation 2011, American Institute of Architects</li>
+</ul>
+ 
+<h4><strong>Other	</strong></h4>	
+<ul class="content_list">	
+    <li>Henry Meigs Environmental Leadership Award (Ann Rhoads) 2014, Schuykill Center for Environmental Education</li>
+    <li>Liberty Hyde Bailey Award (Paul Meyer) 2013, American Horticultural Society</li>
+    <li>APGA Award of Merit (Paul Meyer) 2013,	 American Public Garden Association</li>
+    <li>Advocate of the Watershed Environmental Award (Timothy Block) 2013, Perkiomen Watershed Environmental Award</li>
+</ul>
+</div>
+</div>
+
+      <br>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <div class="one column"></div>
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-about.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

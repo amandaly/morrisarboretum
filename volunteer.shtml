@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html>
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Volunteer</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-volunteer.jpg" alt="Volunteer"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Become a Volunteer</h2>
+
+		<br>
+          <p>Volunteering at the Morris Arboretum can be a rewarding and stimulating experience. You will learn new skills, make new friends, and become a valued member of the extended volunteer staff. The Arboretum could not accomplish all that it does without the help of its volunteers who play an integral role in the organization. Listed below are some of the areas in need of assistance, with a contact person for each area. Thank you for considering this volunteer opportunity. We hope to see you at the Arboretum soon!</p>
+          <p><a href="pdf/volunteer-application.pdf" target="_blank"><strong>Download the Volunteer Application <i class="efoundicon-down-arrow"></i></strong></a></p>
+          <div href="#" class="medium button dropdown">
+          Select a Volunteer Area
+          <ul>
+            <li><a href="#guides">Guides</a></li>
+            <li><a href="#horticulture">Horticulture</a></li>
+            <li><a href="#gr">Garden Railway</a></li>
+            <li><a href="#events">Special Events</a></li>
+            <li><a href="#membership">Membership</a></li>
+            <li><a href="#visitorservices">Visitor Services</a></li>
+            <li><a href="#marketing">Marketing</a></li>
+            <li><a href="#mill">Springfield Mills</a></li>
+            <li><a href="#archives">Archives and History</a></li>
+            <li><a href="#shop">The Shop</a></li>
+            <li><a href="#facilities">Physical Facilities</a></li>
+          </ul>
+        </div>
+        
+        <hr>  
+        <h3><a id="guides"></a>Guides</h3>
+        <p>Play a key role at the Arboretum by welcoming visitors and leading tours for school children, families, and adult groups. A course designed specifically for new guides is offered every spring. No previous background knowledge is necessary, but an interest in plants, history and ecology is important, as is an eagerness to communicate these topics to visitors.</p>
+        
+        <p>To be considered for the next class, please complete an application and email, bring in or mail to:<br>
+        Morris Arboretum, Attn: Liza Hawley<br>
+        100 E Northwestern Ave, Philadelphia, PA 19118</p>
+        
+        <p><strong>For more information contact: Liza Hawley - <a href="mailto:efhawley@upenn.edu">efhawley@upenn.edu</a> or 215.247.5777 ext.128</strong>.</p>
+        
+        <hr>
+        <h3><a id="horticulture"></a>Horticulture</h3>
+        <p>Volunteers assist in garden maintenance projects. They meet weekly from mid-March through mid-December. Each week the group rotates throughout the entire Arboretum grounds working in a variety of terrains. Together as a group, they tackle a number of physical garden tasks such as weeding, mulching, pruning or invasive removal under the supervision of the Arboretum horticulture staff. Previous gardening experience helpful, but not required.  Please call for further information.</p>
+        
+        <p><strong>Contact: Pam Morris Olshefski - <a href="mailto:pamela@upenn.edu">pamela@upenn.edu</a> or 215.247.5777 ext.188</strong></p>
+                
+        <hr>
+        <h3><a id="gr"></a>Garden Railway</h3>
+        <p>Volunteers play a key role by welcoming visitors to the display, answering questions and helping visitors experience everything there is to see and do at the Arboretum. If you enjoy interacting with both children and adults, this is the perfect opportunity for you. Shifts are three hours in length (10 a.m. - 1 p.m. or 1 p.m. - 4 p.m.). Come spend a few hours at the Arboretum and experience the magic of the trains!</p>	
+        <p><strong>Contact: Iana Turner - <a href="mailto:iana@upenn.edu">iana@upenn.edu</a> or 215.247.5777 ext.110</strong></p>
+        
+        <hr>
+        <h3><a id="events"></a>Special Events</h3>
+        <p>Have fun while lending a helping hand at special events such as the spring Plant Sale and Fall Festival.  Volunteers assist in a variety of ways such as checking out plants at the sale and helping with children’s arts and crafts activities.  Most of these events occur on weekends.  If you would like to be contacted as these events are approaching to see if they work with your schedule, please send an email to the staff contact listed below.</p>
+        <p><strong>Contact: Michelle Conners - <a href="mailto:mconners@upenn.edu">mconners@upenn.edu</a> or 215.247.5777 ext.109</strong></p>
+        
+        <hr>
+        <h3><a id="membership"></a>Membership</h3>
+        <p>Volunteers work with development office staff and assist in all aspects of membership, annual giving, and special event mailings. Tasks include labeling, stuffing, and sorting. Volunteers usually come on the same day of the week on a regular basis.</p>
+        <p><strong>Contact: Alison Thornton – <a href="mailto:alisonth@upenn.edu">alisonth@upenn.edu</a> or 215.247.5777 ext.105</strong></p>
+        
+        <span class="hide">
+        <hr>
+        <h3><a id="visitorservices"></a>Visitor Services</h3>
+        <p>Individuals from all backgrounds are encouraged to become Visitor Education Volunteers and make a positive contribution to the Arboretum and the community at large.</p>        <p>Get behind-the-scenes training that will help you make every visitor's experience the best possible. Learn from Arboretum staff and experienced volunteers how to uncover the sources of all Arboretum knowledge. Meet the nicest people: Visitors at the Morris Arboretum!</p>
+        <p>To be considered for the next class, please complete an application and email, bring in or mail to:<br>
+        Morris Arboretum, Attn: Liza Hawley<br>
+        100 E Northwestern Ave, Philadelphia, PA 19118</p>
+        <p><strong>For more information contact: Liza Hawley - <a href="mailto:efhawley@exchange.upenn.edu">efhawley@exchange.upenn.edu</a> or 215.247.5777 ext.128</strong>.</p>
+        </span>
+        <hr>
+        <h3><a id="marketing"></a>Marketing</h3>
+        <p>Volunteers are needed to work with the marketing staff on the promotion of the Arboretum. Tasks might include developing articles for the press, volunteering at events, and proof reading. Another area of need is website and technical expertise to implement interactive communication tools and social media for members and visitors.</p>
+        
+        <p><strong>Contact: Susan Crane - <a href="mailto:cranesj@upenn.edu">cranesj@upenn.edu</a> or 215.247.5777 ext.121 </strong></p>
+        
+        <hr>
+        <h3><a id="mill"></a>Springfield Mills</h3>
+        <p>The Run-of-the-Mill volunteers are restoring Springfield Mills to water-powered operation. The structure dates to 1854 with elements from 1761 and sits along the Wissahickon on the Arboretum’s Bloomfield Farm. The mill stones and water-powered machinery are over a century old. Volunteers work on the mill on the second Saturday of every month and operate the mill during public events at Bloomfield. Activities include carpentry, masonry, equipment restoration and general clean up. Research, documentation and education volunteers are welcome. <a href="gardens_buildings_springfieldMills.shtml"><strong>Learn more about Springfield Mills <i class="efoundicon-right-arrow"></i></strong></a></p>
+        <p><strong>Contact: Bob Gutowski - <a href="mailto:gutowski@upenn.edu">gutowski@upenn.edu</a> or 215.247.5777 ext.132</strong></p>
+        
+        <hr>
+        <h3><a id="archives"></a>Archives & History</h3>
+        <p>The Archivist at the Morris Arboretum organizes and conserves historic papers, journals, objects, and photographs from the period of the Morris family’s ownership of the Compton Estate, and through its early years with the University of Pennsylvania. Volunteers help conserve or organize historic objects, or take on a project to catalog or research the historical documents. Library or research experience are helpful. Volunteers work on weekdays with the archivist, usually two to four hours at a time, three or four afternoons a month at their convenience. <a href="about_history.shtml"><strong>Learn more about the history of Morris Arboretum <i class="efoundicon-right-arrow"></i></strong></a></p>
+        <p><strong>Contact: Leslie Morris-Smith - <a href="mailto:leslm@upenn.edu">leslm@upenn.edu</a> or 215.247.5777 ext.175</strong></p>
+        
+        <hr>
+        <h3><a id="shop"></a>The Shop</h3>
+        <p>Help out at the visitation hub of the Arboretum. Volunteers at the Morris Arboretum’s Shop welcome and direct visitors as well as help create and maintain merchandise displays. This is a great opportunity for someone who loves helping people and knows there way around a shop.</p>
+        <p><strong>Contact: Christopher Dorman– <a href="mailto:dormanc@upenn.edu">dormanc@upenn.edu</a> or 215.247.5777 ext.136</strong></p>
+        
+        <hr>
+        <h3><a id="facilities"></a>Physical Facilities</h3>
+        <p>Physical Facilities volunteers play a vital role in helping to maintain some of the features at Morris Arboretum such as fountains and visitor center. Tasks range from helping paint interior walls to skimming leaves from fountains to keep the water flowing and the pumps from burning out. A background in a skilled trade such as mechanics or carpentry would be very helpful, but not required. No heavy lifting or expert knowledge is required for many jobs.</p>
+        <p><strong>Contact: Tom Wilsom – <a href="mailto:wilsonth@upenn.edu">wilsonth@upenn.edu</a> or 215.247.5777 ext.108</strong></p>
+
+
+      
+      <br>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-volunteer.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-volunteer.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

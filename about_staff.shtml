@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | About</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-staff.jpg" alt="Staff"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+        <h2 class="first">Advisory Board</h2>
+        <h3 class="first">July 1, 2015 to June 30, 2016 </h3><br>
+        <div class="row">
+        	<div class="six columns">
+            <p>Jane Bradley Alavi, <em>Chair</em><br>
+        	Pamela M. Hill, <em>Vice Chair</em><br>
+        	Moses Feldman, <em>Vice Chair</em></p>
+            
+            <p>Williams J. Agate, Jr.<br>
+            Rebecca W. Bushnell<br>
+            Peter C. Cilio <br>
+            George W. Connell, <em>Emeritus</em><br>
+            Edith Robb Dixon<br>
+            Christina Mesires Fournaris <br>
+            Christopher H. Gadsden<br>
+            Carole Haas Gravagno <br>
+            Janet Haas<br>
+            Dorrance H. Hamilton, <em>Emeritus</em><br>
+            Ellen Nalle Hass <br>
+            William A. Hohns <br>
+            Charles J. Ingersoll<br>
+            Christine James<br>
+            Jane F. Korman, <em>Emeritus</em><br>
+			Sarah Lodge</p>
+            </div>
+            <div class="six columns">
+            <p>
+            Elizabeth P. McLean, <em>Emeritus</em><br>
+            Sandra L. McLean<br>
+            James Morrissey<br>
+            Susan W. Peck<br>
+            Betty J. Pettine<br>
+            Ann Reed, <em>Emeritus</em><br>
+            Elizabeth Salata<br>
+            Nina Schneider<br>
+            John A. H. Shober, <em>Emeritus</em><br>
+            Martha J. Wallace<br>
+            Clarence Z. Wurts<br>
+            Robert A. Boyer, <em>Ex-officio</em><br>
+            Amy Gutmann, <em>Ex-officio</em><br>
+            Craig Carnaroli, <em>Ex-officio</em><br>
+            Anne Papageorge, <em>Ex-officio</em><br>
+            Marie Witt, <em>Ex-officio</em><br>
+            Paul Meyer, <em>Ex-officio</em><br>
+            Kevin Schrecengost, <em>Ex-officio</em></p>
+            </div>
+        </div>
+        <p><strong><a href="pdf/strategic-plan2012.pdf">Click here to view the 2012-2016 Strategic Plan</a></strong></p>
+<hr>
+      <h2 class="first">Staff</h2>
+      <strong><h3>Director&rsquo;s Office</h3>
+      </strong>
+        <p>Paul W. Meyer, <em>The F. Otto Haas Executive Director</em><br>
+		Patrice Sutton, <em>Assistant to the Director</em></p>
+        <hr>
+        <strong><h3>Botany</h3></strong>
+        <p>Dr. Timothy A. Block, <em>John J. Willaman Director of Botany</em><br>
+        Hanna Dorman, <em>Eli Kirk Price Flora of Pennsylvania Intern</em><br>
+        Carol Lourea-Black, <em>Administrative Assistant</em>*<br>
+        Emily Milbauer, <em>John J. Willaman & Martha Haas Valentine Plant Protection Intern</em><br>
+        Matt Seibert, <em>Librarian*</em><br>
+        Dr. Cynthia Skema, <em>Botanical Scientist</em></p>
+        <hr>
+        
+        <strong><h3>Development</h3></strong>
+        <p>
+        <a href="mailto:mzergani@upenn.edu" style="color:#666;">Mira Zergani, <em>Director of Development</em></a><br>
+        <a href="mailto:kcasal@upenn.edu" style="color:#666;">Kristen Casalenuovo, <em>Development &amp; Special Events Coordinator*</em></a><br>
+        <a href="mailto:lcrane@upenn.edu" style="color:#666;">Leslie Crane, <em>Development Communications Associate*</em></a><br>
+        <a href="mailto:meggank@upenn.edu" style="color:#666;">Meggan Kucinskas, <em>Manager, Membership and Development Data Systems</em></a><br>
+        <a href="mailto:jeslynch@upenn.edu" style="color:#666;">Jessica Lynch, <em>Associate Director, Annual Fund</em></a><br>
+        <a href="mailto:melvinc@upenn.edu" style="color:#666;">Chelsea Melvin, <em>Development Coordinator</em></a><br>
+        Scott Rinehart, <em>Development Data &amp; Membership Assistant* </em><br>
+        Sylvia Studenmund, <em>Membership Assistant</em>*<br>
+        <a href="mailto:alisonth@upenn.edu" style="color:#666;">Alison Thornton, <em>Senior Associate Director, Annual Giving Programs</em></a><br>
+        <a href="mailto:leslieaw@upenn.edu" style="color:#666;">Leslie Weisser, <em>Associate Director, Corporate, Foundation and Donor Relations</em></a><br>
+		<a href="mailto:wexlm@upenn.edu" style="color:#666;">Michelle Wexler, <em>Associate Director, Individual Giving</em></a></p>
+        <hr>
+        <strong><h3>Finance & Administration</h3></strong>
+        <p>Kevin Schrecengost, <em>Director of Finance</em><br>
+        Gayle Portzline O’Keefe, <em>Administrative Assistant</em>*<br>
+        Karen Owens,<em> Fiscal Manager</em></p>
+        <hr>
+        
+        <strong><h3>Horticulture</h3></strong>
+        <p>Anthony S. Aiello, <em>The Gayle E. Maloney Director of Horticulture and Curator</em><br>
+        Tracy Beerley, <em>The McCausland Natural Lands Horticulturist</em><br>
+        Josh Best, <em>Walter Root Endowed Arborist Intern</em><br>
+        Tom Bishop, <em>Gardener</em>*<br>
+        Victoria Bolden, <em>Martha J. Wallace Plant Propagation Intern</em><br>
+        Shane Campbell, <em>Gardener*</em> <br>
+        Louise Clarke, <em>Bloomfield Farm Horticulturist</em><br>
+        Maya Czulewicz, <em>Charles S. Holman Rose and Flower Garden Intern</em><br>
+        Kate Deregibus, <em>English Park Horticulturist</em><br>
+        Shelley Dillard, <em>Propagator</em><br>
+        Lucy Dinsmore, <em>Azalea Meadow Horticulturist</em><br>        
+        Elinor Goff, <em>Plant Recorder</em>*<br>
+        Andrew Hawkes, <em>Assistant Arborist</em><br>
+		Paige Ida, <em>Alice & J. Liddon Pennock, Jr. Horticulture Intern</em><br>
+        Vince Marrocco, <em>Chief Horticulturist/Rosarian</em><br>
+        Joseph Murtaugh, <em>Gardener</em><br>
+        Pamela Olshefski, <em>Curatorial Assistant</em>*<br>
+        Paul Orpello, <em>Compton Horticulturist</em><br>
+        Willa Rowan, <em>Hay Honey Farm Natural Areas Intern</em><br>
+        Keith Snyder, <em>Equipment Supervisor</em>
+		</p>
+        <hr>
+        
+        <strong><h3>Marketing</h3></strong>
+        <p>Susan Crane, <em>Director of Marketing</em><br>
+        Amanda DeLeo, <em>Web Manager</em>*<br>
+        Donna Duncan, <em>Social Media Specialist</em>*<br>
+        Marie Mercaldo Ingegneri, <em>Marketing Events Specialist</em>*<br>
+        Christine Pape, <em>Publications Editor</em>*</p>
+        <hr>
+        
+        <strong><h3>Physical Facilities</h3></strong>
+        <p>Thomas J. Wilson, <em>Director of Physical Facilities</em><br>
+        Darryl Lourea-Black, <em>Building Supervisor</em><br>
+        Ken McDermott, <em>Facilities Service Assistant*</em><br>
+        Joe Mellon, <em>Maintenance Mechanic</em></p>
+        <hr>
+        
+        <strong><h3>Public Programs</h3></strong>
+        <p>Robert Gutowski, <em>Director of Public Programs</em><br>
+        Lisa Bailey, <em>Administrative Assistant Education</em><br>
+        Joyce Burian,  <em>Education Assistant and Phone Receptionist* </em><br>
+        Michelle Conners, <em>Events Coordinator</em>*<br>
+        Christopher Dorman, <em>Assistant Director for Visitor Services and Hospitality</em><br>
+        Melanie Flynn, <em>Visitor Services Supervisor</em> <br>
+        Carryn Golden, <em>Visitor Services Supervisor</em>*<br>
+        Liza Hawley, <em>Assistant Director,  Visitor Education and Youth Programs</em><br>
+        Diane Humphries,  <em>Education Assistant and Phone Receptionist* </em><br>
+        Trish Kemper, <em>Martha S. Miller Urban Forestry Intern</em><br>
+        Jason Lubar, <em>Associate Director of Urban Forestry</em><br>
+		Jan McFarlan, <em>Assistant Director, Education and Intern Programs</em><br>
+        Pilar Rivera, <em>McLean Contributionship Education Intern</em><br>
+        Leslie Morris-Smith, <em>Archivist*</em><br>
+        Tiffany Stahl, <em>Education Program Specialist</em>*<br>
+        Bryan Thompson-Nowak, <em>Assistant Director, Education and Penn Outreach</em><br>
+        Robert Wells, <em>Associate Director of Arboriculture Outreach</em><br>
+        Ann Marie Winicki, <em>Visitor Services Supervisor</em>*</p>
+        
+        <p><em>*Part-time Staff</em></p>
+        <hr>
+        <h2>Contact Us</h2>
+        <a href="about_contact.shtml">Click here for a list of contact information.</a>
+             
+      <br>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-about.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-about.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+  <meta charset="utf-8" />
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+<title>Morris Arboretum of the University of Pennsylvania | Plan Your Visit</title>
+<!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  <style>
+            /* This rule is read by Galleria to define the gallery height: */
+            #galleria{height:520px}
+
+  </style>
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/galleria.classic.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+
+        <!-- load Galleria -->
+  <script src="js/galleria-1.2.9.min.js"></script>
+</head>
+<body>
+  
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+<!-- Header Image -->
+<div class="row">
+  <div class="twelve columns"> <img src="images/img-header-weddings.jpg"/>
+    <hr>
+  </div>
+</div>
+<!-- content Section -->
+<div class="row">
+  <div class="eight columns push-three">
+    <h2 class="first">Picture your wedding at Morris Arboretum...</h2>
+      <div id="galleria">
+            <a href="images/img-wedding-gallery1.jpg">
+                <img 
+                    src="images/img-wedding-thumb1.jpg",
+                    data-big="images/img-wedding-gallery1.jpg"
+                    data-title="Rebecca Barger Photography"
+                    data-description="www.rebeccabarger.com"
+                >
+        </a>
+            <a href="images/img-wedding-gallery2.jpg">
+                <img 
+                    src="images/img-wedding-thumb2.jpg",
+                    data-big="images/img-wedding-gallery2.jpg"
+                    data-title="Rebecca Barger Photography"
+                    data-description="www.rebeccabarger.com"
+                >
+            </a>
+            <a href="images/img-wedding-gallery3.jpg">
+                <img 
+                    src="images/img-wedding-thumb3.jpg",
+                    data-big="images/img-wedding-gallery3.jpg"
+                    data-title="Rebecca Barger Photography"
+                    data-description="www.rebeccabarger.com"
+                >
+            </a>
+            <a href="images/img-wedding-gallery4.jpg">
+                <img 
+                    src="images/img-wedding-thumb4.jpg",
+                    data-big="images/img-wedding-gallery4.jpg"
+                    data-title="Rebecca Barger Photography"
+                    data-description="www.rebeccabarger.com"
+                >
+            </a>
+            <a href="images/img-wedding-gallery5.jpg">
+                <img 
+                    src="images/img-wedding-thumb5.jpg",
+                    data-big="images/img-wedding-gallery5.jpg"
+                    data-title="Weldon Weddings"
+                    data-description="www.weldonweddings.com"
+                >
+            </a>
+            <a href="images/img-wedding-gallery6.jpg">
+                <img 
+                    src="images/img-wedding-thumb6.jpg",
+                    data-big="images/img-wedding-gallery6.jpg"
+                    data-title="Weldon Weddings"
+                    data-description="www.weldonweddings.com"
+                >
+            </a>
+            <a href="images/img-wedding-gallery7.jpg">
+                <img 
+                    src="images/img-wedding-thumb7.jpg",
+                    data-big="images/img-wedding-gallery7.jpg"
+                    data-title="Weldon Weddings"
+                    data-description="www.weldonweddings.com"
+                >
+            </a>
+            <a href="images/img-wedding-gallery8.jpg">
+                <img 
+                    src="images/img-wedding-thumb8.jpg",
+                    data-big="images/img-wedding-gallery8.jpg"
+                    data-title="Tim + Lauren Fair: Lauren Fair Photography"
+                    data-description="www.laurenfairphotography.com"
+                >
+            </a>
+            <a href="images/img-wedding-gallery9.jpg">
+                <img 
+                    src="images/img-wedding-thumb9.jpg",
+                    data-big="images/img-wedding-gallery9.jpg"
+                    data-title="Tim + Lauren Fair: Lauren Fair Photography"
+                    data-description="www.laurenfairphotography.com"
+                >
+            </a>
+            <a href="images/img-wedding-gallery10.jpg">
+                <img 
+                    src="images/img-wedding-thumb10.jpg",
+                    data-big="images/img-wedding-gallery10.jpg"
+                    data-title="Morrissey Photo"
+                    data-description="www.morrisseyphoto.net"
+                >
+            </a>
+            
+            <a href="images/img-wedding-gallery11.jpg">
+                <img 
+                    src="images/img-wedding-thumb11.jpg",
+                    data-big="images/img-wedding-gallery11.jpg"
+                    data-title="Morrissey Photo"
+                    data-description="www.morrisseyphoto.net"
+                >
+            </a>
+            <a href="images/img-wedding-gallery12.jpg">
+                <img 
+                    src="images/img-wedding-thumb12.jpg",
+                    data-big="images/img-wedding-gallery12.jpg"
+                    data-title="Alyssa Maloof"
+                    data-description="www.alyssamaloof.com"
+                >
+        </a>
+        	<a href="images/img-wedding-gallery13.jpg">
+                <img 
+                    src="images/img-wedding-thumb13.jpg",
+                    data-big="images/img-wedding-gallery13.jpg"
+                    data-title="Alyssa Maloof"
+                    data-description="www.alyssamaloof.com"
+                >
+        </a>
+            
+        </div>
+        <hr>
+        <h3>Photographers</h3>
+        <div class="row">
+        	<div class="twelve columns">
+            <p><strong>Rebecca Barger</strong><br><a href="http://www.rebeccabarger.com/blog/?p=851" target="_blank">www.rebeccabarger.com</a></p>
+            <p><strong>Lauren Fair</strong><br><a href="http://www.laurenfairphotographyblog.com/jennifer-stephen-morris-arboretum-wedding-photography/" target="_blank">www.laurenfairphotography.com</a></p>
+            <p><strong>Alyssa Maloof</strong><br><a href="http://www.alyssamaloof.com" target="_blank">www.alyssamaloof.com</a></p>
+            <p><strong>Morrissey Photo</strong><br><a href="http://www.morrisseyphoto.net" target="_blank">www.morrisseyphoto.net</a></p>
+            <p><strong>Weldon Weddings</strong> <br><a href="http://www.weldonweddings.com" target="_blank">www.weldonweddings.com</a></p></div>
+
+            <span class="hide">
+            <p><strong>Bella<em>Via</em> Photography</strong><br><a href="http://bellaviaphotography.com/" target="_blank">www.bellaviaphotography.com</a></p>
+            <p><strong>Jennifer Childress</strong><br><a href="http://www.jennchildress.com/mary-gurney-morris-arboretum-wedding/" target="_blank">www.jennchildress.com</a></p>
+            <p><strong>Laura Eaton</strong><br><a href="http://lauraeaton.com/blog/never-lose-sight-of-what-is-most-important%E2%80%A6/" target="_blank">www.lauraeaton.com</a></p>
+            <p><strong>Sharyn Frenkel</strong> <br><a href="http://www.sharynfrenkelphotography.com/">www.sharynfrenkelphotography.com</a></p>
+            <p><strong>Carly Fuller</strong><br><a href="http://www.carlyfuller.com" target="_blank">www.carlyfuller.com</a></p>
+            <p><strong>Steven Goldbaltt</strong><br><a href="http://www.theelegantimage.net" target="_blank">www.theelegantimage.net</a></p>
+            <p><strong>Kay Lim</strong><br><a href="http://kaylimphotography.com/blog/hariklia-kostas-morris-arboretum-engagement-session-philadelphia-pa/" target="_blank">www.kaylimphotography.com</a></p>
+            <p><strong>Isabel March</strong><br><a href="http://isabelmarchphotographyblog.com/?p=6121" target="_blank">www.isabelmarchphotography.com</a></p>
+            <p><strong>pix|elation Photography</strong><br><a href="http://www.pixelationphotography.com" target="_blank">www.pixelationphotography.com</a></p>
+            <p><strong>Jauhien Sasnou</strong><br><a href="http://jauhienweddings.com" target="_blank">www.jauhienweddings.com</a>
+            <p><strong>Unique Concepts Studio</strong><br><a href="http://www.ucs-studio.com" target="_blank">www.ucs-studio.com</a></p>
+            </span>
+        </div>
+        
+      <br>
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+  </div>
+  <div class="one column"> </div>
+  <!-- Nav Sidebar -->
+  <!-- This is source ordered to be pulled to the left on larger screens -->
+  <!--#include virtual="elements/subnav-rentals.html" -->
+</div>
+  
+  
+<!-- End content Section -->
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+ 
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+  <script src="js/galleria-1.2.9.min.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+<script>
+
+    // Load the classic theme
+    Galleria.loadTheme('js/galleria.classic.min.js');
+
+    // Initialize Galleria
+    Galleria.run('#galleria');
+
+    </script>
+</body>
+</html>
+

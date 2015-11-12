@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Visit</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-visit.jpg"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+    	<div class="panel show-for-small">
+        <h3 class="red" style="margin-bottom:2px;"><strong>Notice</strong></h3>
+        <p class="red">The main entrance to the Arboretum will be OPEN during scheduled road construction on Northwestern Avenue. <strong>Access will be available via Germantown Avenue to Northwestern Ave ONLY (weekdays 7am - 3pm).</strong> Regular access will resume on weekends.</p>
+        </div>
+      <h2 class="first"><strong>Morris Arboretum is...</strong><br>
+      Education, community, horticultural display.</h2>
+      <p>Spend time with family and friends exploring the Arboretum’s 92-acre lush and colorful gardens. Discover your favorite garden spaces and learn from 12,000 labeled plants, trees and flowers. Sign up for some of the more than 100 <a href="ed_classes.shtml">classes</a>, educational tours and lectures offered in spring and fall, catering to visitors of all ages. An ever-changing color palette in every season keeps your senses focused on nature. See the forest from a new perspective from 50 feet up in the treetops on the <a href="gardens_treeadventure.shtml"><em>Out on a Limb</em></a> canopy walk, part of the Arboretum-wide interactive Tree Adventure exhibit. Enjoy events all year long. There’s so much to experience at Morris Arboretum! </p>
+      
+      <div class="panel"><h3>Garden Etiquette</h3><p>
+        We ask that you be respectful of the garden, especially our trees, some of which need to be treated gently.</p>
+        <ul class="content_list">
+            <li>Picnicking in the garden  is ONLY  allowed on Thursday ‘open late’ nights in June, July, and August, or in the designated picnic area behind the Widener Visitor Center. No cooking is allowed.</li>
+            <li>No pets allowed.</li>
+            <li>Do not climb on the trees or sculptures or wade in fountains.</li>
+            <li>No bicycles, rollerblades, skateboards, Frisbees or other game equipment.</li>
+            <li>No commercial photography or filming unless prior arrangements are made with staff.</li>
+            <li>Personal use photography with tripods is permitted, however please do not go into the flower beds or damage plants.</li>
+            <li>No wedding photography unless you are <a href="rentals.shtml">renting the facility</a> for your wedding reception.</li>
+         	<li>No admittance outside of regular visiting hours 10-4 daily, (10-5 Saturday & Sunday, April-October), 10-8:30 p.m. on Thursdays only in June, July and August.</li>
+        </ul>
+        
+        <span class="show-for-small"><h2 class="first">Accessibility</h2>
+           <p>The Arboretum property includes some hilly terrain. There is an ADA-approved paved walking path with less than 5% grade and benches strategically situated throughout the garden, but walking the Arboretum could prove challenging to those not in good health. We have two wheelchairs to lend out on a first-come, first-served basis, but we recommend you bring whatever accommodations are needed for the infirm and small children. The majority of the garden, including the Out on a Limb exhibit, is accessible from the paved pathways. We have wheelchair accessible restrooms in the Visitor Center. The seasonal dining facilities are also wheelchair accessible.</p>
+            <p>Guided golf cart tours for people with physical disabilities are offered with limited availability, and must be scheduled in advance. Although we will try to honor every request, two weeks notice is recommended. Please call 215.247.5777 X157 to make reservations.</p>
+            <p>In our efforts to provide an accessible and barrier-free visitor experience, we welcome your suggestions and observations.
+    Please contact: info@morrisarboretum.org</p></span>
+		</div>
+        
+        <div class="flex-video">
+      	<iframe src="http://mlp.arboretum.purdue.edu/ecmweb/index.php" width="670" height="326" frameborder="0" allowfullscreen></iframe>
+      	</div>
+        
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-visit.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+    <!--#include virtual="elements/subnav-visit.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Education</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-camp.jpg" alt="Summer Adventure Camp"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Summer Adventure Camp 2015</h2>
+      <blockquote>Thanks for a great summer, stay tuned for 2016 registration!</blockquote>
+      <p>Camp is back with even more exciting adventures for thrill-seeking nature lover’s ages 6 to 10. We are looking forward to meeting new faces, while welcoming back our veteran campers as well! Your child will thank you! </p> 
+      <p>Our camp is facilitated by an experienced staff of enthusiastic educators who teach in area school districts throughout the year.<em> Our goals are to laugh a lot, learn a lot, and stay safe!</em></p>  
+        <hr>
+      	
+      	<h3><strong>Dates and Details</strong></h3> 
+        <p><strong>Age Range:</strong> 6 to 10 years old<br>
+        <strong>Duration: </strong>Each session runs Monday - Friday, 9:00am to 3:30pm<br>
+        <strong>Weekly Camp Sessions starting:</strong> June 22, June 29 (3 day week), July 6, July 13, July 20, July 27, and August 3<br>
+        <strong>Members:</strong> $265 (weekly) / <strong>Non-members: </strong>$285</p>
+        
+        <hr>
+        <h3><strong>Registration</strong></h3>
+        <h4>To pay online by credit card:</h4>
+        <p>       
+        1. Click <a href="https://online.morrisarboretum.org/summercamp"><strong>here </strong></a>to pay by credit card via our secure portal.<br>
+2. Download and complete the <a href="pdf/Camp_RegistrationForm.pdf" target="_blank"><strong>Camper Information Form</strong></a>.<br>
+3. Submit your completed form to: <br>
+Email: <a href="mailto:tifstahl@upenn.edu">tifstahl@upenn.edu</a><br>
+Fax: 215.247.2192<br>
+Or Mail: Morris Arboretum Attn: Education Summer Camp<br>
+100 E. Northwestern Avenue, Philadelphia, PA 19118 </p><br>
+        <h4>To pay  by check:</h4>
+        <p>1. Download and complete the <a href="pdf/Camp_RegistrationForm.pdf" target="_blank"><strong>Camper Information Form</strong></a>.<br>
+		2. Submit your completed form and payment to: <br>
+		Morris Arboretum Attn: Education Summer Camp<br>
+		100 E. Northwestern Avenue, Philadelphia, PA 19118</p>
+        <br>
+        <p><a href="pdf/Camp_ParentHandbook.pdf" class="button small radius"><strong>Download the Parent Handbook</strong></a></p>
+        <hr>
+        <h3><strong>A sample of this year's themes include:</strong></h3>
+<p><strong>Mini-beast Week:</strong> Explore, study, and discover insects, arachnids and other arthropods that thrive in the Arboretum and in your own backyard!  (Week of June 22nd)</p>
+<p><strong>Adventures in Arboretumland:</strong> Play fun games, hike on shady trails, and solve a mystery on an exciting scavenger hunt quest in the woods. (Week of June 29th, <em>3 day week</em>)</p>
+<p><strong>Scientific Minds in Motion:</strong> Discover your inner Einstein during a week of scientific discovery and experimentation guided by our expert science teachers! (Week of July 6)</p>
+<p><strong>Mythical Creature Week:</strong> Curious about Cryptozoology? Create a bigfoot sculpture, make a fairy garden, paint dragon art, and compose stories about your very own mythical creatures. (Week of July 13th)</p>
+<p><strong>Go with the Flow: </strong> Learn about aquatic animals, the properties of water through hands-on experiments and fun summer games, and cool off in Arboretum sprinklers. (Week of July 20th)</p>
+<p><strong>Eco-Trekkers Week: </strong>Build a green roof bird house, explore the nature trails, grow veggies from seed, create nature-inspired crafts, and learn how to be an Earth Protector! (Week of July 27th) </p>
+<p><strong>Art Extravaganza:</strong> Back by popular demand! Create self-portraits, botanical drawings, sculpture, and seed mosaics which will be celebrated in an end of the week art show. (Week of August 3rd)</p>
+      <hr>
+        <h3><strong>Meet Our Counselors!</strong></h3>
+        <ul class="block-grid three-up">
+        	<li><a href="#" data-reveal-id="brianModal"><img src="images/img-headshot-dooner.jpg" alt="Brian Dooner" style="margin-top:15px;"></a><h4 style="margin-bottom:0px;">Brian Dooner</h4><p><a href="#" data-reveal-id="brianModal">Read Brian's Bio</a></p></li>
+            <li><a href="#" data-reveal-id="sarahModal"><img src="images/img-headshot-holmes.jpg" alt="Sarah Holmes" style="margin-top:15px;"></a>            <h4 style="margin-bottom:0px;">Sarah Fabian</h4><p><a href="#" data-reveal-id="sarahModal">Read Sarah's Bio</a></p></li>
+            <li><a href="#" data-reveal-id="peterModal"><img src="images/img-headshot-leaming.jpg" alt="Peter Leaming" style="margin-top:15px; margin-bottom:5px;"></a><h4 style="margin-bottom:0px;">Peter Leaming</h4><p><a href="#" data-reveal-id="peterModal">Read Peter's Bio</a></p></li>
+            <li><a href="#" data-reveal-id="lorrieModal"><img src="images/img-headshot-jones.jpg" alt="Lorrie Jones" style="margin-top:15px; margin-bottom:5px;"></a><h4 style="margin-bottom:0px;">Lorrie Jones</h4><p><a href="#" data-reveal-id="lorrieModal">Read Lorrie's Bio</a></p></li>
+            <li><a href="#" data-reveal-id="mattModal"><img src="images/img-headshot-fabian.jpg" alt="Matt Fabian" style="margin-top:15px; margin-bottom:5px;"></a><h4 style="margin-bottom:0px;">Matt Fabian</h4><p><a href="#" data-reveal-id="mattModal">Read Matt's Bio</a></p></li>
+        </ul>
+           
+        
+
+      <br> 
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-camp.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-ed.html" -->
+  </div>
+  
+  <div id="brianModal" class="reveal-modal">
+             <div class="row">
+             	<div class="twelve columns"><h4>Brian Dooner</h4>
+        		<p>Brian will be returning for his 4th summer at Morris Arboretum’s Summer Adventure Camp. He has earned a Bachelor’s of Science from Neumann University in Environmental Studies and Education as well as a Master’s of Science in Science Education from Arcadia University. Brian currently teaches eighth grade science at Norristown Area School District. He is an experienced educator who enjoys relaying his understanding and passion for science to his students. In his spare time he enjoys gardening, playing many different sports, and spending time with his family. The thing about the Morris Arboretum that inspires him most is that the Arboretum becomes his summer classroom. Every day the Arboretum offers him, and his campers opportunities to learn and respect the many beautiful ecosystems.</p>
+        		</div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+        
+		<div id="sarahModal" class="reveal-modal">
+             <div class="row">
+             	<div class="twelve columns"><h4>Sarah Fabian</h4>
+        		<p>A four year counselor veteran of Morris Arboretum’s Summer Adventure Camp is Sarah Fabian, a 7th and 8th grade teacher of Special Education in Reading and Math at Stewart Middle School in Norristown Area School District. Sarah has a Bachelor’s of Science from Penn State University in Special Education grades K to 12 and a Master’s of Science in Brain-Based Teaching and Learning from Nova Southeastern University. In her free time, Sarah enjoys reading, doing arts and crafts, spending time outdoors, being active and hanging out with family and friends. Sarah has always been a naturalist at heart. As a child, Sarah and her family enjoyed vacations to bucolic landscapes, where they spent time camping, breathing in fresh air and appreciating the natural world. Her days at the Arboretum take her back to those childhood memories. Sarah loves all that Morris Arboretum has to offer—nature, beauty, fun, and above all, a chance to learn and experience the great outdoors.</p>
+                </div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+
+		<div id="peterModal" class="reveal-modal">
+             <div class="row">
+             	<div class="twelve columns"><h4>Peter Leaming</h4>
+        		<p>New to the Arboretum’s Summer Adventure Camp this summer, is educator Peter Leaming who teaches 7th grade life science and biology at Klinger Middle School in the Centennial School District in Warrington PA. Peter is also an experienced camp instructor, having taught at Valley Forge National Park’s camp, as well as a few other local camps. He uses a variety of creative hands-on techniques to engage his students in inquiry-based science lessons and experiments. Peter enjoys the Morris Arboretum for its variety of landscapes and land forms, and looks forward to having fun and getting his hands dirty with Morris Arboretum campers this summer!</p>
+                </div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="lorrieModal" class="reveal-modal">
+             <div class="row">
+             	<div class="twelve columns"><h4>Lorrie Jones</h4>
+        		<p>Lorrie currently works at Wilmington Friends School as first grade teacher.  After earning a bachelor's degree in Geography/Environmental Studies from Temple University, she began her teaching journey by working as a teacher/naturalist at a nature center in Philadelphia, and eventually went back to school to get her master’s in Elementary Education from Arcadia University.  Lorrie has taught Kindergarten, Pre-Kindergarten, Head Start, and worked as a reading resource teacher.  When she is not teaching she loves to visit art museums, attend a variety of concerts, and hike in the woods.</p>
+                </div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+          <div id="mattModal" class="reveal-modal">
+             <div class="row">
+             	<div class="twelve columns"><h4>Matt Fabian</h4>
+        		<p>Entering his second year as a consoler at the Morris Arboretum summer camp, Matt is an elementary health and physical education teacher in the Pottstown School District.  He has experience coaching basketball at both high school and middle school levels.  He has worked various basketball summer camps throughout his career.   Matt earned his bachelor's degree of science from Ursinus College where he majored Exercise and Sports Science.  At Ursinus, he played varsity men's basketball for all four years and was team captain his senior year.  He earned his Master's Degree in Education at Cabrini College.  In his spare time, Matt enjoys exercising, playing guitar, reading comic books, listening to music, and watching movies.  His favorite part about being a consoler at Morris Arboretum is presenting campers the opportunity to have fun and learn away from the computer and television.Morris Arboretum for its variety of landscapes and land forms, and looks forward to having fun and getting his hands dirty with Morris Arboretum campers this summer!</p>
+                </div>
+             </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

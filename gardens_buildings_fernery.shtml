@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Explore</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-buildings.jpg" alt="The Dorrance H. Hamilton Fernery"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Buildings</h2>
+        <h3><strong>The Dorrance H. Hamilton Fernery</strong></h3>
+		<img src="images/img-buildings-fernery.jpg">
+        <br>
+        <p>The Dorrance H. Hamilton Fernery is the only remaining freestanding Victorian fernery in North America. Originally built in 1899 under the supervision of John Morris, the fernery stands today as a historical time piece, documenting the British obsession with ferns and glasshouses during the Victorian era. The building was constructed using locally mined stone and utilized cutting edge technology in glass cutting, steam heating, and architectural elements.</p>
+
+        <p>In the century following the original construction, the fernery slowly fell into disrepair, with several small renovation projects to protect it from destruction. Finally in 1994 the fernery was fully restored to its original grandeur with a gracious donation from board member Dorrance H. Hamilton and other contributors who responded to a major matching grant from the National Endowment for the Humanities. This $1.2 million renovation included restoring the roof to the original curvature, replacing and updating the heating and electrical systems, installing an advanced climate control system, and restoring the waterfall, ponds and stone walls. The blue flagstone plaza was also installed during this project to welcome visitors, and provide a shaded relaxing place to stop and enjoy the arboretum.</p>
+        
+        <p>Nestled in a curve of land below the rose garden, the fernery has become an iconic part of the Morris Arboretum. Its glittering rooftop welcoming visitors into a peaceful space filled with ferns, trickling waterfalls and reflecting pools. A wonderful place to explore in all seasons.</p>
+        
+        <p><a href="pdf/Fernery-Self-Guided-Tour.pdf" target="_blank" class="button radius small"><strong>Download a Self-guided Tour of the Fernery</strong></a></p>
+        
+        <hr>
+        <h3>History of the Fernery</h3>
+        <dl class="tabs five-up">
+          <dd class="active"><a href="#simpleContained1">1898</a></dd>
+          <dd><a href="#simple2">1917</a></dd>
+          <dd><a href="#simple3">1956</a></dd>
+          <dd><a href="#simple4">1987</a></dd>
+          <dd><a href="#simple5">1994</a></dd>
+        </dl>
+        <ul class="tabs-content">
+          <li class="active" id="simpleContained1Tab">
+            <ul class="content_list">
+            	<li>Designs for fernery are completed and drawn</li>
+                <li>Foundation excavation completed</li>
+                <li>John Morris begins to correspond with fern experts W. & J. Birkenhead about the interior design of the fernery including rock work, water features, and paths</li>
+                <li>John Morris hires Kushibiki & Arai from Japan to help design the rock work inside of the fernery.</li>
+                <li>Once the Fernery is completed Frank Gould, Compton Gardener, installs over 575 different varieties of ferns and selaginellas ordered from the W. & J. Birkenhead catalogue</li>
+                <h3><img src="images/img-fernery-1898.jpg"></h3>
+            </ul>
+          </li>
+          
+          <li id="simple2Tab">
+			<p>As the United States enters into World War I, coal is rationed to the public to help support the war effort. Since the Fernery was heated with coal, this threatened to devastate the Morris's collection. Lydia T. Morris appeals to then Secretary of Treasury William McAdoo and is granted an exemption for the fernery due to the "irreplaceable and scholarly character of the fern collection".</p>
+            <h3><img src="images/img-fernery-1899.jpg"></h3>
+          </li>
+          
+          <li id="simple3Tab">
+			<p>The fernery is deemed unsafe for the public and closed while the administration works on completing necessary repairs including replacing the roof, fixing the heating system, and repainting sections of metal work.</p>
+            <p>Fernery is reopened once construction is complete</p>
+            <h3><img src="images/img-fernery-1956.jpg"></h3>
+          </li>
+          
+          <li id="simple4Tab">
+			<p>The A-frame roof is now deemed structurally unsound and the fernery is closed to all visitors. Volunteers and staff are allowed to enter for maintenance and up keep of the collection.</p>
+            <h3><img src="images/img-fernery-1987.jpg"></h3>
+          </li>
+          
+          <li id="simple5Tab">
+			<p>With support from Dorrance H. Hamilton, Morris Arboretum restored the Fernery to its original condition. This included restoring the curved roof, replacing the heating system, reconstructing the rock work, and installing the blue flagstone plaza outside of the fernery.</p>
+            <h3><img src="images/img-fernery-1994.jpg"></h3>
+          </li>
+        </ul>
+        
+        <hr>
+        <h3>Useful Links</h3>
+        <ul class="content_list">
+        	<li><a href="http://amerfernsoc.org/ " target="_blank">The American Fern Society</a></li>
+            <li><a href="http://www.hardyferns.org/" target="_blank">Hardy Fern Foundation</a></li>
+            <li><a href="http://www.nhm.ac.uk/hosted_sites/bps/" target="_blank">Fern World - British Pteridological Society</a></li>
+        </ul>
+        
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-buildings.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-gardens.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

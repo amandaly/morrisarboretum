@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Membership</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-membership.jpg" />
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Corporate Membership</h2>
+      <h3>Corporate Members enjoy the following benefits:</h3>
+      <ul class="content_list">
+      	<li>FREE unlimited admission for an entire year</li>
+      	<li>10% Discount in <a href="visit_theshop.shtml">The Shop</a></li>
+      	<li>FREE admission to special annual events including Fall Festival, Arbor Day and Japanese Cherry Blossom Festival</li>
+      	<li>E-Newsletter, keeps you up-to-date on all our events</li>
+      	<li><a href="membership_discounts.shtml">Discounts at local garden centers & businesses</a></li>
+      	<li>Complimentary one-time use guest passes</li>
+      	<li>Discounts on <a href="ed_classes.shtml">educational classes, field trips and excursions</a>(excludes professional training courses)</li>
+      	<li>Reciprocal admission privileges to more than 300 gardens and arboreta through the <a href="http://www.ahs.org" target="_blank">American Horticultural Society</a>. <a href="http://www.ahs.org/gardening-programs/rap">Click here for a list of participating locations.</a></li>
+      	<li><a href="about_seasons.shtml">Seasons newsletter</a>, plus a one-time listing in the list of Corporate Sponsors (Distribution: 5,000+)</li>
+        <li>Print recognition in the Annual Report</li>
+        <li>Full-color Arboretum Calendar featuring photos, events and garden tips</li>
+      </ul> 
+      
+      <hr>
+      <h3>EITC Certification</h3>
+      <p>The Morris Arboretum is an Educational Improvement Organization (EIO) through the Commonwealth of Pennsylvania’s Educational Improvement Tax Credit Program (EITC).  This state-run program provides significant financial benefits to eligible businesses that make charitable contributions to approved EITC programs, awarding up to 90% in corporate tax credits.  Educational Improvement Organizations are qualified to receive designated corporate gifts because of these organizations’ enhancement of public school education.  You can learn more about the Commonwealth’s EITC Program by going to www.newpa.com and clicking on EITC Business Guidelines.  You can also request a printed copy of the guidelines from Leslie Weisser in the Arboretum’s Development Office at 215.247.5777 x147.</p> 
+      
+      <hr>
+      <h3>Select a Corporate Membership Level For More Information:</h3>
+      		<ul class="content_list">
+                <li><a href="#" data-reveal-id="msModal">Magnolia Slope Membership</a></li>
+                <li><a href="#" data-reveal-id="epModal">English Park Membership</a></li>
+                <li><a href="#" data-reveal-id="amModal">Azalea Meadow Membership</a></li>           
+      		</ul>
+      <br>
+      <p>For more information contact Alison Thornton at <a href="mailto:alisonth@upenn.edu">alisonth@upenn.edu</a>.</p>
+      <br>
+      <a href="pdf/Corporate-Membership-Application.pdf" class="button medium radius">Apply Today</a>
+      
+      <br>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-membership-alt.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-support.html" -->
+  </div>
+  
+    <!--Reveal Modal-->
+  		  <div id="msModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="eight columns"><h3 class="tours">Magnolia Slope Membership</h3>
+             	<h4>$250 <small>($194 tax-deducible)</small></h4>
+                <p><strong>ADMITS FOUR (4)</strong> - One membership card: admits four (4) people for a full year.</p><p><em>*One time use complimentatry guest passes have a retail value of $14 per pass.</em> </p></div>
+                <div class="four columns"><p><strong>4 Free Passes*</strong></p></div>
+            </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+
+          <div id="epModal" class="reveal-modal">
+          	<div class="row">
+            	<div class="eight columns"><h3 class="tours">English Park Membership</h3>
+             	<h4>$500 <small>($360 tax-deducible)</small></h4>
+                <p><strong>ADMITS EIGHT (8)</strong> - Two membership cards: each admits four (4) people for a full year.<br>
+<strong>RECOGNITION</strong> – Recognition in Moonlight & Roses program. (Distribution: 600+ guests)</p><p><em>*One time use complimentatry guest passes have a retail value of $14 per pass.</em> </p></div>
+                <div class="four columns"><p><strong>10 Free Passes*</strong></p></div>
+            </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+      	  <div id="amModal" class="reveal-modal">
+             <div class="row">
+             	<div class="eight columns"><h3 class="tours">Azalea Meadow Membership</h3>
+             	<h4>$1,000 <small>($580 tax-deducible)</small></h4>
+                <p><strong>ADMITS TWELVE (12)</strong> - Three membership cards: each admits four (4) people for a full year.<br>
+<strong>RECOGNITION</strong> – Recognition in Moonlight & Roses program (distributed to 600+ guests).</p><p><em>*One time use complimentatry guest passes have a retail value of $14 per pass.</em> </p></div>
+                <div class="four columns"><p><strong>30 Free Passes*</strong></p></div>
+            </div><a class="close-reveal-modal">&#215;</a>
+          </div>
+          
+   <!--End Reveal Modal-->
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

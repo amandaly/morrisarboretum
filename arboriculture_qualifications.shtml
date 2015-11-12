@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Arboriculture</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> 
+      <hr>
+      <img src="images/img-header-arboriculture.jpg"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Urban Forestry Team Members</h2>
+        <p>The Morris Arboretum's Urban Forestry Consulting team includes both nationally and regionally recognized experts in tree care.</p>
+        <hr>
+        
+        <div class="row">
+        	<div class="three columns"><img src="images/img-headshot-lubar.jpg" style="margin-top:15px;"></div>
+            <div class="nine columns"><a id="lubar"></a>
+              <h4 class="first">Jason Lubar, <em>Associate Director of Urban Forestry</em></h4>
+        <p><em>International Society of Arboriculture (ISA) Board Certified Master Arborist, ISA Qualified Tree Risk Assessor, American Society of Consulting Arborist (ASCA) member</em></p><br>
+        <p>Mr. Lubar has been a part of the Morris Arboretum's Urban Forestry Consultants for over a decade. Jason is a PennDel ISA Board Member and serves on Penn-Del’s Nursery Quality Task Force. He also is on the Executive Board and is treasurer of the Pennsylvania’s Urban and Community Forestry Council.  Before joining Morris Arboretum, he served as a consultant and employee of various local urban forestry groups and related organizations. He co-founded the Wissahickon Stewardship Program; a community-based natural resource management program in Philadelphia’s Fairmount Park and has been involved in many other environmental programs.</p>
+        <p><strong>Contact Jason Lubar at 215.247.5777 x189 or <a href="mailto:lubar@upenn.edu">lubar@upenn.edu</a></strong></p>
+       	  </div>
+        </div>
+        
+        <hr>
+        <div class="row">
+        	<div class="three columns"><img src="images/img-headshot-wells.jpg" style="margin-top:15px;"></div>
+            <div class="nine columns"><a id="wells"></a>
+              <h4 class="first">Robert Wells, <em>Associate Director of Arboriculture</em></h4>
+ <p><medium><em>International Society of Arboriculture (ISA) Board Certified Master Arborist, ISA Qualified Tree Risk Assessor, American Society of Consulting Arborist (ASCA) member, New Jersey Certified Tree Expert #257</em></medium></p>
+        	<p>Mr. Wells has 35 years of experience as the owner of a private tree care firm in Princeton, New Jersey. He graduated from Cook College, Rutgers University with a B.S. in plant sciences, and is a NJ Certified Tree Expert and an International Society of Arboriculture (ISA) Board Certified Master Arborist. Mr. Wells is also an active member of the Tree Care Industry Association and the American Society of Consulting Arborists. Mr. Wells has served as the chair of the Princeton Township Shade Tree Commission for 15 years.</p>
+        	<p><strong>Contact Robert Wells at 215.247.5777 x144 or 
+<a href="mailto:wellsrob@upenn.edu">wellsrob@upenn.edu</a></strong> </p>
+		  </div>
+        </div> 
+
+
+        <hr>
+        <div class="row">
+        	<div class="three columns"><img src="images/img-intern-uf.jpg" alt="Corey Bassett" style="margin-top:15px;"></div>
+            <div class="nine columns"><h4 class="first">Trish Kemper, <em>Martha S. Miller Endowed Urban Forestry Intern</em></h4>
+        	<p>Trish Kemper graduated from Temple University in 2015 with a Master’s degree in landscape architecture.    The MLA program has a strong emphasis on ecological restoration with many environmental courses including, native woody plants, forest ecology and wetland ecology.  Trish’s thesis/capstone project was the design of a 48 acre park at the confluence of the Delaware and Schuylkill Rivers on the active U.S. Army Corps dredge facility that could be the final node along the Schuylkill River Trail. The design included pedestrian trails, boardwalks and overlooks through a recreated freshwater tidal marsh, an Atlantic coastal plains forest, wet meadows and upland forests.  Her career goal is to use her knowledge of design, native plants and sustainable practices to create inviting and ecologically beneficial open spaces.  Previously, she has interned at the Wissahickon Vally Watershed Association and worked at Leon’s Garden World in Wilmington, Delaware. On the weekends, Trish enjoys playing guitar, gardening, and hiking and birding with her family throughout Pennsylvania. </p>
+        	</div>
+        </div>
+      
+      <br>  
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-arboriculture.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-research.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

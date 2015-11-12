@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Plan Your Visit</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-hours.jpg" alt="Hours and Admission"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Hours</h2>
+      <p><strong>Open Daily: </strong>10:00am - 4:00pm<br>
+      <strong>November - March:</strong> Weekends until 4:00pm<br>
+           <strong>April - October: </strong>Weekends until 5:00pm</p>
+           <p><strong>Extra Summer Hours</strong><br>
+			Late Night Wednesdays until 8:00pm (June, July, August)<br>
+			Early Morning Saturdays; garden opens at 8:00am (May - October, excluding October 3)</p>
+           
+      	   <p><strong>Open every day, except for the following holidays:</strong> <br>
+      New Years Day, Thanksgiving, Christmas Eve, and Christmas Day </p>
+      <p class="red" style="margin-top:5px; line-height:14px;"><a href="#" data-reveal-id="weatherModal">Check for weather closings.</a></p>
+       <hr>
+       <h2>Regular Admission</h2>
+       		<p class="red"><strong>Veterans Visit Free November 11, 2015.</strong></p>
+      	   <p><strong>Members:</strong> Free<br>
+           <strong>PennCard holders:</strong> Free<br>
+           <strong>Children under 3: </strong>Free<br>
+           <strong>Youth (3-17 years):</strong> $8.00<br>
+           <strong>Students, Active and Retired Military (must have ID):</strong> $8.00<br>
+           <strong>Adult:</strong> $16.00<br>
+           <strong>Seniors (65+ years):</strong> $14.00<br>
+           <strong>Hike or Bike:</strong> $8.00 (Kids $4.00)</p>
+                      
+           <p><strong>Group Rates (for 10 or more people):</strong> $12 per adult, $10 per senior (65yrs+), $8 per student. <em>Groups must be scheduled in advance by contacting Lisa Bailey at <a href="mailto:baileyl@upenn.edu">baileyl@upenn.edu</a> or 215.247.5777 x157.</em></p>
+           <p><a href="visit_promotions.shtml"><strong>Check for admission discounts and promotions.</strong></a></p>
+           <hr>
+        
+        <h3><strong>Discover the Value of Membership!</strong></h3>
+        <p>A membership pays for itself in just a few visits. If you join on-site after paying admission to visit the Arboretum, a portion of your admission fees will be deducted from the price of your selected membership level.</p>
+        <p><a href="membership.shtml" class="button radius small"><strong>Become a Member Today!</strong></a></p>
+       <hr>
+       <h2>Additional Information</h2>
+       <div class="panel"><p class="red"><strong>Please Note: <em>The <a href="gardens_features_rosegarden.shtml">Rose Garden</a> is closed until noon on Thursdays for regular maintainence.</em></strong></p>
+</div>
+             <h3>Weather Closings</h3>
+        <p class="red" style="margin-top:5px; line-height:14px;"><a href="#" data-reveal-id="weatherModal">Click here for updates</a></p>
+        <p>Weather emergencies may require us to close the garden or limit access to some garden features. Please call 215.247.5777 for updated information or visit our <a href="https://www.facebook.com/morrisarboretum" target="_blank">Facebook</a> page.</p>
+        
+       <h3>Tree Etiquette</h3>
+      <p><strong><em><u>Please note, visitors are not allowed to climb or sit on the limbs of trees.</u></em></strong><em> </em>The Arboretum is home to a number of <a href="gardens_collection.shtml">champion trees</a>, some of which are very old.  With 130,000 visitors annually, climbing becomes a safety issue for both children and the trees. We don’t want any visitors or trees to break a limb. Thank you!</p>
+      
+       <h3>Photography</h3>
+       <p> Taking pictures at the Morris Arboretum for personal use is free to do with paid admission (or completely free if you are a <a href="membership.shtml">Member</a>). However, additional charges apply for large groups (more than 6 people), commercial photography, or photography taking place outside of normal garden hours. <a href="visit.shtml#photo"><strong>Learn More &raquo;</strong></a></li>
+        </ul>
+        
+       <h3>Parking</h3>
+        <p>Parking adjacent to the Visitor Center is sometimes at capacity on nice weather weekends. When you visit, you may be required to park at the bottom of the hill and be shuttled into the garden; please allow extra time to ride the shuttle. Saturdays and mornings tend to be less busy. Carpooling is encouraged: we have a capacity for a total of 280 cars and at times we may be full.</p>       
+        
+      <h3>Membership ID Policy</h3>
+        <p>Members must present a valid membership card to the gate attendant to gain free admission. Adult members may be asked to present a photo ID (driver's license, student ID, etc.) along with their membership card to gain free admission.
+
+</p>
+       
+       <h3>Reciprocal Admissions Program</h3>
+       <p>The American Horticultural Society (AHS) Reciprocal Admission Program offers members of participating gardens free admission to the Morris Arboretum. A valid membership card from a participating garden must be presented. <a href="http://www.ahs.org/gardening-programs/rap" target="_blank">Click here for a list of participating gardens.</a> Directories are also for sale in the Shop at the Morris Arboretum. RAP discounts do not apply to special ticketed events, such as concerts or members only events. Based on the 90-mile exclusion policy of the RAP program, members of Bartram’s Gardens, Camden Children’s Garden, Great Valley Nature Center, Rutgers Gardens, and the University of Delaware Botanic Gardens are not eligible for free admission. Members of Tyler Arboretum and Winterthur are exceptions to the 90-mile exclusion policy and are eligible for free admission.</p>
+        <p><a href="http://phsonline.org/" target="_blank">Pennsylvania Horticultural Society</a> members receive a $2 admission discount.</p>
+
+       <h3>Concerts</h3>
+        <p><a href="events_SummerConcerts.shtml">Additional fees apply for concert admission. Click here for more details.</a></p>
+
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-visit.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+    <!--#include virtual="elements/subnav-visit.html" -->
+  </div>
+  <!--Reveal Modal-->
+  	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+    <div id="widenerModal" class="reveal-modal large">
+        <!--#include virtual="elements/widener-alert.html" -->
+    </div>
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

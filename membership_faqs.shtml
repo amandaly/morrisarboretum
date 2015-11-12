@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Membership</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-membership.jpg"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Membership FAQs</h2>
+      <br>
+      <ul class="accordion">
+          <li>
+            <div class="title">
+              <h5>I renewed/joined online, now what?</h5>
+            </div>
+            <div class="content">
+              <p>If you would like to visit the Arboretum soon, please save your e-receipt and show it to the gate attendant until you receive your membership cards/materials. Your membership materials will arrive within 7-10 business days.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>How do I update my contact information?</h5>
+            </div>
+            <div class="content">
+              <p>Call Membership Services at 215.247.5777 x155 or <a href="https://dnbweb1.blackbaud.com/OPXDONATE/ChangeOfAddress.asp?cguid=6625AB30-A257-4B04-B78F-167D5B4B3152&sid=37851FCA%2DC52F%2D48A2%2DB245%2D864AE08D392C">click here to update your information online</a>.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5 style="margin-right:25px;">Can I include my child, who is 18 years or older, as a secondary cardholder on my Dual or higher level membership?</h5>
+            </div>
+            <div class="content">
+              <p>Yes, Dual Memberships and higher levels include any two named people, regardless if they live in the same household or not. Entrance to the Arboretum is then granted to the two named members. All mailings (Seasons newsletter, mailed invitations, etc.) are sent to the primary member’s address.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>Can I apply paid admission to my membership if I decide to join by mail or online?</h5>
+            </div>
+            <div class="content">
+              <p>The admission paid by the persons included in the membership is only good if you join onsite the same day you paid admission at the gate.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>Can I upgrade to another level to receive additional benefits?</h5>
+            </div>
+            <div class="content">
+              <p>Yes. Upgrading is an option up to two months prior to your renewal date and you will pay the difference of what you originally paid for your current membership level. Your membership expiration date will remain the same. If you wish to upgrade any time between two months or less, you will be asked to pay full price and renew at the upgraded level and receive full benefits of that level. Call us today to learn how at 215.247.5777 x151.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>Should I list my child if he/she is under 3 years of age?</h5>
+            </div>
+            <div class="content">
+              <p>It is not necessary to list children on your membership if they are under 3 years of age. Please only list children who are between the ages of 3-18. Children 2 and under are admitted free of charge.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>Can I add my grandchildren to my membership?</h5>
+            </div>
+            <div class="content">
+              <p>Yes, adding up to four grandchildren is an option at the Family Level or higher.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>Do you offer discounted memberships for students or seniors?</h5>
+            </div>
+            <div class="content">
+              <p>While we do not offer discounted memberships for students or seniors, we do offer discounted admission for those individuals. Group rates are also available. <a href="visit_hours.shtml">Click here for admission fees.</a></p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>Can I use my membership for admission to other gardens or arboreta?</h5>
+            </div>
+            <div class="content">
+              <p>Absolutely, you are able to receive free admission and other benefits to more than 300 gardens and arboreta throughout the U.S. through the American Horticultural Society’s Reciprocal Admission Program. Please <a href="http://www.ahs.org/gardening-programs/rap" target="_blank">click here</a> or call the membership office at 215.247.5777 x151 for a printed copy.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>Can I lend my membership card to a friend or family member to use?</h5>
+            </div>
+            <div class="content">
+              <p>Memberships are non-transferable and can only be used by the named cardholders and their included children.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>Does my membership include complimentary guest passes?</h5>
+            </div>
+            <div class="content">
+              <p>Yes, all membership levels include a number of guest passes.  For general memberships (Individual, Dual and Family), 2 guest passes are included for one-year memberships and 4 guest passes are included for two-year memberships.  Beech memberships include 4 guest passes for a one-year membership and 8 guest passes for a two-year membership.  Chestnut memberships include 6 guest passes.  Holly memberships include 8 guest passes.  Oak and Laurel level memberships include 10 guest passes.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>Can I become a paperless member?</h5>
+            </div>
+            <div class="content">
+              <p>Opting to be an eco-friendly member does not change your current membership level or benefits.  It reduces the number of printed publications you will receive from the Arboretum.</p>
+
+            <p><strong>Eco-friendly members will receive</strong></p>
+            <ul class="content_list">
+                <li>Printed membership cards by mail.</li>
+                <li>E-Newsletters that will include links to our latest publications and events.  Please be sure we have your correct email.</li>
+            </ul>
+            <p><strong>Eco-friendly members will not receive</strong></p>
+            <ul class="content_list">
+                <li>Printed copies of Seasons, the education course brochure, and the annual report.</li>
+            </ul>
+            <p>To become an eco-friendly member and/or to update your email address, please contact the membership office at <a href="mailto:members@morrisarboretum.org">members@morrisarboretum.org</a>.  Please include your name, mailing address, and current email address in the message.  Thanks for choosing to go green!</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>What happens if I lost or never received my membership card/materials?</h5>
+            </div>
+            <div class="content">
+              <p>Please call Membership Services at 215.247.5777 x151 to request replacement materials be mailed to your home.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>What happens if I forget my membership card?</h5>
+            </div>
+            <div class="content">
+              <p>You will be asked to show your ID to the gate attendant and they will look up your name on our membership list. To expedite service at the front gate and prevent any problems with admission, it is important that you check to make sure you have your ID and membership cards before visiting the Arboretum.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5 style="margin-right:25px;">I recently joined and still have not received my new membership cards, but would like to visit the Arboretum.</h5>
+            </div>
+            <div class="content">
+              <p>Membership processing takes between 7-10 business days. During busier seasons, processing can take longer. If you do not have a temporary card(s) or e-receipt from your online membership purchase, please contact Membership Services at 215.247.5777 x151.or email <a href="mailto:members@morrisarboretum.org">members@morrisarboretum.org</a> and we will make arrangements with our Admissions Office if you plan to visit within a day or two.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>I just received another renewal notice, but I already sent in my payment.</h5>
+            </div>
+            <div class="content">
+              <p>Usually when this happens it's because our renewal mailing and your payment crossed paths. Our renewals are mailed at the non-profit bulk-rate to save on postage. Bulk mail can take anywhere from 2 days to 3 weeks to be delivered to our members homes.</p>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h5>I did not see my membership-related question listed above.</h5>
+            </div>
+            <div class="content">
+              <p>Please contact Member Services (Mon-Fri 9am-5pm) at 215.247.5777 x151 or email <a href="mailto:members@morrisarboretum.org">members@morrisarboretum.org</a>.</p>
+            </div>
+          </li>
+          
+          
+        </ul>
+      <br>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-membership.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-support.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

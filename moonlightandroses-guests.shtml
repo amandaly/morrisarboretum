@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Events</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-mr.jpg" alt="Moonlight and Roses Gala"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="nine columns push-three">
+      <div class="row">
+      	<div class="eight columns">
+        <h2 class="first serif">Moonlight &amp; Roses<br>
+		<span class="serif" style="font-size:18px;"><em>presented by</em> The Haverford Trust Company</span></h2>
+        <br>
+        <blockquote><em>June 5, 2015</em></blockquote>
+        <p><strong>We are excited to share an enchanted evening with our sponsors. Thank you for your support!</strong></p>
+        <h3><strong>Event Details</strong></h3>
+        <p>Moonlight &amp; Roses presented by The Haverford Trust Company will take place on Friday, June 5th. Enjoy cocktails and hors d’oeuvres in the Rose Garden from 6pm – 8pm. Dinner and dancing will follow from 8pm – 11pm in our moonlit tent. A delicious surf and turf menu will be offered from Brulee Catering and music will be provided by the Janis Nowlan Band.</p> 
+        <h3><strong>Attire</strong></h3>
+		<p>Semi-formal, garden party</p>
+        <h3><strong>Parking</strong></h3>
+		<p>Our event team will be on hand to welcome and direct you as soon as you pull through the entrance gates of the Arboretum.  Valet parking is provided and a trolley will shuttle guests to the event.</p> 
+		<h3><strong>Directions</strong></h3>
+           <p><strong>GPS Devices Use:</strong> 100 E. Northwestern Ave., Philadelphia, PA 19118<br>
+           <a href="#dd_ccp" rel="" id="anchor1" class="anchorLink"><strong>From Center City Philadelphia &raquo;</strong></a><br>
+      	   <a href="#dd_nep" rel="" id="anchor1" class="anchorLink"><strong>From Northeast Philadelphia &raquo;</strong></a><br>
+           <a href="#dd_de" rel="" id="anchor1" class="anchorLink"><strong>From Wilmington, Delaware and points South &raquo;</strong></a><br>
+           <a href="#dd_ny" rel="" id="anchor1" class="anchorLink"><strong>From New York and Points North and East &raquo;</strong></a><br>
+           <a href="#dd_penn" rel="" id="anchor1" class="anchorLink"><strong>From UPenn &raquo;</strong></a></p>
+        <br>
+        <a name="dd_ccp" id="dd_ccp"></a><h3>From Center City Philadelphia:</h3>
+        <p><em>Cars Only, Avoiding Expressways.</em> Take the Ben Franklin Parkway to the Art Museum, bear right onto Kelly Drive, follow Kelly drive to the end onto Lincoln Drive (about 4 miles), follow Lincoln Drive to the end (3.6 miles), turn right onto Allens Lane, Allens Lane ends at Germantown Avenue (.4 miles), turn left.  Follow Germantown Avenue through Chestnut Hill, after descending a long hill, turn right on Northwestern Avenue (2.6 miles at Chestnut Hill College and Lincoln Woods), the Arboretum entrance is 750 yards on the right at 100 East Northwestern Avenue.</p>
+        <a name="dd_nep" id="dd_nep"></a><h3>From Northeast Philadelphia:</h3>
+        <p>Take Roosevelt Boulevard to Levick Street. Turn on Levick and go two miles to Tookany Parkway, and make left; then go to first light and make a right on Cheltenham Avenue. After about 4 miles, Cheltenham ends at Papermill Road; go left on Papermill for two miles. At the top of the hill is Bethlehem Pike; cross Bethlehem Pike and bear right; you'll be on Stenton Avenue. Turn left on Northwestern Avenue, and turn left into Arboretum gate. </p>
+        <a name="dd_de" id="dd_de"></a><h3>From Wilmington, Delaware and points south:</h3>
+        <p>Take I-95 North to the Blue Route (476 N); get off at exit 19 (old exit 8) (Plymouth Meeting). Make a right onto Germantown Pike. Continue on Germantown Pike (it becomes Germantown Avenue) for just over 3 miles; turn left on Northwestern Avenue. Arboretum entrance is about 1/4 mile on the right.</p>
+        <a name="dd_ny" id="dd_ny"></a><h3>From New York and Points North and East of Philadelphia:</h3>
+        <p>From New York take the New Jersey Turnpike south (or from other points Route I-95 South) to the Pennsylvania Turnpike West to the Norristown exit (Old Exit 25 -- New Exit 333), Take Germantown Pike East (it becomes Germantown Avenue) for just over 3 miles; turn left on Northwestern Avenue. Arboretum entrance is about 1/4 mile on the right.</p>
+        <a name="dd_penn" id="dd_penn"></a><h3>From UPenn:</h3>
+        <p>Head east on Market St toward N 34th St. Turn left onto John F Kennedy Blvd. Take the Interstate 76 W ramp to Valley Forge. Keep left at the fork, follow signs for I-76 W/Valley/Forge and merge onto I-76 W. Take exit 340A toward Lincoln Dr/Kelly Dr/Germantown/Wissahickon Park. Merge onto City Ave. Slight left to merge onto Lincoln Dr. Turn left onto Emlen St. Continue onto Cresheim Valley Dr. Turn left onto Germantown Ave. Turn right onto E Northwestern Ave. Arboretum entrance will be on the right.</p>
+        <br>
+        <div class="flex-video"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3052.2764008418735!2d-75.224805!3d40.091550000000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x49e24bd00df62d42!2sMorris+Arboretum+of+the+University+of+Pennsylvania!5e0!3m2!1sen!2sus!4v1409675612764" width="100%" height="350" frameborder="0" style="border:0"></iframe><br /></div>
+        
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        </div>
+        
+        <div class="four columns">
+        <div class="panel" style="text-align:center;">
+        <p><em><strong>2015 Presenting Sponsor</strong></em></p>
+        <p><a href="http://www.haverfordquality.com/"><img src="images/logo-Haverford.png"></a></p>
+        <hr>
+        <p><em><strong>Lily Sponsors</strong></em></p>
+        <p><a href="http://www.acegroup.com/us-en/" target="_blank">ACE USA</a><br>
+        <a href="http://www.aon.com" target="_blank">Aon</a><br>
+        <a href="https://www.bunchcare.com/" target="_blank">Bunch CareSolutions, a Xerox Company</a><br>
+        <a href="www.cozen.com" target="_blank">Cozen O'Connor</a><br>
+        <a href="http://www.mccarter.com/" target="_blank">McCarter &amp; English, LLP</a><br>
+		<a href="https://www.sedgwick.com" target="_blank">Sedgwick</a><br>
+		<a href="http://simkiss.com/" target="_blank">The Simkiss Companies</a><br>
+        <a href="http://cms.business-services.upenn.edu/" target="_blank">University of Penn, Business Services</a><br>
+		<a href="http://www.facilities.upenn.edu" target="_blank">University of Penn, Facilities &amp; Real Estate</a><br>
+        <a href="http://www.willis.com/Locations/North_America/United_States/Pennsylvania/" target="_blank">Willis of Pennsylvania</a><br>
+		<a href="https://www.zurich.com/" target="_blank">Zurich Insurance Group</a>
+        </p><br>
+        <p><em><strong>Camellia Sponsors</strong></em></p>
+        <p><a href="http://www.aig.com" target="_blank">AIG</a><br>
+        <a href="http://www.barnesandnoble.com/" target="_blank">Barnes &amp; Noble</a><br>
+		<a href="http://www.hirshorn.com/" target="_blank">The Hirshorn Company</a><br>
+		<a href="http://www.intechconstruction.com/" target="_blank">INTECH Construction</a><br>
+		<a href="http://usa.marsh.com/" target="_blank">Marsh USA</a><br>
+		<a href="www.officedepot.com" target="_blank">Office Depot</a>
+		</p>
+
+        <hr>
+        <h4><a href="giving_fundraisingEvents.shtml">History of <em>Moonlight &amp; Roses presented by The Haverford Trust Company</em></a></h4>
+        </div>
+        </div>
+      </div>
+      
+      <p></p>
+      
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-support.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

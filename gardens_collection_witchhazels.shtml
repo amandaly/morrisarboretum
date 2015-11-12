@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Explore</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-witchhazels.jpg" alt="Witchhazels at Morris Arboretum"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="seven columns push-three">
+      <h2 class="first">Witchhazels: Winter's Colorful Blooms!</h2>
+        <p>Did you know that the Arboretum has fabulous color and fragrance even in the middle of winter? Head over to the Arboretum this winter for a month of fun and exploration. Follow the scavenger hunt to discover the many varieties of witchhazels (<em>Hamamelis</em>) growing at the Arboretum. Ranging in color from yellow and orange to pink and red, witchhazels are some of the first harbingers of spring. Compare their beautiful flowers and take in their heady scent.</p>
+      <h3>5 Facts About Witchhazels:</h3>
+       <ul class="content_list">
+       <li>Witchhazels are large shrubs which can reach from 6–12 feet wide and 10–20 feet high or more.</li>
+       	<li>Bloom sizes range from ½ inch across to 1½ inches on the other species
+and cultivars. Hues range from reds to oranges to yellows, with some flowers bicolored.</li>
+		<li>Some varieties have no fragrance; others have spicy or citrusy scents,
+especially evident on sunny winter days. It's recommended to sniff the flowers with your mouth
+open to catch all the complexities of the scent.</li>
+		<li>American witchhazel (<em>H. virginiana</em>) is the source of witchhazel extract, first distilled by Native Americans and
+still used to treat a variety of ailments, including cuts and bruises, swelling, and sore eyes. <em>H. virginiana</em> blooms in autumn.</li>
+		<li>Because American witchhazel looked like English hazel—the European plant of choice for water witches, those folks who use
+divining rods to search for underground water sources—early settlers in the American colonies used forked twigs of<em> H. virginiana</em> for this purpose, giving the genus its common name.</li>
+       </ul>
+       <p><a href="pdf/map-witchhazel.pdf" class="button small radius"><strong>Click here to download a printable map</strong></a></p>
+       <p><em>Maps are also available at the Visitor Center.</em></p>
+       <hr>
+       <h3>A few of our favorite witchhazels:</h3><br>
+          <ul class="block-grid four-up mobile-two-up">
+          	<li style="font-size:9px;"><img src="images/img-witchhazel1.jpg"><p><em>H. mollis </em>‘Princeton Gold’: nicely  scented, yellow fall foliage</p></li>
+          	<li style="font-size:9px;"><img src="images/img-witchhazel3.jpg">
+          	<p><em>H. mollis </em>‘Kort’s Yellow’: sweet scent, yellow fall foliage</p></li>
+          	<li style="font-size:9px;"><img src="images/img-witchhazel4.jpg"><p><em>H. × intermedia </em>‘Harry’: excellent floral display, faint scent, no fall color</p></li>
+          	<li style="font-size:9px;"><img src="images/img-witchhazel5.jpg"><p><em>H. × intermedia</em> ‘Rubin’: faint scent, yellow-orange fall foliage</p></li>
+          	<li style="font-size:9px;"><img src="images/img-witchhazel6.jpg"><p><em>H. × intermedia </em>‘Luna’: lightly scented, yellow to orange fall foliage</p></li>
+          	<li style="font-size:9px;"><img src="images/img-witchhazel7.jpg"><p><em>H. × intermedia ‘</em>Gimborn’s Perfume’: strong scent, yellow autumn foliage</p></li>
+          	<li style="font-size:9px;"><img src="images/img-witchhazel8.jpg"><p><em>H. × intermedia </em>‘Georges’: unusual flower color, no scent, excellent fall color</p></li>
+          	<li style="font-size:9px;"><img src="images/img-witchhazel9.jpg"><p><em>H. × intermedia </em>‘Jelena’: unusual flower color, no scent, multicolor fall foliage</p></li>
+          </ul>
+          
+       <hr>
+
+       <div class="row">
+            <div class="eight columns"><a href="#witchhazel"></a> <h3><strong>“Witchhazel” is your Favorite? Family Event </strong> </h3>
+			<p class="first"><strong>SATURDAY, FEBRUARY 14, 2015 | 1:00 - 3:00pm</strong> <em><br>Free with admission.</em></p>
+            <p>Throughout the garden - pick up map at Visitor Center or download one below. There will also be a fun craft activity in the Upper Gallery of Widener Visitor Center.</p> 
+            <p><a href="pdf/map-witchhazel.pdf" class="button small radius"><strong>Get the map!</strong></a></p>
+            
+            </div>
+            <div class="four columns"><img src="images/ad-witchhazel.jpg" alt="Witchhazel is your Favorite? "><br>
+       </div>        
+       </div>
+       <br><br>
+       <div class="row">
+          <a id="tours"></a>
+<div class="eight columns"><h3><strong>Witchhazel Tours</strong> </h3>
+			<p class="first"><strong>SATURDAYS, JANUARY 10, FEBRUARY 14, MARCH 14 | 1:00pm</strong> <em><br>Free with admission. Tours start from the Widener Visitor Center at 1pm and are free for members or with regular admission.  Registration is not required.</em></p>
+            <p>Discover Morris Arboretum’s extensive witchhazel collection this winter! On the second Saturday of January, February and March, knowledgeable guides will lead tours throughout the garden, searching for witchhazels. Visitors will see more than a dozen different blooming witchhazels, featuring a variety of fragrant scents and bright colors. Get outside this winter and take in Morris Arboretum’s sweet eye and nose candy – witchhazels!</p> 
+            </div>
+            <div class="four columns"><br>
+<br>
+<img src="images/ad-witchhazel-tour.jpg" alt="Witchhazel Tours"><br>
+       </div>        
+       </div>
+         <br><br>
+                <div class="row">
+          <a id="tours"></a>
+<div class="eight columns"><h3><strong>An Inside Look at the Witchhazel Collection <span class="red">(Postponed)</span></strong> </h3>
+			<p class="first"><strong><span style="text-decoration:line-through">SATURDAY, FEBRUARY 21</span> <br>
+<span class="red">(Postponed to Saturday, March 7)</span> | 10:00am - 12:00pm</strong> <em><br>Payment and registration required. <a href="https://online.morrisarboretum.org/classes/behindthescenes#witchhazel">Register online now.</a></em></p>
+            <p>Join us as we tour the Arboretum's outstanding collection of witchhazels with Curator Tony Aiello. The beautiful and fragrant floral display of witchhazels is a welcome sight during the bleak winter months. Native witchhazels provide color in the late fall while Asian witchhazels bloom in late winter to early spring. Many of the Asian witchhazels were introduced into this country during the last half of the 19th Century. Their discovery is intertwined with the early exploration of Japan and China. Tony will describe the different kinds of Asian and North American witchhazels in cultivation and explain why they are such terrific additions to the home landscape. Dress for the weather as we plan to take a walk to see some of the witchhazels in the Arboretum collection.</p> 
+            </div>
+            <div class="four columns"><br>
+<br>
+<img src="images/ad-witchhazel-class.jpg" alt="An Inside Look at the Witchhazel Collection"><br>
+<h4><a href="https://online.morrisarboretum.org/classes/behindthescenes#witchhazel" class="button medium radius"><strong>Register Now</strong></a></h4>
+       </div>        
+       </div>
+         
+       <br>
+
+   
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <div class="two columns"></div>
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-gardens.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

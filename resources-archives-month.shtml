@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Education</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-archives-month.jpg" alt="Archives Month"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="eight columns push-three">
+      <h2 class="first">Celebrate Archives Month</h2>
+      <blockquote>Family legacy, history, and intrigue...</blockquote>
+      <p>October is American Archives Month, an opportunity for archives and  archivists around the country to raise public awareness about the value  of historical records and collections. Join Morris Arbretum this October in sharing our history through words, images, and events. </p>
+      <p><em><strong><a href="http://www.business-services.upenn.edu/arboretum/archives/index.html" target="_blank">Don't forget to visit our Archives website  for a wealth of archival images, transcripts, and stories <i class="efoundicon-right-arrow"></i></a></strong></em></p>
+      <hr>
+      	  <div class="row">
+            <div class="eight columns">
+              <h3><strong>Lantern Slide Salon at the Wagner Free Institute of Science</strong></h3>
+			<p class="first"><strong>THURSDAY, OCTOBER 10 | 6:00 - 8:00pm</strong><br>
+<strong>RSVP: </strong><a href="https://lanternslidesalon.eventbrite.com" target="_blank">https://lanternslidesalon.eventbrite.com</a></p>
+           
+              <p>The Wagner Free Institute of Science will host its first-ever lantern slide salon highlighting the historic lantern slide collections of some of the region’s most significant cultural and educational institutions, including Morris Arboretum. Predating the motion picture, lantern slides were used for entertainment and to illustrate educational programs and courses. This salon will bring together some unique and rarely-seen images that depict a vast range of subjects: from the local—early engineering feats and turn-of-the century views of Philadelphia’s neighborhoods—to the international—the Spanish American War, Early 20th Century Japanese life, 1930s peace demonstrations in Berlin, the Jewish immigrant experience and more. The salon will be held in the Wagner’s unchanged Victorian lecture hall using an original lantern slide projector. Join the Institute for a rare treat as they revive an old technology in order to see globally significant lantern slide collections drawn from the libraries and archives of Philadelphia’s most distinguished institutions. <em>This program is part of the Global Philadelphia™ Exposition.</em></p>
+              
+            </div>
+            <div class="four columns"><br><img src="images/ad-lantern-salon.jpg" alt="Lantern Slide Salon"></div>
+          </div>
+          
+          <hr>
+          <div class="row">
+            <div class="eight columns"><h4><strong>Bloomfield Farm Day</strong> </h4>
+			<p class="first"><strong>SUNDAY, OCTOBER 20 | 12:00 - 3:00pm</strong><br> 
+            <em>Free with admission.</em></p>
+            <p>Come celebrate Bloomfield Farm’s agricultural history. Take advantage of this rare opportunity to tour the Bloomfield Farm property which houses the Arboretum’s oldest and newest buildings - the Springfield Mill, which dates back to 1760, and the LEED platinum certified Horticulture Center complex, finished in 2010. As well as building tours, there will be demonstrations, vendors, music, and food.</p>
+            </div>
+            <div class="four columns"><br><img src="images/ad-bloomfield-farm.jpg" alt="Bloomfield Farm Day"></div>
+          </div>
+          
+      <hr>
+          <div class="row">
+            <div class="eight columns"><h4><strong>Looking Back - 125 Years of Gardens</strong> </h4>
+			<p class="first"><strong>An On-going Exhibit | Monday-Sunday 10:00am - 4:00pm</strong><br>
+			Widener Visitors Center Lower Gallery<br>
+            <em>Free with admission.</em></p>
+            <p>See the mission of education, research evolve from private garden to public institution.
+The educational institution and historic public garden that is now the Morris Arboretum  of the University of Pennsylvania was previously the private estate of Quaker siblings John Thompson Morris (1847-1915) and Lydia Thompson Morris (1849-1932). Bequeathed to the University of Pennsylvania in 1933, it was part of the University's Botany Department until it was established as a separate Interdisciplinary Resource Center in 1975.  The Morris Arboretum is the official Arboretum of the Commonwealth of Pennsylvania.</p>
+            </div>
+            <div class="four columns"><br><img src="images/ad-125-gardens.jpg" alt="125 Years of Gardens"></div>
+          </div>
+          
+          <hr>
+          <div class="row">
+            <div class="eight columns"><h4><strong>The Estate Years</strong> </h4>
+			<p class="first"><strong>An On-going Exhibit | Monday-Sunday 10:00am - 4:00pm</strong><br>
+			Widener Visitors Center Upper Gallery<br>
+            <em>Free with admission.</em></p>
+            <p>Display of Lydia’s china, linen, and interior photos of the mansion.</p>
+            </div>
+            <div class="four columns"><br><img src="images/ad-estate-years.jpg" alt="The Estate Years"></div>
+          </div>
+          
+          <hr>
+          <div class="row">
+            <div class="eight columns"><h4><strong>A Year in the Life of the Compton Head Gardener</strong> </h4>
+			<p class="first"><strong>Article by Elizabeth Gavula, <em>Morris Arboretum Archives &amp; History Volunteer</em></strong></p>
+            <p>Read about the experience and reflections of Archives &amp; History Volunteer, Elizabeth Gavula, as she transcribes the 1921
+-
+1922
+daily
+diary
+
+kept by
+John Tonkin,
+the
+head gardener of Compton from
+1913 to
+1957. <br>
+<strong><a href="http://www.business-services.upenn.edu/arboretum/archives/HistoricPDF/2010-15-17-EG-Tonkin%20Journal1921-22.pdf" target="_blank">Click here to read the article by Elizabeth Gavula <i class="efoundicon-right-arrow"></i></a></strong><br>
+<strong><a href="http://www.business-services.upenn.edu/arboretum/archives/HistoricPDF/2010-15-17-EG-Report-TonkinJournal-1921-1922.pdf" target="_blank">Click here to read the diary of John Tonkin (1921-1922) <i class="efoundicon-right-arrow"></i> </a></strong></p>
+            </div>
+            <div class="four columns"><br><img src="images/ad-john-tonkin.jpg" alt="A Year in the Life of the Compton Head Gardener"></div>
+          </div>
+          
+          <hr>
+          <div class="row">
+            <div class="eight columns">
+              <h4><strong>Discover more Archives Month events happening around Philadelphia throughout October</strong></h4>
+			<p class="first">Visit the official Archives Month Philly website for more information: <a href="http://archivesmonthphilly.com" target="_blank">http://archivesmonthphilly.com</a></p>
+            </div>
+            <div class="four columns"><br><img src="images/logo-philly-archives.jpg" alt="Archives Philly"></div>
+          </div>
+      <br> 
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!-- Nav Sidebar -->
+    <div class="one column"></div>
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-resources.html" -->
+  </div>
+
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

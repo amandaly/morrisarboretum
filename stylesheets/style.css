@@ -1,0 +1,103 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.round-l { border-radius: 0px 0px 0px 10px;	-webkit-border-radius: 0px 0px 0px 10px; -moz-border-radius: 0px 0px 0px 10px; }
+
+.round-r { border-radius: 0px 0px  10px 0px; -webkit-border-radius: 0px 0px  10px 0px; -moz-border-radius: 0px 0px  10px 0px; }
+
+
+.round-b { border-radius: 0px 0px  10px 10px; -webkit-border-radius: 0px 0px  10px 10px; -moz-border-radius: 0px 0px  10px 10px; }
+
+.left-pad { padding-right:15px; }
+.right-pad { padding-left:15px; }
+
+.pop { background:#fff; -webkit-box-shadow: 0 0 10px #cac5bb, 0 2px 0 rgba(255, 255, 255, 0.8) inset; -moz-box-shadow: 0 0 10px #cac5bb, 0 2px 0 rgba(255, 255, 255, 0.8) inset; box-shadow: 0 0 10px #cac5bb, 0 2px 0 rgba(255, 255, 255, 0.8) inset; border:0px solid #cac5bb;}
+
+.copyright { font-size:12px;}
+
+.orbit-caption h2 { font-size:30px;	margin:20px 0; }
+
+.quote { color:#d3dad9; font-size:22px; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; margin-top:0px; letter-spacing:.5px; }
+	
+footer a:hover, a:hover { color:#347e70; }
+
+.white h6 {padding:5px 10px 16px 0px;}
+
+.w {color:#fff;}
+.white {background:#fff;}
+.gray {background:#6d7574;}
+.green {color:#95b16c;}
+
+#join {border-left:1px #d3dad9 solid; padding-left:5px; color:#d3dad9; text-decoration:underline;}
+
+@media only screen and (max-width: 768px) {	#join {border-left:0px #d3dad9 solid; padding-left:0px;}}
+
+footer  > .row {background-color:#506b66; }
+footer {background-color:#506b66; color:#f6f6f6; margin-top:20px; padding-top:10px;}
+footer h5 {color:#fff; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; font-size:16px;}
+footer p {color:#fff; font-size:12px;}
+footer a {color:#d3dad9; font-weight:500; }
+footer p a {padding-top:5px; text-decoration:underline;}
+footer p a:visited {color:#fff;}
+footer a:hover {color:#fff;}
+footer a:visited {color:#fff;}
+footer a:active {color:#fff;}
+
+.subfooter { color:#697574; background:#d3dad9; border:10px solid #fff; border-top:0px;text-align:center;}
+.subfooter h1, .subfooter a { color:#697574; }
+.subfooter h1 {font-size:18px; }
+.subfooter a:hover {color:#9daca9;}
+
+.tag {background-image:url(http://www.business-services.upenn.edu/arboretum/Beta/images/tag.png); background-repeat:no-repeat; height:35px; padding:9px 0px 0px 10px; width:159px; margin:0px; position: absolute; top:10px; left:7px; }
+.tag span { color:#fff; }
+.tag-w {background-image:url(http://www.business-services.upenn.edu/arboretum/Beta/images/tag-w.png); background-repeat:no-repeat; height:35px; padding:9px 0px 0px 10px; width:205px; margin:0px; position: absolute; top:10px; left:7px; }
+.tag-w span { color:#506b66; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; font-size:18px; }
+
+.borderless {border:0px;}
+.borderless a:hover {border:0px;}
+
+.logo {padding:4px 0px; height:130px; margin-left:-10px;}
+
+.mini-nav {text-align:center; padding-top:20px; }
+.mini-nav h1 {line-height:18px; margin:0px;}
+.mini-nav p {line-height:18px;}
+.mini-nav i {line-height:26px; font-size:16px;}
+.mini-nav a:hover {color:#005847;}
+.mini-nav hr {margin:10px 10px 20px 10px;}
+
+#quick-nav {text-align:left; padding-left:8px; margin-bottom:5px; color:#005847; background:#d3dad9; }
+.quick-nav { color:#697574; text-align:left; margin:0px 15px; }
+.quick-nav h1, .subfooter a { color:#697574; }
+.quick-nav h1 {font-size:18px; }
+.quick-nav a:hover {color:#9daca9;}
+.quick-nav hr {height:1px; background-color:#697574; padding:0px; margin:0px;}
+
+.green, .green a {color:#4D8C49;}
+.green a:hover {color:#336600;}
+.orange, .orange a {color:#B94E2B;}
+.orange a:hover {color:#CC6600;}
+.red, .red a {color:#CA4444;}
+.red a:hover {color:#CC3333;}
+.purple, .purple a {color:#636;}
+.purple a:hover {color:#606;}
+
+.more {text-decoration:underline;font-family:"Ubuntu", sans-serif;}
+.more a:hover {color:#005847;}
+
+.content_list {color:#6d7574; padding-left:15px;}
+.content_list li {padding-top:4px;}
+.content_list li:first-child {padding-top:-20px; margin-top:0px;}
+
+.first {margin-top:7px;}
+.caption {font-size:10px;}
+.tours {margin-top:0px; padding-top:0px;}
+.no-top-marg {margin-top: -12px;}
+
+sup {font-size:55%;}
+
+.reveal-modal li {color:#6d7574;}
+.reveal-modal ul {padding-left:15px;}
+
+.serif {font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; }
+.sans {font-family:"Ubuntu", sans-serif; font-weight:300;}
+.hero {font-size:20px; font-weight:bold;}

@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Resources</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-resources.jpg" alt="Resources"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="eight columns push-three">
+      <h2 class="first">Hi-Res Photo Gallery</h2>
+      <p>Click on the categories below to browse the gallery. Click on the thumbnails to see the corresponding high resolution photographs. Photos can be saved to your desktop by right clicking on the image and selecting "Save Image As..." </p>
+      <p>Photo Credit information is at the end of each filename (PCMA = Photo Courtesy of Morris Arboretum).</p>
+      <p>If you require additional information or an image which is not displayed here, please email <a href="mailto:info@morrisarboretum.org">info@morrisarboretum.org</a>.</p>
+      <br>
+      <ul class="accordion">
+          <li>
+            <div class="title">
+              <h3>Spring</h3>
+            </div>
+            <div class="content">
+              <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Spring/Spring - Boy and Cabin - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Spring---Boy-and-Cabin---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Spring/Spring - Cherry Blossoms - Rob Cardillo.jpg"><img src="photoGallery/Thumbnails/Spring---Cherry-Blossoms---Rob-Cardillo.jpg"></a></li>
+                  <li><a href="photoGallery/Spring/Spring - Key Fountain - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Spring---Key-Fountain---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Spring/Spring - Magnolias - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Spring---Magnolias---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Spring/Spring - Oak Allee - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Spring---Oak-Allee---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Spring/Spring - Rock Wall Close Up - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Spring---Rock-Wall-Close-Up---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Spring/Spring - Rock Wall - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Spring---Rock-Wall---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Spring/Spring - Rose Garden - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Spring---Rose-Garden---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Spring/Spring - Rose Garden Wall - Rob Cardillo.JPG"><img src="photoGallery/Thumbnails/Spring---Rose-Garden-Wall---Rob-Cardillo.jpg"></a></li>
+                  <li><a href="photoGallery/Spring/Spring - Spring House - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Spring---Spring-House---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Spring/Spring - Swan Pond - Arnold Winkler.JPG"><img src="photoGallery/Thumbnails/Spring---Swan-Pond---Arnold-Winkler.jpg"></a></li>
+                  <li><a href="photoGallery/Summer/Summer - English Park Bridge - Arnold Winkler.JPG"><img src="photoGallery/Thumbnails/Summer---English-Park-Bridge---Arnold-Winkler.jpg"></a></li>
+                </ul>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h3>Summer</h3>
+            </div>
+            <div class="content">
+                <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Summer/Summer - Girl Running - courtesy of GPTMC.jpg"><img src="photoGallery/Thumbnails/Summer---Girl-Running---courtesy of GPTMC.jpg"></a></li>
+                  <li><a href="photoGallery/Summer/Summer - Girls Jumping - Judy Miller.JPG"><img src="photoGallery/Thumbnails/Summer---Girls-Jumping---Judy-Miller.jpg"></a></li>
+                  <li><a href="photoGallery/Summer/Summer - Log Cabin - PCMA.jpg"><img src="photoGallery/Thumbnails/Summer---Log-Cabin---PCMA.jpg"></a></li>
+                  <li><a href="photoGallery/Summer/Summer - Step Fountain - PCMA.JPG"><img src="photoGallery/Thumbnails/Summer---Step-Fountain---PCMA.jpg"></a></li>
+                  <li><a href="photoGallery/Summer/Summer - Stroll through the garden - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Summer---Stroll-through-the-garden---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Summer/Summer - Students in the wetlands - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Summer---Students-in-the-wetlands---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Summer/Summer - Wetland - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Summer---Wetland---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Summer/Summer - Maloney Couple - courtesy of GPTMC.jpg"><img src="photoGallery/Thumbnails/Summer---Maloney-Couple---courtesy of GPTMC.jpg"></a></li>
+                </ul>
+             </div>
+          </li>
+          <li>
+            <div class="title">
+              <h3>Fall</h3>
+            </div>
+            <div class="content">
+                <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Fall/Fall - Bridge - Judy Miller.JPG"><img src="photoGallery/Thumbnails/Fall---Bridge---Judy-Miller.jpg"></a></li>
+                  <li><a href="photoGallery/Fall/Fall - Bull Frog - Judy Miller.JPG"><img src="photoGallery/Thumbnails/Fall---Bull-Frog---Judy-Miller.jpg"></a></li>
+                  <li><a href="photoGallery/Fall/Fall - Educational Tour - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Fall---Educational-Tour---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Fall/Fall - Fernery - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Fall---Fernery---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Fall/Fall - Katsura - Judy Miller.JPG"><img src="photoGallery/Thumbnails/Fall---Katsura---Judy-Miller.jpg"></a></li>
+                  <li><a href="photoGallery/Fall/Fall - Log Cabin - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Fall---Log-Cabin---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Fall/Fall - Long Fountain - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Fall---Long-Fountain---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Fall/Fall - Magnolia Slope - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Fall---Magnolia-Slope---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Fall/Fall - Maloney Garden - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Fall---Maloney-Garden---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Fall/Fall - Mercury Loggia - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Fall---Mercury-Loggia---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Fall/Fall - Pump House - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Fall---Pump-House---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Fall/Fall - Seven Arches - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Fall---Seven-Arches---Paul-Meyer.jpg"></a></li>
+                </ul>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h3>Winter</h3>
+            </div>
+            <div class="content">
+                <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Winter/Winter - Boy in Tree - Pedersen.jpg"><img src="photoGallery/Thumbnails/Winter---Boy-in-Tree---Pedersen.jpg"></a></li>
+                  <li><a href="photoGallery/Winter/Winter - Bullfrog in the snow - Judy Miller.JPG"><img src="photoGallery/Thumbnails/Winter---Bullfrog-in-the-snow---Judy-Miller.jpg"></a></li>
+                  <li><a href="photoGallery/Winter/Winter - Children Education - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Winter---Children-Education---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Winter/Winter - John and Lydia in the snow - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/Winter---John-and-Lydia-in-the-snow---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Winter/Winter - Pennock Flower Walk Snow - Keith Snyder.JPG"><img src="photoGallery/Thumbnails/Winter---Pennock-Flower-Walk-Snow---Keith-Snyder.jpg"></a></li>
+                  <li><a href="photoGallery/Winter/Winter - Snow and Bench - Judy Miller.JPG"><img src="photoGallery/Thumbnails/Winter---Snow-and-Bench---Judy-Miller.jpg"></a></li>
+                  <li><a href="photoGallery/Winter/Winter - Snow Sheep - PCMA.JPG"><img src="photoGallery/Thumbnails/Winter---Snow-Sheep---PCMA.jpg"></a></li>
+                  <li><a href="photoGallery/Winter/Winter New - Ballestrade_witchhazel - Judy Miller.jpg"><img src="photoGallery/Thumbnails/Winter-New---Ballestrade_witchhazel---Judy-Miller.jpg"></a></li>
+                </ul>
+             </div>
+          <li>
+            <div class="title">
+              <h3>Trees</h3>
+            </div>
+            <div class="content">
+              <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Trees/Conifer-Cedrus-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/Conifer-Cedrus-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Conifer-Metasequoia-Base-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/Conifer-Metasequoia-Base-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Conifer-Pinus-bungeana-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/Conifer-Pinus-bungeana-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Conifer-Pinus-strobus-PaulMeyer.jpg"><img src="photoGallery/Thumbnails/Conifer-Pinus-strobus-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Conifer-Taxodium-distichum-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/Conifer-Taxodium-distichum-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/New/Conifers-TsugaCanadensis-PaulMeyer.jpg"><img src="photoGallery/Thumbnails/Conifer-Tsuga-canadensis-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Woody-Acer-buerganianum-PaulMeyer.jpg"><img src="photoGallery/Thumbnails/Woody-Acer-buerganianum-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Woody-Cercidiphyllum-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/Woody-Cercidiphyllum-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Woody-Fagus-engleriana-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/Woody-Fagus-engleriana-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Woody-Magnolia-kobus-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/Woody-Magnolia-kobus-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Woody-Nyssa-PaulMeyer.jpg"><img src="photoGallery/Thumbnails/Woody-Nyssa-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Woody-Quercus-alba-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/Woody-Quercus-alba-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/New/woodies-Quercus-benderi-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/Woody-Quercus-benderi-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Woody-Quercus-rubra-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/Woody-Quercus-rubra-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Trees/Woody-Ulmus-parvifolia-PaulMeyer.jpg"><img src="photoGallery/Thumbnails/Woody-Ulmus-parvifolia-PaulMeyer.jpg"></a></li>
+                </ul>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h3>Tree Adventure</h3>
+            </div>
+            <div class="content">
+              <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Events/Tree Adventure/TreeAdventureInSnow-PaulMeyer.jpg"><img src="photoGallery/Thumbnails/TreeAdventureInSnow-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Tree Adventure/BirdsEyeView-Herb White.jpg"><img src="photoGallery/Thumbnails/Tree-Adventure---Birds-Eye-View---Herb-White.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Tree Adventure/Tree_Adventure04.jpg"><img src="photoGallery/Thumbnails/Tree_Adventure04.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Tree Adventure/Tree_Adventure05 - Jaime Perez.jpg"><img src="photoGallery/Thumbnails/Tree_Adventure05.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Tree Adventure/Tree_Adventure06 - Jaime Perez.jpg"><img src="photoGallery/Thumbnails/Tree_Adventure06.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Tree Adventure/OOALFromBelow-Paul-Warchol.jpg"><img src="photoGallery/Thumbnails/OOALFromBelow-Paul-Warchol.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Tree Adventure/OOALLongWalk-Paul-Warchol.jpg"><img src="photoGallery/Thumbnails/OOALLongWalk-Paul-Warchol.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Tree Adventure/OOALPanorama-Paul-Warchol.jpg"><img src="photoGallery/Thumbnails/OOALPanorama-Paul-Warchol.jpg"></a></li>
+                </ul>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h3>Garden Railway</h3>
+            </div>
+            <div class="content">
+              <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Events/Garden Railway/Garden Railway - Family Fun - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Garden-Railway---Family-Fun---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Garden Railway/Garden Railway - Boy Pointing - PCMA.JPG"><img src="photoGallery/Thumbnails/Garden-Railway---Boy-Pointing---PCMA.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Garden Railway/Garden Railway - Boy and Train - PCMA.jpg"><img src="photoGallery/Thumbnails/Garden-Railway---Boy-and-Train---PCMA.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Garden Railway/Garden Railway - Judy Miller.JPG"><img src="photoGallery/Thumbnails/Garden-Railway---Judy-Miller.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Garden Railway/ZacBrooks-GardenRailway1.jpg"><img src="photoGallery/Thumbnails/ZacBrooks-GardenRailway1.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Garden Railway/ZacBrooks-GardenRailway2.jpg"><img src="photoGallery/Thumbnails/ZacBrooks-GardenRailway2.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Garden Railway/ZacBrooks-GardenRailway3.jpg"><img src="photoGallery/Thumbnails/ZacBrooks-GardenRailway3.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Garden Railway/ZacBrooks-GardenRailway4.jpg"><img src="photoGallery/Thumbnails/ZacBrooks-GardenRailway4.jpg"></a></li>
+                </ul>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h3>Holiday Railway</h3>
+            </div>
+            <div class="content">
+              <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Events/Holiday Garden Railway/Holiday Garden Railway - Train in snow - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Holiday-Garden-Railway---Train-in-snow---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Holiday Garden Railway/Holiday Garden Railway - Train - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Holiday-Garden-Railway---Train---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Holiday Garden Railway/HGR - Family - Paul Meyer.JPG"><img src="photoGallery/Thumbnails/HGR---Family---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Holiday Garden Railway/HGR - Stop Sign - Arnold Winkler.JPG"><img src="photoGallery/Thumbnails/HGR---Stop-Sign---Arnold-Winkler.jpg"></a></li>
+                </ul>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h3>Horticulture Center</h3>
+            </div>
+            <div class="content">
+              <ul class="block-grid four-up">
+              	  <li><a href="photoGallery/HortCenter/HortCtrInterior - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/HortCtrInterior---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/HortCenter/Side of Hort Center - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Side-of-Hort-Center---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/HortCenter/Front of Hort Center - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Front-of-Hort-Center---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/HortCenter/Green Roof and Cisterns - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Green-Roof-and-Cisterns---Paul-Meyer.jpg"></a></li>
+                  <li><a href="photoGallery/HortCenter/Hort Center Roof - Paul Meyer.jpg"><img src="photoGallery/Thumbnails/Hort-Center-Roof---Paul-Meyer---150.jpg"></a></li>
+                  <li><a href="photoGallery/HortCenter/GreenRoofandNewBuilding-PaulMeyer.jpg"><img src="photoGallery/Thumbnails/GreenRoofandNewBuilding-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/HortCenter/GreenRoofandSolarCellsPaulMeyer.jpg"><img src="photoGallery/Thumbnails/GreenRoofandSolarCellsPaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/HortCenter/GreenRoofCisterns-PaulMeyer.jpg"><img src="photoGallery/Thumbnails/GreenRoofCisterns-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/HortCenter/HortCenterRoof-PaulMeyer.jpg"><img src="photoGallery/Thumbnails/HortCenterRoof-PaulMeyer.jpg"></a></li>
+                </ul>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h3>Special Events</h3>
+            </div>
+            <div class="content">
+               <h4>Cherry Blossom Festival</h4>
+               <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Events/Cherry Blossom Festival/Cherry Blossom Festival - Japanese Archery Demo - PCMA.jpg"><img src="photoGallery/Thumbnails/Cherry-Blossom-Festival---Japanese-Archery-Demo---PCMA.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Cherry Blossom Festival/Cherry Blossom Festival - Japanese Taiko Drummers - Arnold Winkler.jpg"><img src="photoGallery/Thumbnails/Cherry-Blossom-Festival---Japanese-Taiko-Drummers---Arnold-Winkler.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Cherry Blossom Festival/Cherry Blossom Festival - Queen - PCMA.jpg"><img src="photoGallery/Thumbnails/Cherry-Blossom-Festival---Queen---PCMA.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Cherry Blossom Festival/Cherry Queen with Springside2ndGrade - PCMA.JPG"><img src="photoGallery/Thumbnails/Cherry-Queen-with-Springside2ndGrade---PCMA.jpg"></a></li>
+                </ul>
+                <hr>
+                <h4>Plant Sale</h4>
+                <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Events/Plant Sale/PlantSale1-ArnoldWinkler.jpg"><img src="photoGallery/Thumbnails/PlantSale1-ArnoldWinkler.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Plant Sale/PlantSale2-ArnoldWinkler.jpg"><img src="photoGallery/Thumbnails/PlantSale2-ArnoldWinkler.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Plant Sale/PlantSale3-ArnoldWinkler.jpg"><img src="photoGallery/Thumbnails/PlantSale3-ArnoldWinkler.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Plant Sale/PlantSale4-ArnoldWinkler.jpg"><img src="photoGallery/Thumbnails/PlantSale4-ArnoldWinkler.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Plant Sale/PlantSale5-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/PlantSale5-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Plant Sale/PlantSale6-PaulMeyer.JPG"><img src="photoGallery/Thumbnails/PlantSale6-PaulMeyer.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Plant Sale/PlantSale7-ZacBrooks.jpg"><img src="photoGallery/Thumbnails/PlantSale7-ZacBrooks.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Plant Sale/PlantSale8-ZacBrooks.jpg"><img src="photoGallery/Thumbnails/PlantSale8-ZacBrooks.jpg"></a></li>
+                </ul>
+                <hr>
+                <h4>Fall Festival</h4>
+                <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Events/Scarecrow Walk/Scarecrow Walk - A family with a scarecrow - Susan Crane.JPG"><img src="photoGallery/Thumbnails/Scarecrow-Walk---A-family-with-a-scarecrow---Susan-Crane.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Scarecrow Walk/Scarecrow Walk - Bales of Hay - Susan Crane.JPG"><img src="photoGallery/Thumbnails/Scarecrow-Walk---Bales-of-Hay---Susan-Crane.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Scarecrow Walk/Scarecrow Walk - Edwin D Day - Susan Crane.JPG"><img src="photoGallery/Thumbnails/Scarecrow-Walk---Edwin-D-Day---Susan-Crane.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Scarecrow Walk/Scarecrow Walk - Family Fun - Christine Pape.JPG"><img src="photoGallery/Thumbnails/Scarecrow-Walk---Family-Fun---Christine-Pape.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Scarecrow Walk/Scarecrow Walk - Gabby Goose and her Gaggle - Susan Crane.JPG"><img src="photoGallery/Thumbnails/Scarecrow-Walk---Gabby-Goose-and-her-Gaggle---Susan-Crane.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Scarecrow Walk/Scarecrow Walk - Pumkin Painting - Susan Crane.JPG"><img src="photoGallery/Thumbnails/Scarecrow-Walk---Pumkin-Painting---Susan-Crane.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Scarecrow Walk/Scarecrow Walk - TuTuPretty - Arnold Winkler.jpg"><img src="photoGallery/Thumbnails/Scarecrow-Walk---TuTuPretty---Arnold-Winkler.jpg"></a></li>
+                  <li><a href="photoGallery/Events/Scarecrow Walk/Scarecrow Walk - Strongest Scarecrow - Susan Crane.jpg"><img src="photoGallery/Thumbnails/Scarecrow-Walk---Strongest-Scarecrow---Susan-Crane.jpg"></a></li>
+                </ul>
+            </div>
+          </li>
+          <li>
+            <div class="title">
+              <h3>Historical Photos</h3>
+            </div>
+            <div class="content">
+              <ul class="block-grid four-up">
+                  <li><a href="photoGallery/Historical/historical-aerial.JPG"><img src="photoGallery/Thumbnails/historical-aerial.jpg"></a></li>
+                  <li><a href="photoGallery/Historical/historical-compton.JPG"><img src="photoGallery/Thumbnails/historical-compton.jpg"></a></li>
+                  <li><a href="photoGallery/Historical/historical-door.JPG"><img src="photoGallery/Thumbnails/historical-door.jpg"></a></li>
+                  <li><a href="photoGallery/Historical/historical-john-lydia-in-garden.JPG"><img src="photoGallery/Thumbnails/historical-john-lydia-in-garden.jpg"></a></li>
+                </ul>
+                <p><a href="http://morrisarboretum.pastperfect-online.com/" target="_blank" class="more">Click here to explore the complete Historical Archive Collection</a></p>
+            </div>
+          </li>
+        </ul>
+      <br>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <div class="one column"> </div>
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-resources.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

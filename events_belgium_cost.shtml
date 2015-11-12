@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Travel</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+
+
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-belgium.jpg" alt="Travel with Morris Arboretum: Brussels and Bruges 2014"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="nine columns push-three">
+      
+        <div class="row">
+        <div class="seven columns">
+        <h2 class=" serif first" style="margin-bottom:-8px;"><strong>Brussels and Bruges</strong> <span class="serif first"><em>June 8 - 15, 2014</em></span></h2>
+      	<h2 style="font-size:18px;">Program Cost</h2><br>
+        <p><strong>$7,500 price person based on twin/double sharing<br>
+        $1,120 single supplement<br>
+        $400 tax-deductible donation payable directly to Morris Arboretum
+        </strong></p>
+        
+        <h3><strong>DEPOSIT:</strong></h3>
+        
+        <p>A deposit of $2,500 per person is required to confirm your place on the trip. The deposit is refundable up until December 1, 2013, less a 3.5% administrative bank fee.  Balance of payment is due 90 days prior to departure, March 10, 2014. All payments may be made by American Express, VISA, Master Card or check. Please make all checks payable to Benefactor Travel.</p>
+        <p>A non-refundable gift of $400 to Morris Arboretum is required at time of registration to be paid directly to Morris Arboretum.  Payment may be made by American Express, VISA, Master Card or check. Please make check payable to Morris Arboretum and mail to Attn: Victoria Sicks.  A tax receipt will be issued. </p>
+        <h3><strong>PROGRAM COST INCLUDES:</strong></h3>
+        <ul class="content_list">
+        <li>7 nights’ accommodation in the 5-star properties:<br>
+        - 5 nights in Classic Room at the Hotel Amigo, Brussels.<br>
+        - 2 nights in Executive Room at the The Tuilerieën, Bruges.</li>
+        <li>Buffet breakfast daily.</li>
+        <li>6 lunches including selected wines, beer, mineral water and tea or coffee.</li>
+        <li>5 dinners including selected wines, beer, mineral water and tea or coffee.</li>
+        <li>2 pre-dinner receptions.</li>
+        <li>All visits, entrance fees and events as outlined in the itinerary including numerous private gardens, studios, speakers' fees.</li>
+        <li>Canal cruise.</li>
+        <li>All private coach transport as outlined in the program itinerary.</li>
+        <li>All taxes for all goods and services.</li>
+        <li>All tips (drivers, hotel, restaurant and guiding staff).</li>
+        <li>Luggage Porterage at the hotel.</li>
+        <li>Trip accompanied by two Morris Arboretum staff members.</li>
+        <li>On-site experienced director from Benefactor Travel by <em>Hamilton Fitzjames</em>.</li>
+        </ul>
+        
+        <h3><strong>NOT INCLUDED:</strong></h3>
+        <ul class="content_list">
+        <li>International Airfare.</li>
+        <li>Personal charges (laundry, minibar, telephone etc.).</li>
+        <li>Travel Insurance. We highly recommend Travel Insurance, the company we recommend using is <br>
+        <a href="http://www.travelguard.com/agentlink/agent.asp?rnd=18898748754301932&agentlinkasp=yes&timeid=1932**1932&strAgentLinkasp=yes&loggedin=4477196&ta_arc=4477196&agencyemail=dale@hamiltonfitzjames.com&status=4&Dummy=D" target="_blank"><img src="images/brussels/TGnewlogosmall.gif" style="margin-top:8px;"></a></li>
+        </ul>
+        
+        <p><em>This is a working itinerary and modifications may occur depending upon the ultimate availability of our hosts or certain events. The itinerary is subject to change.
+        </em></p>
+        <p><em>This trip is based on 16 participants. We reserve the right to cancel the program due to insufficient participants. In the unlikely event that the tour is canceled, participants will be informed no later than Jan 15, 2014 and any trip payments will be refunded in full. We are not responsible for any collateral costs, including airfare or other personal expenses, incurred by travelers due to trip cancellation.
+        </em></p>
+        <p><em>US$ costs have been based on rates of exchange as of September 2013 and are subject to change.
+        </em></p>
+ 
+ 		<h3><strong>RESERVATIONS:</strong></h3>
+		<p><a href="pdf/Belgium-Reservation-Form.pdf" target="_blank">Click here to download the reservation form <i class="efoundicon-right-arrow"></i></a> </p>
+		</div>
+        <div class="five columns"><br><img src="images/brussels/Oostkerke.jpg">
+        </div>
+        </div>
+ 
+     <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+    <div class="three columns pull-nine" style="border-right:solid 1px #f6f6f6;">
+      <ul class="side-nav">
+      		<li> <h1>Travel</h1></li>
+              <li><a href="events_belgium.shtml">Program</a></li>
+              <li class="divider"></li>
+              <li><a href="events_belgium_cost.shtml">Cost &amp; Reservations</a></li>
+              <li class="divider"></li>
+              <li><a href="events_belgium_contact.shtml">Contact</a></li>
+      </ul>
+      <p></p>
+      <p align="right" class="show-for-small"><a href="#top">Back to top</a></p>  
+    </div>  
+    
+    </div>
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

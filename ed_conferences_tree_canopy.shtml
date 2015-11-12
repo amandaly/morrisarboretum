@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Education</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-tree-canopy.jpg" alt="Tree Canopy Conference"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Tree Canopy Conference: Preserving Trees in Our Communities</h2>
+            <h4><strong>Date and Location:</strong> </h4>
+			<p class="first"><strong>Tuesday, March 10, 2015</strong><br>
+			  <strong>Haverford College, Stokes Hall Auditorium</strong></p>
+            <p><em><strong>Why is Tree Canopy So Important?</strong></em> A healthy tree canopy provides important ecosystem services including air pollution removal, storm water runoff reduction, and building energy conservation. Abundant tree canopy provides habitat for wildlife, and also has a positive impact on human mental health and wellbeing, community cohesion, and economic stimuli. In this conference we will look at tree canopy preservation and reduction both nationally and locally, and consider some of the greatest threats communities are facing as they try to preserve canopy cover. </p>
+            <p><strong><a href="pdf/Brochure-MA-Tree-Canopy.pdf">Click here for a complete brochure &raquo;</a></strong></p>
+            <h4><strong>Featured Speakers:</strong></h4>
+			<ul class="content_list">
+            	<li><strong>Joan S. Blaustein</strong> serves as the Director of the Urban Forestry and Ecosystem Management Division for the Philadelphia Department of Parks and Recreation. </li>
+
+            	<li><strong>Lisa Blum</strong> is a horticulture teacher at W.B. Saul High School for Agricultural Sciences in Philadelphia. </li>
+
+            	<li><strong>Andrew Bunting</strong> has been Curator at the Scott Arboretum of Swarthmore College for the last 25 years, and is the owner of Fine Garden Creations. </li>
+
+            	<li><strong>Darren Damone, RLA</strong>, is an Associate with Andropogon Associates, Ltd.</li>
+
+            	<li><strong>Erica Smith</strong> Fichman is Program Manager for TreePhilly with Philadelphia Parks & Recreation.</li>
+
+            	<li><strong>Nancy Gregory</strong> is an Extension Agent for the University of Delaware.</li>
+
+            	<li><strong>Jason Henning, Ph.D.</strong> is a Research Urban Forester with the USDA Forest Service and The Davey Tree Expert Company. </li>
+
+            	<li><strong>Brian Kunkel</strong> is Extension/IPM Specialist at the University of Delaware.</li> 
+
+            	<li><strong>Ken LeRoy</strong> is a Temple University School of Horticulture alum and former section leader at the Morris Arboretum. </li>
+
+            	<li><strong>Sarah Low</strong> works for the USDA Forest Service as Coordinator of the Philadelphia Field Station.</li>
+
+            	<li><strong>Mindy Maslin</strong> has been a community organizer since joining VISTA in 1980. </li>
+
+            	<li><strong>Dennis Metz</strong> is President of Acer Consulting, LLC, and has more than 40 years of industry experience with Shearon Environmental Design. </li>
+
+            	<li><strong>Anton Nelessen, Ph.D.</strong> is a world renowned urban planner and is the principal in Nelessen and Associates in Princeton.</li>
+
+            	<li><strong>Barley Van</strong> Clief manages the Tree Tenders program for the Pennsylvania Horticultural Society outside of Philadelphia. </li>
+
+            	<li><strong>Robert Wells</strong> is Associate Director, Arboriculture Outreach, at Morris Arboretum. </li>
+      </ul>
+      <hr>
+      <h3><strong>Complete Agenda</strong></h3><br>
+      <ul class="accordion">
+          <li>
+            <div class="title">
+              <h4>Tuesday, March 10</h4>
+            </div>
+            <div class="content">
+                <p><strong>8:15 a.m. Registration and continental breakfast</strong></p>
+                <p><strong>9 a.m. Welcome </strong></p>
+                <p><strong>9:15 a.m. An International Perspective on Global Warming and Canopy Cover Preservation</strong><br>Anton Nelessen, Department Chair, Urban Planning, Policy and Public Health, Rutgers University</p>
+                <p><strong>10:00 a.m. Connecting Satellites to Tree Pits: Using Remotely-Sensed Data for Tree Planting Decisions</strong><br>
+Sarah Low, Field Station Coordinator, USDA Forest Service, Philadelphia Area and Jason Henning, Research Urban Forester, USDA Forest Service and The Davey Tree Expert Company</p>
+                <p><strong>10:45 a.m. Break</strong></p>
+                <p><strong>11:00 a.m. Growth and Maintenance of Philadelphia’s Canopy Cover</strong><br>
+Erica Smith Fichman, TreePhilly Program Manager and Joan S. Blaustein, Director of the Urban Forestry and Ecosystem Management Division for the Philadelphia Department of Parks and Recreation</p>
+                <p><strong>11:45 p.m.Planning for the Next Generation: Innovative Planting Strategies in the Urban Environment </strong><br> Darren Damone, Associate, Andropogon Associates, Ltd</p>
+                <p><strong>12:30 p.m. Lunch</strong></p>
+                <p><strong>1:30 p.m. Overview of Pennsylvania Horticultural Society’s Tree Tenders Program: Planting and Maintenance of Philadelphia’s Tree Canopy</strong><br> Mindy Maslin, Project Manager, PHS
+Tree Tenders</p>
+                <p><strong>2:00 p.m. Expanding Tree Tenders beyond the Borders of Philadelphia to Other Pennsylvania Communities</strong><br> Barley Van Clief, Project Manager, PHS Tree Tenders</p>
+                <p><strong>2:15 p.m. Overview of Township Tree Ordinances. What is a Heritage Tree? </strong><br> Dennis Metz, President and Owner, Acer Consulting, LLC., and Robert Wells, Associate Director, Arboriculture Outreach, Morris Arboretum</p>
+                <p><strong>2:45 p.m. Break</strong></p>
+                <p><strong>3:00 p.m. Threats to the Tree Canopy—Panel:</strong><br>
+Ash Rust, Ash Yellows, Elm Yellows - Nancy Fisher Gregory, Plant Diagnostician, University of Delaware<br>
+Asian Long-horned Beetle – Brian Kunkel, Extension, IPM Specialist, University of Delaware <br>
+Emerald Ash Borer Update – Lisa Blum, Teacher, W.B. Saul High School for Agriculture Sciences</p>
+                <p><strong>4:00 p.m. Expanding Diversity in our Community Forest: Recommendations for the Delaware Valley</strong><br> Andrew Bunting, Curator, Scott Arboretum of Swarthmore College</p>
+                <p><strong>4:45 p.m. Phantastic Philadelphia Trees. A Sampling of the Most Impressive Specimens</strong><br> Ken LeRoy, Horticulturist, John B. Ward &amp; Company Arborists</p>
+                <p><strong>5:00 p.m. Reception</strong></p>
+    		</div>
+          </li>
+      </ul>
+      <p>This conference carries CEUs for ISA certified arborists and PA landscape architects. It also carries pesticide update credits from the PA Dept. of Agriculture.</p>
+      <hr>
+        <h3><strong>Directions</strong></h3>
+        <p><a href="pdf/Directions-Haverford-College.pdf" target="_blank"><strong>Click here to download a printable PDF of directions and map of Haverford Campus  &raquo;</strong></a></p>
+            <hr>
+    <h3><strong>Sponsors</strong></h3>
+    <p>Morris Arboretum School of Arboriculture<br>
+    John B. Ward &amp; Company Arborists<br>
+    Haverford College Arboretum<br>
+    Shechtman Tree Care, LLC<br>
+    Fisher & Son Company, Inc.</p>
+    <br>
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+      
+    </div>
+
+<!-- Sidebar -->
+    <div class="three columns push-three">
+    <div class="panel">
+     <h4><a href="https://online.morrisarboretum.org/canopy" class="button radius medium"><strong>Register Today!</strong></a></h4>
+     <p>&nbsp;</p>
+     <p><strong>Fees per person:</strong> $125 Registration includes lunch and break refreshments</p>
+    </div>
+    </div>
+    
+    <!-- SubNav-->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-events.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

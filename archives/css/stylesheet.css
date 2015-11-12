@@ -1,0 +1,1053 @@
+body {
+	margin: 0px;
+	margin-left: 5px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #FDF9D7;
+	background-image:url(../_css/images/toppanel.jpg);
+	background-position:top;
+	background-repeat:repeat-x;
+	color:#555;
+}
+
+a:link,a:active {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #18244E;
+	font-size: 12px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+body #totalwrap .biglink {
+font-size:14px;
+}
+
+p
+{
+	font-size: 12px;
+	line-height : 1.5em;	
+}
+
+a:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #18244E;
+	font-size: 12px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+	color: #330033;
+	font-weight:bold;
+}
+
+#membershiplevels a, .navarrow a {
+	font-weight:normal;
+}
+
+#totalwrap{
+	width:900px;
+	margin-right: auto;
+	margin-left:auto;
+}
+
+#totalwrap #index800{
+	width:775px;
+	padding-left:62px;
+	padding-right:63px;
+}
+
+#leftColumn{
+	width:170px;
+	padding:0 30px 0 25px;
+}
+
+#leftColumn li a {
+	font-size: 14px;
+	line-height: 21px;
+	color: #444;
+	font-weight: normal;
+	/*letter-spacing: .07em;*/	
+}
+
+#leftColumn .navarrow{
+	margin-top: 3px;
+}
+
+.navarrow ul {
+	color: #777;
+	list-style-type: circle;
+}
+
+#siteSearch
+{
+  padding-top:40px;	
+}
+
+#siteSearch .searchbox, #siteSearch .searchtxt{
+	margin-left:10px;	
+}
+
+#leftColumn #siteSearch p
+{
+	padding-bottom:5px;
+}
+
+.searchtxt {
+	padding: 3px;
+	margin-top: 5px;	
+}
+
+/************** Navigation Bar ***************/
+
+div#navigation_bar {
+	text-align: center;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+div#navigation_bar ul {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	white-space: nowrap;
+}
+
+div#navigation_bar li {
+	list-style-type: none;
+	display: inline;
+}
+
+div#navigation_bar li a {
+	text-decoration: none;
+	font-weight: bold;
+	padding: 7px 9px;
+	color: #47184E;
+}
+div#navigation_bar li a:link {
+	font-weight: bold;
+	color: #47184E;
+	padding: 7px 9px;
+}
+div#navigation_bar li a:visited {
+	font-weight: bold;
+	color: #47184E;
+	padding: 7px 9px;
+}
+div#navigation_bar li a:hover {
+	color: #47184E;
+	padding: 7px 9px;
+	text-decoration:underline;
+}
+
+/************** Headers ***************/
+/*.eventtitle{
+	font-size: 19px;
+	font-family:  "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #18244E;
+	letter-spacing: .06em;
+	word-spacing: -.09em;
+	line-height: 1.2em;
+}*/
+
+.navtitle, .eventtitle{
+	font-size: 17px;
+	font-family: arial, Times, serif;
+	font-weight: bold;
+	color: #015E2D;
+	letter-spacing: .05em;
+	word-spacing: -.09em;
+	line-height: 1.2em;
+	
+}
+/*.navtitle{
+	font-size: 16px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #18244E;
+}*/
+.eventtitlenotbold{
+	font-size: 18px;
+	font-family:  "Times New Roman", Times, serif;
+	font-weight: normal;
+	color: #18244E;
+}
+
+.borderbluebottom{
+	border-bottom: 1px solid #18244E;
+	padding-bottom: 3px;
+	padding-top: 3px;
+}
+
+.bluebold{
+	font-weight: bold;
+	color: #18244E;
+}
+
+.blueboldbig{
+	font-weight: bold;
+	color: #18244E;
+	font-size:14px;
+}
+
+
+
+.navarrow ul 
+{
+margin-left: 25px;
+list-style-image: url('../images/bulletArrowClear.png');
+
+
+}
+
+
+.navarrowffc li 
+{
+	/*margin-left: 25px;
+	list-style-image: url('../images/arrowblue_ffc.gif');*/
+    
+	list-style-type: disk;
+	margin-left: 25px;
+	padding-bottom:4px;
+}
+
+.navarrowffc ul a{
+	  color: #555;
+}
+
+.eightup{
+margin-top: 0px;
+}
+
+.classcat_title{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #42184A;
+	width: 100%;
+	font-size: 20px;
+	font-weight: bold;
+	border-bottom: 2px solid #42184A;
+}
+
+.imgleft{
+float: left;
+margin-right: 15px;
+margin-bottom: 5px;
+}
+
+.imgright{
+	float: right;
+	margin-left: 15px;
+	margin-bottom: 5px;
+
+}
+.topMargin10 {
+	margin-top: 10px;
+}
+
+
+.imgcenter{
+text-align: center;
+}
+
+#footer{
+	width: 100%;
+	text-align: center;
+	margin-top: 15px;
+	border-top: 1px #DDD solid;
+    padding: 20px 0px;
+}
+
+
+
+#footer a{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #42184A;
+	font-size: 15px;	
+	padding-left:4px;
+	padding-right:4px;
+
+}	
+
+#footer p{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;	
+	padding-top:10px;
+}
+
+
+.padlist li{
+	margin-bottom: 10px;
+}
+
+.eightup{
+margin-top: 0px;
+}
+
+.menu ul 
+{
+margin-left: 15px;
+list-style-image: url('../images/greenDot.png');
+}
+
+.menu li{ padding-bottom:4px;}
+
+.menunopad ul 
+{
+list-style-image: url('../images/arrowblue.jpg');
+}
+
+.menuffc ul 
+{
+margin-left: 25px;
+list-style-image: url('../images/arrowblue_ffc.gif');
+}
+
+.menuffcnopad ul 
+{
+list-style-image: url('../images/arrowblue_ffc.gif');
+}
+
+
+.menuspace ul 
+{
+margin-left: 25px;
+list-style-image: url('../images/arrowblue.jpg');
+}
+
+.menuspace li 
+{
+padding-top:6px;
+}
+
+.hrborder{
+	border-bottom: 1px solid #ddd;
+	padding:7px 0px;
+	margin-bottom:15px;
+}
+
+.rightinfobox300{
+	float:right; 
+	margin-right:20px; 
+	padding: 10px; 
+	background-color:#fefcec;
+	width: 300px;
+	margin-left:10px;
+}
+
+.rightinfoboxpenn{
+	margin-right:20px; 
+	padding: 10px; 
+	background-color:#fefcec;
+	width: 250px;
+	margin-left:10px;
+}
+
+.infobox300{
+	float: left;
+	margin-left:20px; 
+	padding: 10px; 
+	background-color:#fefcec;
+	width: 300px;
+	margin-right:10px;
+}
+
+.infobox300-2{
+	padding: 10px; 
+	background-color:#fefcec;
+	width: 250px;
+	margin-right:10px;
+}
+
+
+.rightinfobox200{
+	float:right; 
+	margin-right:20px; 
+	padding: 10px; 
+	background-color:#fefcec;
+	width: 200px;
+	margin-left:10px;
+}
+
+.treeinfo{
+	font-weight: bold;
+	padding:10px;
+	background-color:#fefcec;
+	width: 120px;
+	margin: 10px;
+}
+
+.treespecies{
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:italic;
+	color: #18244E;
+	font-size:14px;
+}
+
+.cal_month_dates{
+	font-size:11px;
+	color:#000000;
+	margin-left: 10px;
+}
+
+.cal_month_dates a{
+	font-size:11px;
+	color:#000000;
+}
+
+.tablestyle {
+	background-color:#fefcec;
+	padding: 20px;
+}
+
+#membershiplevels {
+	float: right; 
+	padding: 10px; 
+	margin-left: 10px;
+	background-color:#fefcec;
+}
+
+.membershiplevels {
+	float: right; 
+	padding: 10px; 
+	margin-left: 10px;
+	background-color:#fefcec;
+}
+
+.bold{
+	font-weight:bold;
+	color:#0a2006;
+}
+
+.event_time {
+	font-weight: bold;
+}
+
+.calendar_date{
+	font-weight: bold;
+	color: #18244E;
+	font-size: 14px;
+}
+
+.xTable {
+	border-spacing: 5px; /*Others*/
+	border-collapse: collapse; /*IE*/
+	border: 1px solid #18244E;
+    }
+	
+    .xTable td { padding: 5px; 
+	border: 1px solid #18244E;}
+
+.pennStudentsTwitter{
+	float: right;
+	padding-top:110px;
+	padding-left:17px; 
+	width:281px;
+	height:270px;
+	padding-right:22px;
+	padding-bottom:14px;
+	background-image:url(../images/twitterbg.jpg)
+}
+
+.pennStudents{
+	float: left;
+	padding-top:66px;
+	width:300px;
+	height:500px;
+}
+
+.2col-l{
+	float: left;
+	width:323px;
+}
+	
+@charset "UTF-8";
+
+/* SpryCollapsiblePanel.css - Revision: Spry Preview Release 1.4 */
+
+/* Copyright (c) 2006. Adobe Systems Incorporated. All rights reserved. */
+
+/* This is the selector for the main CollapsiblePanel container. For our
+ * default style, the CollapsiblePanel is responsible for drawing the borders
+ * around the widget.
+ *
+ * If you want to constrain the width of the CollapsiblePanel widget, set a width on
+ * the CollapsiblePanel container. By default, our CollapsiblePanel expands horizontally to fill
+ * up available space.
+ *
+ * The name of the class ("CollapsiblePanel") used in this selector is not necessary
+ * to make the widget function. You can use any class name you want to style the
+ * CollapsiblePanel container.
+ */
+.CollapsiblePanel {
+	margin: 0px 0px 5px 0px;
+	padding: 0px;
+}
+
+/* This is the selector for the CollapsiblePanelTab. This container houses
+ * the title for the panel. This is also the container that the user clicks
+ * on to open or close the panel.
+ *
+ * The name of the class ("CollapsiblePanelTab") used in this selector is not necessary
+ * to make the widget function. You can use any class name you want to style an
+ * CollapsiblePanel panel tab container.
+ */
+.CollapsiblePanelTab {
+	font-weight: bold;
+	color: #18244E;
+	margin: 0px;
+	padding: 15px 0px 30px 0px;
+        !height:25px;
+	cursor: pointer;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	font-size: 14px;
+	position:relative;
+}
+
+.faq .CollapsiblePanelTab {
+
+	padding: 5px;
+}
+	
+.CollapsiblePanelTab p{
+	display:inline;
+	margin: 0px;
+	font-size:24px;
+	position:absolute;
+	top:13px;
+}
+
+#likeColPanel {
+font-size:24px;
+font-family: "Times New Roman", Times, serif;
+padding: 0px 10px 0px 0px;
+margin-top:50px;
+
+}
+
+#likeColPanel:hover{
+        text-decoration: none;
+	background-color: #ffffff;
+        color: #18244E;
+padding: 10px 10px 0px 0px;
+margin-top:150px;
+}
+
+#photoGalleryPanels .CollapsiblePanelTab {
+	margin: 10px 0;
+        padding: 0px 10px 0px 0px;
+        height:50px;
+	cursor: pointer;
+	position:relative;
+}
+
+#photoGalleryPanels .CollapsiblePanelTab img{
+	margin: 0px;
+	padding: 0px 10px 0px 0px;
+}
+
+#photoGalleryPanels .CollapsiblePanelTab p{
+	margin: 0px;
+	padding: 0px 10px 10px 0px;
+	top:13px;
+}
+/* This is the selector for a CollapsiblePanel's Content area. It's important to note that
+ * you should never put any padding on the content area element if you plan to
+ * use the CollapsiblePanel's open/close animations. Placing a non-zero padding on the content
+ * element can cause the CollapsiblePanel to abruptly grow in height while the panels animate.
+ *
+ * The name of the class ("CollapsiblePanelContent") used in this selector is not necessary
+ * to make the widget function. You can use any class name you want to style a
+ * CollapsiblePanel content container.
+ */
+.CollapsiblePanelContent {
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+/* An anchor tag can be used inside of a CollapsiblePanelTab so that the
+ * keyboard focus ring appears *inside* the tab instead of around the tab.
+ * This is an example of how to make the text within the anchor tag look
+ * like non-anchor (normal) text.
+ */
+.CollapsiblePanelTab a {
+	color: #18244E;
+	text-decoration: none;
+}
+
+/* This is an example of how to change the appearance of the panel tab that is
+ * currently open. The class "CollapsiblePanelOpen" is programatically added and removed
+ * from panels as the user clicks on the tabs within the CollapsiblePanel.
+ */
+.CollapsiblePanelOpen .CollapsiblePanelTab {
+
+}
+
+/* This is an example of how to change the appearance of the panel tab as the
+ * mouse hovers over it. The class "CollapsiblePanelTabHover" is programatically added
+ * and removed from panel tab containers as the mouse enters and exits the tab container.
+ */
+.CollapsiblePanelTabHover, .CollapsiblePanelOpen .CollapsiblePanelTabHover {
+	font-weight: bold;
+	color: #18244E;
+	text-decoration: none;
+	background-color: #ffffff;
+}
+
+/* This is an example of how to change the appearance of all the panel tabs when the
+ * CollapsiblePanel has focus. The "CollapsiblePanelFocused" class is programatically added and removed
+ * whenever the CollapsiblePanel gains or loses keyboard focus.
+ */
+.CollapsiblePanelFocused .CollapsiblePanelTab {
+	font-weight: bold;
+}
+
+#preload { display: none; }
+.frontPageButton184 {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+.newsletterShadow {
+	background-image: url(../images/newsletterShadow.png);
+	background-repeat: no-repeat;
+	height: 267px;
+	width: 209px;
+	left: 0px;
+	top: 0px;
+	background-attachment: fixed;
+	background-position: left top;
+	overflow: hidden;
+	visibility: visible;
+}
+
+/* This CSS is for a fading slideshow - thanks http://jonraasch.com*/
+#slideshowfade {
+    position:relative;
+    height:250px;
+}
+
+#slideshowfade DIV {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    opacity:0.0;
+    height: 250px;
+    background-color: #FFF;
+	display:inline;
+}
+
+#slideshowfade DIV.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshowfade DIV.last-active {
+    z-index:9;
+}
+
+#slideshowfade DIV IMG {
+    height: 250px;
+    border: 0;
+    margin-bottom: 10px;
+}
+
+
+/* End of CSS for a fading slideshow*/
+.blockDiv {
+	display: block;
+	height: 400px;
+	margin: 10px;
+	background-image: url(../images/white20.png);
+	background-repeat: repeat;
+	padding: 5px;
+}
+
+
+ /* image replacement */
+        .graphic, #prevBtn, #nextBtn, #slider1prev, #slider1next{
+            margin:0;
+            padding:0;
+            display:block;
+            overflow:hidden;
+            text-indent:-8000px;
+            }
+    /* // image replacement */
+			
+
+/* Easy Slider */
+
+	#slider ul, #slider li,
+	#sliderCrows ul, #sliderCrows li,
+	#slider400x300 ul, #slider400x300 li,
+	#slider350x200 ul, #slider350x200 li,
+	#slider2 ul, #slider2 li, 
+	#slider390x250 ul, #slider390x250 li{
+		margin:0;
+		padding:0;
+		list-style:none;
+		}
+	
+	#slider390x250, #slider390x250 li {
+		width:390px;
+		height:250px;
+		overflow:hidden;
+		float:left;
+	}
+		
+	#slider2{margin-top:1em;}
+	
+	#slider li, #slider2 li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		width:620px;
+		height:375px;
+		overflow:hidden; 
+		}	
+	
+	#sliderCrows, #slider350x200, #slider620x465{
+	float:right;
+	margin-left: 5px;
+	margin-bottom: 10px;
+	}
+	
+	#slider400x300{
+		float:left;
+	}
+	
+	#slider620x465 {
+		width:620px;
+		height:465px;
+		overflow:hidden;
+	}
+	#slider400x300 li{
+		width:400px;
+		height:300px;
+		overflow:hidden; 	
+		}	
+		
+	#slider350x200 li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		width:350px;
+		height:200px;
+		overflow:hidden; 	
+		}	
+		
+	#sliderCrows li{ 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		width:300px;
+		height:375px;
+		overflow:hidden; 	
+		}	
+	#prevBtn, #nextBtn,
+	#slider1next, #slider1prev{ 
+		display:block;
+		width:30px;
+		height:77px;
+		position:absolute;
+		left:-30px;
+		top:71px;
+		z-index:1000;
+		}	
+	#nextBtn, #slider1next{ 
+		left:620px;
+		}														
+	#prevBtn a, #nextBtn a,
+	#slider1next a, #slider1prev a{  
+		display:block;
+		position:relative;
+		width:30px;
+		height:77px;
+		background:url(../images/btn_prev.gif) no-repeat 0 0;	
+		}	
+	#nextBtn a, #slider1next a{ 
+		background:url(../images/btn_next.gif) no-repeat 0 0;	
+		}	
+		
+	/* numeric controls */	
+
+	ol#controls{
+		margin:1em 0;
+		padding:0;
+		height:28px;	
+		}
+	ol#controls li{
+		margin:0 10px 0 0; 
+		padding:0;
+		float:left;
+		list-style:none;
+		height:20px;
+		line-height:20px;
+		}
+	ol#controls li a{
+		float:left;
+		height:20px;
+		line-height:20px;
+		border:1px solid #ccc;
+		background:#DAF3F8;
+		color:#555;
+		padding:0 10px;
+		text-decoration:none;
+		}
+	ol#controls li.current a{
+		background:#666;
+		color:#fff;
+		}
+	ol#controls li a:focus, #prevBtn a:focus, #nextBtn a:focus{outline:none;}
+	
+/* // Easy Slider */
+#testimonial {
+	float: right;	
+	padding-left:5px;
+	width: 200px;
+	border-left-color: #C5C5C5;
+	border-left-style:solid;
+	border-left-width: 1px;
+
+}
+.bottomPadding5 {
+	margin-bottom: 15px;
+}
+#totalwrap table tr td .newsArticle {
+	font-size: 11px;
+	font-weight: normal;
+	color: #333;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	;
+}
+#totalwrap table tr td #pressPaddingLeft {
+	padding-left: 10px;
+}
+
+#totalwrap table tr td p .newsArticle .newsArticleTitle {
+	font-weight: bold;
+	color: #030;
+}
+#totalwrap table tr td .navtitle .navtitleSmaller {
+	font-size: 16px;
+	font-weight: normal;
+}
+
+.box200
+{
+width:150px;
+float:left;
+margin:10px;
+list-style-type: none;
+}
+
+.box200 p
+{
+font-size:11px;
+
+}
+
+div.spacer {
+  clear: both;
+  }
+  
+.contactBoxLeft {
+	font-weight: normal;
+	font-style:italic;
+	width: auto;
+	float:left;
+	background-color:white;
+	padding:7px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+.indentForContactName {
+	margin-left:8px;
+	font-style:normal;
+	font-weight:bold;
+}
+
+a .membershipButton{
+padding:0px;
+margin:-1px;
+background-image:url(../images/membership/lightgreenbutton.png);
+background-repeat:no-repeat;
+background-position:bottom;
+}
+
+.membershipButton :hover{
+padding:0px;
+margin:-1px;
+background-image:url(../images/membership/lightgreenbuttonSelected.png);
+background-repeat:no-repeat;
+background-position:right top;
+}
+
+.toursTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #030;
+	font-weight:bold;
+	line-height: 1.5em;
+}
+
+.toursSubTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #333;
+	font-weight:bold;
+	line-height: 1.5em;
+	
+}
+
+	.toursSubTitle a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #18244E;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+	.toursSubTitle a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #18244E;
+	font-weight:bold;
+	text-decoration:underline;
+	font-style:italic;
+}
+
+
+/* rounded buttons */
+.round {
+	cursor:pointer; 
+	cursor:hand; 
+	line-height:27px;
+	height:27px;
+	background:url(../images/buttonSingleImage.png) no-repeat right top; 
+	padding-right:15px; 
+	display:inline-block;
+	margin-top:10px;
+}
+
+.round ins { 
+	background:url(../images/buttonSingleImage.png) no-repeat left top; 
+	height:27px;
+	line-height:27px;
+	display:inline-block;
+	padding-left:15px;
+	text-decoration:none;
+	color:#333;
+	font-size:13px;
+}
+
+	a.round:hover {background-position:right -155px;}
+	a.round:hover ins {background-position:left -155px; text-decoration:none;}
+	
+
+/* end rounded buttons */
+
+.indentText{
+	padding-left:10px;
+	}
+	
+ .navarrowffc ul li {
+      
+      padding:2px 0 1px 0;
+}
+
+.feedburnerFeedBlock ul {list-style:none; margin-top:20px;}
+.feedburnerFeedBlock #creditfooter {display:none;}
+.feedburnerFeedBlock .headline a { display:none}
+.feedburnerFeedBlock li {
+width:100%;
+list-style:none; 
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: #18244E;
+text-align:center;
+margin:0 auto;
+margin-top:20px;
+}
+
+.tooltip {
+	display:none;
+	background:transparent url(../images/green_arrow.png);
+	font-size:15px;
+	font-weight:bold;
+	height:70px;
+	width:160px;
+	padding:25px;
+	color:#fff;	
+}
+.dateAdded {
+	font-weight: bold;
+	color: #600;
+}
+
+.holiday img{
+	padding:8px;	
+
+}
+
+.holiday p{
+	font-size: 15px;
+	padding-top:8px;	
+}
+
+.holiday {
+	background:#FFFFFF;
+}
+
+.footerSection {
+display: inline;
+float: left;
+padding: 4px 16px;
+width: 156px;
+background-color: #FFFEF1;
+background-image: url(../images/footerSectionBackground.jpg);
+height: 309px;
+border: 1px solid #F1EEE0;
+margin: 14px 0px 6px 29px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-khtml-border-radius: 10px;
+border-radius: 10px;
+}
+
+
+
+.footerSection .navtitle, .footerSection .eventtitle {
+font-size: 14px;
+line-height: 25px;
+}
+
+#footer .footerSection a {
+font-size: 12px;
+color: #555;
+line-height: 20.1px;
+text-align: left;
+margin-left: -7px;
+	
+}
+
+
+#footer .footerSection .navarrow ul {
+color: #777;
+list-style-image: url(../images/greyDot.png);
+text-align: left;
+}

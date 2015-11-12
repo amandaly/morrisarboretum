@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Travel</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+
+
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-belgium.jpg" alt="Travel with Morris Arboretum: Brussels and Bruges 2014"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="nine columns push-three">
+      <h2 class=" serif first" style="margin-bottom:-8px;"><strong>Brussels and Bruges</strong> <span class="serif first"><em>June 8 - 15, 2014</em></span></h2>
+      
+      <h2 style="font-size:18px;">The Program</h2>
+      <p><a href="pdf/Belgium-program.pdf" target="_blank"><i class="efoundicon-down-arrow"></i> Click here to download a printable PDF of the complete travel program </a></p><br>
+      <dl class="tabs four-up">
+          <dd class="active"><a href="#simpleContained1">Pre-days &amp; Arrival</a></dd>
+          <dd><a href="#simple2">Brussels</a></dd>
+          <dd><a href="#simple3">Ghent & Bruges</a></dd>
+          <dd><a href="#simple4">Departure</a></dd>
+      </dl>
+      
+      <ul class="tabs-content">
+        <li class="active" id="simpleContained1Tab">   
+        <div class="row">
+            <div class="seven columns end">
+        	<h3 class="first"><strong>PRE-DAYS IN BRUSSELS</strong></h3>
+                <p>Some may want to spend extra nights before the trip in Brussels.  Pre-nights can be arranged at the hotel.  Restaurant suggestions and ideas for visits that will not be part of the program can be supplied.</p>
+                <p><em>Overnight in flight.</em></p>  
+            </div>
+       	 </div>
+         <hr>
+         <div class="row">
+            <div class="seven columns">
+                <h3 class="first">SUNDAY JUNE 8<br>
+                 <strong>ARRIVALS INTO BRUSSELS</strong></h3> 
+                <p><strong>Individual arrivals into Brussels Zaventem Airport throughout the day.</strong></p>
+                <p><strong>Transfers arranged on request. </strong></p>
+                <p><em>Traveling time to the Hotel Amigo from Brussels Airport is approximately 20 minutes, depending on the traffic.</em></p>
+                <p><strong>Check into the <a href="http://www.hotelamigo.com" target="_blank">Hotel Amigo</a>.</strong></p>
+                <p><strong>After check-in and some time to unpack and freshen up, we depart the hotel for an orientation walk around The Grand Place.</strong></p>
+                <p><strong>Brussels</strong></p>
+                <p><em>The "capital of Europe", Brussels has begun to act like Europe's Washington, D.C., a focus of economic and political power, where decisions are made that affect the lives of people around the world. As headquarters of the European Union (EU), Brussels both symbolizes the Continent's vision of unity and is seen as a bastion of officialdom, a breeding ground for the regulations that govern and often exasperate the rest of Europe.</em></p>
+                <p><em>The Grand Place is the heart of Brussels, a vibrant, beautiful and functional part of the city. The magnificent square boasts popular sidewalk cafés, intimate cellar restaurants, the country's finest guild halls and the splendid Hôtel de Ville, a gothic masterpiece. </em></p>
+                <p><strong>Continue for a special private guided visit of Victor Horta’s masterpiece the <a href="http://whc.unesco.org/en/list/1005" target="_blank">Hôtel Solvay</a> (on the Unesco World Heritage List). </strong></p>
+                <p><em>Hôtel Solvay was built as the home of wealthy industrialist Armand Solvay. It was designed by Victor Horta, one of the earliest initiators of Art Nouveau. All decoration and furniture was designed by Horta himself. </em></p>
+                <p><strong>Festive welcome dinner at <a href="http://www.hotelamigo.com/dining/" target="_blank">Bocconi Restaurant</a> in our hotel.</strong></p>
+                <p><strong>Overnight: <a href="http://www.hotelamigo.com" target="_blank">Hotel Amigo</a>, Brussels.</strong></p>
+                <p><em>A deluxe 5-star property of The Rocco Forte Group.  Just steps from the famous Grand Place, the red brick façade of the hotel built in Spanish Renaissance style, fits perfectly into the architectural past and present of its surroundings.</em></p>
+            </div>
+            <div class="five columns">
+            <br><img src="images/brussels/Brussels.jpg">
+            <img src="images/brussels/Hotel-Amigo-Brussels-–-Petit-Sablon-4166-MID.jpg"><br><br>
+            <img src="images/brussels/amigo4.jpg"><br><br>
+            <img src="images/brussels/hotel solvay.jpg">
+            </div>
+        </div>
+        </li>
+        
+        <li id="simple2Tab">
+        <div class="row">
+        <div class="seven columns">
+        <h3 class="first">MONDAY JUNE 9<br>
+        <strong>BRUSSELS</strong></h3> 	
+        <p><strong>Buffet breakfast at the hotel.
+        </strong></p>
+        <p><strong>Depart hotel to the <a href="http://www.jardinbotanique.be" target="_blank">Jardin Botanique</a>.
+        </strong></p>
+        <p><em>This morning is dedicated to the Jardin Botanique National de Belgique in Meise, one of the largest botanical gardens in Europe, set in the grounds of a historic castle with ample parklands, a lake and 14 inter-connected greenhouses featuring an overview of plants and flowers from around the world.
+        </em></p>
+        <p><strong>Continue to La Hulpe.
+        </strong></p>
+        <p><em>Established in the 19th century on part of the Forest of Soignes, the property was bought by the famous industrialist, Ernest Solvay, in 1893, and then bequeathed in 1968 to the Belgian State by his grandson, Ernest-John Solvay. The rich plant life in the park has been the subject of many studies by scientists from around the world.
+        </em></p>
+        <p><strong>Private lunch at the Château La Hulpe.
+        </strong></p>
+        <p><em>After lunch we tour the Domaine Solvay, which covers 227 hectares of greenery, woods and ponds. It is bordered by the Sonian Forest and the Nysdam Nature Reserve. 
+        </em></p>
+        <p><em>Must sees: the beech cathedral, gazebo, the rhododendrons and azaleas, forest valleys, ponds, French Garden, remarkable trees (giant sequoia tree, CaucasusTuliptree , California hemlock…), wildlife (great crested grebe, pochard, coots, geese).
+        </em></p>
+        <p><strong>Continue to the abbey and gardens of the Abbaye de la Cambre. 
+        </strong></p>
+        <p><em>The Abbey de la Cambre is a medieval abbey that was suppressed by the French Revolutionary army. The attractive 18th-century brick buildings of the abbey, which surround a pretty little courtyard, are now used by several government departments.
+        </em></p>
+        <p><em>In the courtyard is the main entrance to the lovely abbey church Notre Dame de la Cambre,  with its simple barrel-vaulted nave. The church is an amalgamation of styles incorporating both Gothic and Classical features. There is a marvellous painting by Albert Bouts' The Mocking of Christ, an early 16th -century work showing a mournful Christ.
+        </em></p>
+        <p><em>Behind the abbey's buildings are walled and terraced gardens, an oasis of peace away from the hubbub of avenue Louise.The Cistercian Abbey was founded about 1196. The terraced gardens date from eighteenth century and were restored by Jules Buyssens in 1930-32.
+        </em></p>
+        <p><strong>Return to our hotel.
+        </strong></p>
+        <p><strong>After-hours visit of the House and gardens of the <a href="http://www.museumvanbuuren.be" target="_blank">Museum Van Buuren</a> a private house-museum full of history and atmosphere including a spectacular garden with a labyrinth designed by R. Pechère.
+        </strong></p>
+        <p><em>The David and Alice Van Buuren house, bought in 1928 by the banker and patron David van Buuren, is in an architectural style typical of the Amsterdam School. The Art Deco interior decoration is a harmonious ensemble created by a collaboration of Belgian, French and Dutch designers. The Van Buurens made their villa a "living academy” with rare furniture, carpets, stained-glass windows, sculptures and international masterpieces. Often referred to as a "private memory house ", it became a museum in 1975.
+        </em></p>
+        <p><em>In 1924 the gardens covered only about 100 m², today the gardens are 1,5 hectares. There is great harmony of style between the garden created by landscape architect Jules Buyssens and the Art Deco house. His “Picturesque Garden“ with its geometrical plan perfectly reflects the Art Deco style.  In 1969, Alice commissioned René Pechère to design a now much larger garden as a complement to her villa.
+        </em></p>
+        <p><strong>Dinner to follow in the garden (weather permitting).
+        </strong></p>
+        <p><strong>Overnight: <a href="http://www.hotelamigo.com" target="_blank">Hotel Amigo</a>, Brussels.
+        </strong></p>
+        </div>
+        <div class="five columns"><br>
+            <img src="images/brussels/Botanique National 1.jpg"><br><br>
+            <img src="images/brussels/chateau hulpe.jpg"><br><br>
+            <img src="images/brussels/Abb._de_la_Cambre_05.jpg"><br><br>
+            <img src="images/brussels/Abbaye de la Cambre.jpg"><br><br>
+            <img src="images/brussels/Van buuren museum.jpg"><br><br>
+            <img src="images/brussels/Museum van buuren.jpg">
+        </div>
+        </div>
+        <hr>
+        <div class="row">
+        <div class="seven columns">
+        <h3 class="first">TUESDAY JUNE 10<br>
+        <strong>BRUSSELS
+        </strong></h3> 	
+        <p><strong>Buffet breakfast at the hotel.
+        </strong></p>
+        <p><strong>Depart hotel to Château Hex one of the first landscape parks on the European continent.
+        </strong></p>
+        <p><em>The <a href="http://www.hex.be" target="_blank">Château de Hex</a> was built in the 18th century on a beautiful natural site, by Count Charles-François de Velbrück. Born in 1719 near Düsseldorf into an old Westphalien family, he was elected Prince-Bishop of Liège in 1772. Until his death at Hex in the spring of 1794 he ruled the Principality of Liege as an enlightened humanist where liberty of thought and cultural life came to full bloom. Philosopher and clever politician, friend of mankind and nature, he became the protector of art and literature.
+        </em></p>
+        <p><em>De Velbrück’s love for nature easily lead him to the County of Looz, where his eye fell on the Seigneurie of Hex. This hilly country, covered with fields and woods, hunting grounds and promenades, was the perfect spot to realize an "Arcadian" dream. On the top of the hill Château de Hex was built as a hunting pavilion. It was then surrounded by 12 acres of formal gardens, inspired by French models including a rose garden, a Chinese garden, and a vegetable garden. Once the formal gardens had been laid out, de Velbrück added a landscape park inspired by the famous English garden architect Capability Brown.  
+        </em></p>
+        <p><strong>Lunch at Château de Hex.
+        </strong></p>
+        <p><strong>Continue to the Japanese Gardens in Hasselt for a guided visit.
+        </strong></p>
+        <p><em>With a surface of 25,000 m² (2,5 ha) the Hasselt Japanese Garden is the largest of its kind in Europe. It was constructed in 1992 with the collaboration of the Japanese city of Itami which is the sister city of Hasselt. 
+        </em></p>
+        <p><em>The garden is based on the pattern of 17th century Japanese tea gardens and consists of three parts: 
+        <br>- a transition area between the more Western-looking Kopermolenpark and the central Japanese Garden.
+        <br>- the Central Garden with its ceremonial house and tea house, where tea demonstrations can be seen, the pond with numerous Japanese fish and waterfalls.
+        <br>- a park with 250 Japanese cherry trees.</em></p>
+        <p><strong>Return to Brussels.
+        </strong></p>
+        <p><strong>Evening at lesiure.
+        </strong></p>
+        <p><strong>Overnight: <a href="http://www.hotelamigo.com" target="_blank">Hotel Amigo</a>, Brussels.
+        </strong></p>
+        </div>
+        <div class="five columns"><br>
+            <img src="images/brussels/hex-4.jpg"><br><br>
+            <img src="images/brussels/Botanique National 1.jpg"><br><br>
+            <img src="images/brussels/hex 2.jpg"><br><br>
+            <img src="images/brussels/japanese_garden__7_.jpg">
+        </div>
+        </div>
+        <hr>
+        <div class="row">
+        <div class="seven columns">
+        <h3 class="first">WEDNESDAY JUNE 11<br>
+        <strong>BRUSSELS
+        </strong></h3> 
+        <p><strong>Buffet breakfast at the hotel.
+        </strong></p>
+        <p><strong>Morning at lesiure in Brussels.
+        </strong></p>
+        <p><strong>Transfer to Domain Hemelrijk.
+        </strong></p>
+        <p><em>Hemelrijk is a private garden of more than 250 acres. Its name is the merger of the Dutch words for sky and kingdom. It's easy to understand why the English landscape designer Russell Page liked to come here. The garden is the opposite of control, displaying a looseness and individualistic spirit that recalls 19th-century Romanticism. Hemelrijk is wildly unreasonable, vast and mysterious with its groups of apple and cherry trees, fields and rhododendron-laced woods.  It is the perfect counterpoint to the regularized lowlands, where everything is flat and there is little respite from the ordered neatness of ancient tree-lines.  
+        </em></p>
+        <p><strong>Lunch at Domain Hemelrijk.
+        </strong></p>
+        <p><em>Hemelrijk is also the romantic result of the union between the late horticulturists Robert De Belder and his wife, Jelena, who, along with Robert's brother, Georges, created this magical place as well as the  arboretum at Kalmthout. To see the great collections of beeches, oaks, maples and fruit trees with sweeping vistas and irregular lines that Robert De Belder assembled and to look across the ponds that he and his brother, Georges, created in the 1960s is to understand what motivated them.  
+        </em></p>
+        <p><strong>Continue to ‘s Gravenwezel Castle to view the castle’s gardens designed by landscape architect Jacques Wirtz. 
+        </strong></p>
+        <p><em>The parklands look as if they have been cultivated without interruption for the past 500 years, but not so long ago they were overgrown and tangled with brambles. In 1984, when the owners bought 's-Gravenwezel the couple spent the next 15 years patiently nurturing a four-acre potager and private pleasure garden, and shaping each ancient oak, cobblestone path, and shaded allée on their 62 acres.
+        </em></p>
+        <p><em>To help articulate their vision, they hired Flemish landscape architect Jacques Wirtz, 77, considered by many horticultural insiders to be the world's leading garden designer. It was Wirtz who first defined the "genius of the place," emphasizing the history of the castle's gardens. In his head, Wirtz says, he imagined Breughel's depictions of country life and other Flemish paintings of sheltering oaks, beech hedges, and walled monastic gardens.
+        </em></p>
+        <p><strong>Return to Brussels.
+        </strong></p>
+        <p><strong>Dinner at <a href="http://www.taverne-du-passage.be/brasserie-taverne-du-passage/" target="_blank">Taverne du Passage</a>.
+        </strong></p>
+        <p><strong>Overnight: <a href="http://www.hotelamigo.com" target="_blank">Hotel Amigo</a>, Brussels.
+        </strong></p>
+        </div>
+        <div class="five columns"><br>
+            <img src="images/brussels/brussels 1.jpg"><br><br>
+            <img src="images/brussels/Hemelrijk 1.jpg"><br><br>
+            <img src="images/brussels/AV1.jpg"><br><br>
+            <img src="images/brussels/Gravenwezel gardens.jpg">
+        </div>
+        </div>
+         
+        <hr>
+        <div class="row">
+        <div class="seven columns">
+        <h3 class="first">THURSDAY JUNE 12<br>
+        <strong>BRUSSELS
+        </strong></h3>
+        <p><strong>Buffet breakfast at the hotel.
+        </strong></p>
+        <p><em><strong>Depart for <a href="http://www.arboretumwespelaar.be" target="_blank">Haacht</a>. <em>Arboretum Wespelaar vzw, a non-profit organization, was set up in 2001 to manage the botanical collections of a part of the estate of Philippe de Spoelberch</em>.
+        </strong></em></p>
+        <p><em>In 2007, the arboretum and its collections were donated to the Foundation Arboretum Wespelaar, which was set up to guarantee the future of the collections and arrange for their opening to the public in 2011. Some 2000 different taxa can be seen on the 20-hectare grounds. The arboretum brings together trees and shrubs from around the world, which can survive in the temperate Belgian climate. Arboretum Wespelaar houses many woody species large and small, including common and rare species, especially those that are threatened in the wild.
+        </em></p>
+        <p><strong>Lunch at the estate.
+        </strong></p>
+        <p><strong>Visit of the private estate Herkenrode.
+        </strong></p>
+        <p><em>The owner began creating a garden at his family estate, Herkenrode, in 1966.  Known for its collections of Acer (maple), Rhododendron, Magnolia, and Fagaceae (beech), it has just become open to public visitation. 
+        </em></p>
+        <p><strong>Continue to <a href="http://www.jardinsouverts.be/fr/nos-jardins/brabant-flamand/fondation-kreftenbroeck-arboretum" target="_blank">Kreftenbroeck</a>
+        </strong></p>
+        <p><strong>Kreftenbroeck.
+        </strong></p>
+        <p><em>In the fall of 1980 Etienne and Rose-Marie Van Campenhout purchased a dilapidated farm in Rhode St Genèse on the outskirts of Brussels. The following spring they began the huge task of renovating the farm and transforming the waist-high growth into a garden.  The later purchased adjacent land that has resulted in a magnificent series of gardens extending over 10 acres. 
+        </em></p>
+        <p><em>The sublime series of green spaces begins in front of the house in what is known as the natural garden, the main focal point of which is a small pond.  Behind the house is a more classically designed garden with a canopied alley of apple trees linking two large Louis XVI urns. From here open areas, intimate green “rooms” a serpentine pond and an elegant staircase alternate leading to the final goal; the valley garden designed by the well-known Belgian landscape architect Jacques Wirtz.  This most recent garden links slope with valley, with focal points of hedges, trees, water and sculpture.
+        </em></p>
+        <p><strong>Return to our hotel.
+        </strong></p>
+        <p><strong>Evening at lesiure.
+        </strong></p>
+        <p><strong>Overnight: <a href="http://www.hotelamigo.com" target="_blank">Hotel Amigo</a>, Brussels.
+        </strong></p>
+        </div>
+        <div class="five columns"><br>
+            <img src="images/brussels/Stewartia pseudocamellia - haacht.jpg"><br><br>
+            <img src="images/brussels/Magnolia ghost ship.jpg"><br><br>
+            <img src="images/brussels/Kreftenbroeck.jpg">
+        </div>
+        </div>
+        </li>
+
+        
+        <li id="simple3Tab">
+        <div class="row">
+        <div class="seven columns"><h3 class="first">FRIDAY JUNE 13<br>
+        <strong>BRUSSELS TO BRUGES VIA GHENT
+        </strong></h3> 	
+        <p><strong>Buffet breakfast at the hotel.
+        </strong></p>
+        <p><strong>Depart hotel by coach for Bruges via a stop in Ghent.
+        </strong></p>
+        <p><strong>Ghent
+        </strong></p>
+        <p><em>Archaeological research has proved that there was human settlement in Ghent during prehistoric times but it wasn’t until the Roman period that the nucleus of a city began to grow near the confluence of the two rivers Scheldt and Leie. The Flemish name 'Gent' is probably derived from the Celtic 'Ganda', meaning confluence.
+        </em></p>
+        <p><em>The city continued to grow and in 630 the Abbey of Saint John (later the Abbey of Saint Bavo) was founded. Soon after, a second abbey was founded on the so-called 'Blandijnberg' and it was around these two religious centers that a residential nucleus came into existence. 
+        </em></p>
+        <p><em>From the 11th to the 12th century Ghent grew into an important trading center, mostly due to the production of cloth based on the import of raw English wool. In the 13th century the city was governed by patricians who continuously defended their own mercantilist interests against those of the Count and the corporations. Along the waterways in the city center are the beautiful facades of the Guild Houses from that era.
+        </em></p>
+        <p><strong>Visit of St. Bavo Cathedral to view the famous <a href="http://users.skynet.be/sintbaafskathedraal-gent/EN_lamb.html" target="_blank">Ghent Altarpiece</a> in Ghent Cathedral, a pivotal work of the Flemish school of the 15th century. In the crypt of the cathedral is a triptych by Jim Dine and Alessandro Algardi.
+        </strong></p>
+        <p><strong>Ghent Altarpiece
+        </strong></p>
+        <p><em>The Adoration of the Mystic Lamb, also known as 'The Ghent Altarpiece' is popularly attributed to Jan van Eyck.  However a Latin inscription on the border of the painting suggests that it was actually the elder brother Hubert who started the work and Jan who finished it.  It is commonly accepted that the van Eyck family must have come from the town of 'Eyck' which is now called 'Maaseik', situated in the Belgian province of Limburg.  Jan van Eyck was born around 1390 and became painter at the court of Philip the Fair, Duke of Burgundy.  Jan settled in Bruges in 1432 and died there in 1441.
+        </em></p>
+        <p><em>The altarpiece was painted to decorate the private chapel of a wealthy couple, Joost Vijd and his wife Elisabeth Borluut.   Joost Vijd was among the most influential citizens of Ghent and his wife belonged to the famous Borluut family of the same city. The polyptych was a huge undertaking and is one of the largest altarpieces that we know of from the period.
+        </em></p>
+        <p><em>The main theme of the work is the Adoration of The Lamb, a symbolic representation of the crucified Christ shown in the middle of the central panel.  However, the subjects and relationships of the 24 panels of this altarpiece are much more complex and during our private before-hour's visit we will have the opportunity to learn much more about what is certainly one of the most influential paintings in Western Art.
+        </em></p>
+        <p><em>In the crypt of the cathedral is the famous Calvary Triptych by Justus van Gent from the mid 15th century as well as a contemporary triptych by Jim Dine.
+        </em></p>
+        <p><strong>Coffee break hosted at a private 13th century home near the cathedral.
+        </strong></p>
+        <p><em>We continue for a visit of a private garden as we walk through the historic city center passing by the 15th-century Cloth Hall and the 16th-century Town Hall before we reach the Graslei and Korenlei where 16th-century guild-houses line both banks of the Leie River. This site is what many consider the most beautiful spot in the city.
+        </em></p>
+        <p><strong>Lunch at <a href="http://www.belgaqueen.be" target="_blank">Belga Queen</a> on the Graslei.
+        </strong></p>
+        <p><strong>Continue to Eeklo to visit <a href="http://www.oost-vlaanderen.be/public/cultuur_vrijetijd/domeinen/leen/index.cfm" target="_blank">Arboretum Het Leen</a>.
+        </strong></p>
+        <p><em>Het Leen is quite new having been started by Eric Winley in 1980. On a small plot along the entrance Eric planted native trees and shrubs but he had grander ideas for the arboretum and it took a while to convince others and get the necessary financial support. A few years later he expanded his collection on the adjacent land and added both exotic and cultivated plants. He kept expanding and today the arboretum covers 15 acres and is home to a collection of 7000 trees, and shrubs.
+        </em></p>
+        <p><strong>Continue to Bruges and check into our elegant hotel, <a href="http://www.hoteltuilerieen.com/default.asp?iId=GDHFIE" target="_blank">The Tuilerieën</a>.
+        </strong></p>
+        <p><strong>Time to unpack, relax, settle into our hotel.
+        </strong></p>
+        <p><strong>Dinner at <a href="http://www.chezolivier.be" target="_blank">Chez Olivier</a>. 
+        </strong></p>
+        <p><strong>Overnight: <a href="http://www.hoteltuilerieen.com/default.asp?iId=GDHFIE" target="_blank">The Tuilerieën</a>, Bruges.
+        </strong></p>
+        <p><em>An elegant noble residence from the 15th century converted into a deluxe hotel. The hotel’s location, along one of the prettiest canals “Den Dijver” immediately submerges you into the rich history of the town.
+        </em></p>
+        </div>
+        <div class="five columns"><br>
+            <img src="images/brussels/gent-02.jpg"><br><br>
+            <img src="images/brussels/gent-08.jpg"><br><br>
+            <img src="images/brussels/Lamgods_open.jpg"><br><br>
+            <img src="images/brussels/triptych-of-the-crucifixion.jpg"><br><br>
+            <img src="images/brussels/Het Leen.jpg"><br><br>
+            <img src="images/brussels/tuilerieen2.jpg"><br><br>
+            <img src="images/brussels/tuilerieenbath.jpg">
+        </div>
+        </div>
+        <hr>
+        <div class="row">
+        <div class="seven columns"><h3 class="first">SATURDAY JUNE 14<br>
+        <strong>BRUGES
+        </strong></h3> 	
+        <p><strong>Buffet breakfast at the hotel.
+        </strong></p>
+        <p><em>Walking tour of three gardens in Bruges with garden specialist and author Andries van den Abeele.
+        </em></p>
+        <p><em>Bruges is a beautiful, medieval town, which began life in about AD 862 as a castle on an island in a swamp formed by the River Reie. The castle has disappeared, but the charming square that replaced it, the Burg, has remained the historic heart of the city over the centuries.
+        </em></p>
+        <p><em>Baron van den Abeele is an historian, garden specialist and author on the history, art and landscape of Flanders in general and of Bruges in particular.  His recent book the Secret Gardens of Bruges discusses a dozen private and public gardens in the city.
+        </em></p>
+        <p><strong>Short transfer to Oostkerke where we visit the <a href="http://www.mooietuinen.be/kasteelvanoostke.html" target="_blank">private garden of Castle Oostkerke</a>, which were originally designed by Dutch landscape architect Mien Ruys.
+        </strong></p>
+        <p><em>Oostkerke Castle has its origins in a 13th-century fortified keep. An estate is first mentioned in 1358 while the current castle is a vestige of the 14th-century structure. Oostkerke has had a tumultuous history, from the 16th century when it was besieged, ransacked and burned to the ground, to the end of Word War II when the area was deliberately flooded destroying the gardens and German troops removed the oak beams from the interior to reinforce their lines against the approaching Allies.  At the end of the war Oostkerke was in a ruinous state. Baron van der Elst who had purchased the castle just before the war, undertook a massive restoration. 
+        </em></p>
+        <p><em>A bridge and two round towers from the 14th century flank the entrance of the castle, whilebehind lies one of Flander’s most beautiful gardens. During the creation of the garden the foundations of the original castle were discovered and restored to form the walking paths of the garden.  This ingenious combination of ancient form and modern function also serves to underline the history of Oostkerke, revealing the original layout and size of the 14th-century castle.
+        </em></p>
+        <p><strong>Afternoon at lesiure.
+        </strong></p>
+        <p><strong>This evening we board our boat for a ride on the canals.
+        </strong></p>
+        <p><strong>We end at the private 16th century canal home for a drinks reception.
+        </strong></p>
+        <p><strong>Continue on foot for dinner at <a href="http://www.goudenharynck.be" target="_blank">Den Gouden Harynck</a>, a Michelin one-star restaurant in the center of Bruges.
+        </strong></p>
+        <p><strong>Overnight: <a href="http://www.hoteltuilerieen.com/default.asp?iId=GDHFIE" target="_blank">The Tuilerieën</a>, Bruges.
+        </strong></p>
+        </div>
+        <div class="five columns"><br>
+            <img src="images/brussels/bruges-canal-boat-tour.jpg"><br><br>
+            <img src="images/brussels/oostkerke 4.jpg"><br><br>
+            <img src="images/brussels/oostkerke-2.jpg"><br><br>
+            <img src="images/brussels/Bruges 1.jpg">
+        </div>
+        </div>
+        </li>
+        
+        <li id="simple4Tab">
+        <div class="row">
+        <div class="seven columns end"><h3 class="first">SUNDAY JUNE 15 <br>
+        <strong>DEPARTURES
+        </strong></h3>	
+        <p><strong>Breakfast at hotel.
+        </strong></p>
+        <p><strong>Depart at lesiure throughout the day.
+        </strong></p>
+        <p><strong>Individual transfers to the airport.
+        </strong></p>
+        <p><em>This is a working itinerary and modifications may occur depending upon the ultimate availability of our hosts or certain events. The itinerary is subject to change.
+        </em></p>
+        </div>
+        </div>
+        </li>
+        
+        </ul>
+ 
+
+ 
+
+ 
+     <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+    <div class="three columns pull-nine" style="border-right:solid 1px #f6f6f6;">
+      <ul class="side-nav">
+      <li> <h1>Travel</h1></li>
+              <li><a href="events_belgium.shtml">Program</a></li>
+              <li class="divider"></li>
+              <li><a href="events_belgium_cost.shtml">Cost &amp; Reservations</a></li>
+              <li class="divider"></li>
+              <li><a href="events_belgium_contact.shtml">Contact</a></li>
+      </ul>
+      <p></p>
+      <p align="right" class="show-for-small"><a href="#top">Back to top</a></p>  
+    </div>  
+    
+    </div>
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

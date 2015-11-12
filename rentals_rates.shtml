@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html>
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Rentals</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link rel="stylesheet" href="stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="index.shtml"><img src="images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="index.shtml"><img src="images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+  <div class="row">
+    <div class="twelve columns"> <img src="images/img-header-rental-rates.jpg" alt="Weddings at Morris Arboretum"/>
+      <hr>
+    </div>
+  </div>
+  <!-- content Section -->
+  <div class="row">
+    <div class="six columns push-three">
+      <h2 class="first">Rental Rates</h2>
+      <h3>Wedding and Event Rental </h3>
+      <p><strong>Rentals includes:  </strong><br>
+      Victorian Carriage House - holds up to 65 guests and includes tables and chairs. 
+      Tent - holds up to 175 guests; includes tables, chairs, lights, clear sides, and heaters. 
+      Grounds around building for ceremony and cocktails. Wedding pictures allowed in the garden. Cart and driver for 4 hours. Weekend (Friday - Sunday) rental duration from 6 to 11:00pm; weekdays from 6-10:00pm.</p>
+      		<h3><strong>Rental Rates</strong></h3>
+      		<table class="twelve">
+              <thead>
+                <tr>
+                  <th><strong>2016</strong></th>
+                  <th>Friday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+                  <th>Saturday</th>
+                  <th>Sunday&nbsp; &nbsp; &nbsp; &nbsp;</th>
+                  <th>Mon - Thu (6-10:00pm)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>April</td>
+                  <td>$2,800 </td>
+                  <td>$3,300 </td>
+                  <td>$2,600</td>
+                  <td>$1,700</td>
+                </tr>
+                <tr>
+                  <td>May</td>
+                  <td>$3,400 </td>
+                  <td>SOLD OUT</td>
+                  <td>$3,100</td>
+                  <td>$1,900</td>
+                </tr> 
+                <tr>
+                  <td>June</td>
+                  <td>$3,400</td>
+                  <td>SOLD OUT</td>
+                  <td>$3,100</td>
+                  <td>$1,900</td>
+                </tr>  
+                <tr>
+                  <td>July</td>
+                  <td>$3,700</td>
+                  <td>$4,400</td>
+                  <td>$3,300</td>
+                  <td>$1,700</td>
+                </tr>  
+                <tr>
+                  <td>August</td>
+                  <td>$3,700</td>
+                  <td>$4,400</td>
+                  <td>$3,300</td>
+                  <td>$1,700</td>
+                </tr>  
+                <tr>
+                  <td>September</td>
+                  <td>$4,700</td>
+                  <td>$5,800</td>
+                  <td>$4,300</td>
+                  <td>$2,200</td>
+                </tr>
+                <tr>
+                  <td>October</td>
+                  <td>$4,700</td>
+                  <td>$5,800</td>
+                  <td>$4,300</td>
+                  <td>$2,200</td>
+                </tr>
+                <tr>
+                <td>November*</td>
+                  <td>$3,900</td>
+                  <td>$4,800</td>
+                  <td>$3,600</td>
+                  <td>$1,800</td>
+                </tr>  
+              </tbody>
+            </table>
+            <table class="twelve">
+              <thead>
+                <tr>
+                  <th><strong>2017</strong></th>
+                  <th>Friday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</th>
+                  <th>Saturday &nbsp; &nbsp;</th>
+                  <th>Sunday&nbsp; &nbsp; &nbsp; &nbsp;</th>
+                  <th>Mon - Thu (6-10:00pm)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>April</td>
+                  <td>$4,500 </td>
+                  <td>$5,200 </td>
+                  <td>$4,200</td>
+                  <td>$2,000</td>
+                </tr>
+                <tr>
+                  <td>May</td>
+                  <td>$5,100 </td>
+                  <td>$6,300 </td>
+                  <td>$4,900</td>
+                  <td>$2,400</td>
+                </tr> 
+                <tr>
+                  <td>June</td>
+                  <td>$5,100 </td>
+                  <td>$6,300 </td>
+                  <td>$4,900</td>
+                  <td>$2,400</td>
+                </tr>  
+                <tr>
+                  <td>July</td>
+                  <td>$4,600 </td>
+                  <td>$5,400 </td>
+                  <td>$4,300</td>
+                  <td>$2,000</td>
+                </tr>  
+                <tr>
+                  <td>August</td>
+                  <td>$4,500 </td>
+                  <td>$5,400 </td>
+                  <td>$4,300</td>
+                  <td>$2,000</td>
+                </tr>  
+                <tr>
+                  <td>September</td>
+                  <td>$5,100 </td>
+                  <td>$6,300 </td>
+                  <td>$4,900</td>
+                  <td>$2,400</td>                
+                </tr>
+                <tr>
+                  <td>October</td>
+                  <td>$5,100 </td>
+                  <td>$6,300 </td>
+                  <td>$4,900</td>
+                  <td>$2,400</td>
+                </tr>
+                <tr>
+                  <td>November*</td>
+                  <td>$4,700 </td>
+                  <td>$5,400 </td>
+                  <td>$4,400</td>
+                  <td>$2,000</td>                
+                </tr>  
+              </tbody>
+            </table>
+            <p><em>*First weekend in November only.</em></p>
+            <hr>
+            <h4><strong>Additional Add-on Options</strong></h4>
+	  		<table class="twelve">
+               <thead>
+                <tr>
+                  <th>Option</th>
+                  <th>Rate</th>
+                </tr>
+              </thead>
+              <tbody>
+              	<tr>
+                  <td>Rose Garden/Pennock Walk - Ceremony and/or Cocktails</td>
+                  <td>$900</td>
+                </tr>
+                
+                <tr>
+                  <td>Use of <em>Out on a Limb</em></td>
+                  <td>$700</td>
+                </tr>
+                <tr>
+                  <td>Rose Garden or Pennock Walk and Out on a Limb</td>
+                  <td>$1,300</td>
+                </tr>
+                <tr>
+                  <td>Wedding Rehearsals (1 Hour, by appointment only)</td>
+                  <td>$100/hr </td>
+                </tr>    
+                <tr>
+                  <td>Additional Golf Cart and Driver (4:00pm - 8:00pm)</td>
+                  <td>$300</td>
+                </tr>
+               </tbody>
+            </table>
+            
+            <h3><a id="ceremony"></a>Ceremony Only <small>2 Hours, starting after garden closes. 75 people limit.</small></h3>
+      		<table class="twelve">
+              <thead>
+                <tr>
+                  <th>Designated areas around:</th>
+                  <th>Rate</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Widener Visitor Center</td>
+                  <td>$1,200</td>
+                </tr>
+                <tr>
+                  <td>Rose Garden</td>
+                  <td>$1,500</td>
+                </tr> 
+                <tr>
+                  <td>Pennock Garden</td>
+                  <td>$1,500</td>
+                </tr>  
+               </tbody>
+            </table><br>
+            
+            <h3><a id="meetings"></a>Meeting Rental <small>10:00am - 4:00pm, Monday - Friday</small></h3>
+      		<table class="twelve">
+              <thead>
+                <tr>
+                  <th>Space</th>
+                  <th>Capacity</th>
+                  <th>Rate</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>McLean Room</td>
+                  <td>12 people</td>
+                  <td>$300</td>
+                </tr>
+                <tr>
+                  <td>Gates Hall Conference Room</td>
+                  <td>13 people</td>
+                  <td>$300</td>
+                </tr> 
+                <tr>
+                  <td>Classroom</td>
+                  <td>22 people</td>
+                  <td>$400</td>
+                </tr>  
+                <tr>
+                  <td>Side Tent</td>
+                  <td>50 people audience style</td>
+                  <td>$600</td>
+                </tr>             
+                <tr>
+                  <td>Upper Gallery</td>
+                  <td>80 people audience style<br>65 at round tables</td>
+                  <td>$600</td>
+                </tr>
+                <tr>
+                  <td colspan="3"><em>Early arrival/late departure: $75/additional hour. For evening or weekend meeting rentals, contact the Rentals Team at <a href="mailto:rentals@morrisarboretum.org">rentals@morrisarboretum.org</a>. <br>
+					*Receive a 20% discount when you book 3 meetings (at once).</em></td>
+                </tr>
+               </tbody>
+            </table><br>
+            <hr>
+            <h3>Parties &amp; Social Gatherings <small>3 Hours anytime between 10:00am - 3:00pm</small></h3>
+            <p>Host your birthday party, baby shower, etc. at Morris Arboretum</p>
+	  		<table class="twelve">
+               <thead>
+                <tr>
+                  <th>Space</th>
+                  <th>Capacity</th>
+                  <th>Rate</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Classroom</td>
+                  <td>22</td>
+                  <td>$450</td>
+                </tr>
+                <tr>
+                  <td>Side Tent</td>
+                  <td>50</td>
+                  <td>$600</td>
+                </tr>
+                <tr>
+                  <td>Upper Gallery</td>
+                  <td>80/65</td>
+                  <td>$600</td>
+                </tr>
+                <tr>
+                  <td><em>Out on a Limb</em> (6:00 - 10:00pm)<br></td>
+                  <td><em>Please inquire.</em></td>
+                  <td>$1,200</td>
+                </tr>
+                </tbody>
+      		</table>
+            <p><em>Early arrival before 10:00am/late departure after 3:00pm: $75/additional hour (subject to availability).</em></p>
+            <br>
+
+            <br>
+            <p><strong><em>Prices are correct as of November 2015 and are subject to change.</em> For more information contact Rentals and Information at 215.247.5777, x158 or email <a href="mailto:rentals@morrisarboretum.org">rentals@morrisarboretum.org</a>.</strong></p> 
+
+        
+      <br>  
+      <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+    </div>
+    <!--#include virtual="elements/sidebar-rentals.html" -->
+    <!-- Nav Sidebar -->
+    <!-- This is source ordered to be pulled to the left on larger screens -->
+	<!--#include virtual="elements/subnav-rentals.html" -->
+  </div>
+  
+  <!-- End content Section -->
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="foundation/javascripts/jquery.js"></script>
+  <script src="foundation/javascripts/foundation.min.js"></script>
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="foundation/javascripts/app.js"></script>
+  <script src="foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

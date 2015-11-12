@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html><!-- InstanceBegin template="/Templates/content-page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]> <html class="no-js" lang="en"> <![endif]-->
+  <meta charset="utf-8" /> 
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Morris Arboretum of the University of Pennsylvania | Archives - Collections</title>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!--
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="../stylesheets/foundation.css">
+  <link rel="stylesheet" href="../stylesheets/style.css">
+  <link rel="stylesheet" href="../stylesheets/general_foundicons.css">
+  <link rel="stylesheet" href="../stylesheets/general_enclosed_foundicons.css">
+  <link rel="stylesheet" href="../stylesheets/social_foundicons.css">
+  <link href="http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,500,500italic,700,700italic" rel="stylesheet" type="text/css">
+  <script src="../foundation/javascripts/modernizr.foundation.js"></script>
+  
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <!--[if lt IE 8]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c6e20f36100418"></script>
+</head>
+<body>
+  
+  <!-- Header and Nav bar -->
+  <div class="row" >
+    <div class="four columns">
+    	<a name="top" id="top"></a>
+   		<h1><a href="../index.shtml"><img src="../images/logo-ma.png" alt="Morris Arboretum" class="hide-for-small"></a></h1>
+        <a href="../index.shtml"><img src="../images/logo-ma-mobile.svg" alt="Morris Arboretum" class="show-for-small"></a>
+    </div>
+	
+<!-- Nav bar -->
+<!--#include virtual="elements/nav-bar.html" --> 
+<!-- End Nav bar -->
+  </div>
+  <!-- End Header and Nav bar -->
+
+  
+<!-- Main Nav -->
+        <!--#include virtual="elements/top-bar.html" -->
+<!-- End Main Nav -->
+  
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <!-- Header Image -->
+    <div class="row">
+        <div class="twelve columns"> <img src="images/header-arc-collections.jpg" alt="Collections"/>
+          <hr>
+        </div>
+    </div>
+  <!-- content Section -->
+  <div class="row">    
+    <div class="eight columns push-four"> 
+		<h2 class="first">Collections: Estate Years<br>
+		<small><em>John and Lydia Morris Estate Papers</em></small></h2>
+        <h3><strong>Early Estate Years 1887-1932</strong></h3>
+		<ul class="content_list">
+        	<li><strong>Lydia Morris' Cookbook</strong>  In her own handwriting, Lydia compiled her recipes from 1883 into the 1920's. 2011.7.1
+            	<ul>
+                	<li><a href="images/2012-2-12CoverPage.jpg">Cookbook Ownership Page</a></li>
+                    <li><a href="LydiaCookbook/2012-2-002 PuddingsDesserts.pdf">Puddings and Desserts</a></li>
+                    <li><a href="LydiaCookbook/2012-2-005-TeaCakes.pdf">Tea Cakes</a></li>
+                </ul>
+            </li>
+            <li><strong>Catalogue No. 1 </strong>- Missing - Articles #1 - #466 belonging to John T. and Lydia T. Morris</li>
+            <li><strong><a href="HistoricPDF/2006-3-1-EG-Catalogue-Index-Vol1.pdf">Catalogue Index Volume 1 </a></strong> Articles belonging to John T. and Lydia T. Morris by JTM.   2006.3.1.    Transcribed by EG.</li>
+            <li><strong><a href="HistoricPDF/2006-3-3-Catalogue2-Articles.pdf">Catalogue No. 2</a></strong> Articles #467-#678 belonging to John T. and Lydia T. Morris, by JTM.   2006.3.2.</li>
+            <li><strong>Catalogue Index Volume 2</strong> Articles Belonging to John T. and Lydia T. Morris.   2006.3.3</li>
+            <li><strong><a href="images/201253-comptonplan.jpg">Floor Plan of Compton Mansion</a></strong> 1909  from Pugh & Hubbard Atlas on Compton - beeswax.   2012.5.3</li>
+            <li><strong><a href="images/201254-widenerplan.jpg">Floor Plan of Widener</a></strong> 1909 from Pugh & Hubbard Atlas on Compton - beeswax (B&W).   2012.5.4</li>
+            <li><strong><a href="HistoricPDF/2012-7-2-OdetoLydia.pdf">Ode to Miss Morris</a></strong> an excerpt from the Kellner Diaries. Aboard S.S. Lahn, in November 1889 Miss Kellner, a nurse and companion kept diaries of what transpired. She writes that Miss Morris received a poem in blank verse from fellow passenger Rev. Dr. Aberigh Mackay.  " And pleasant memories will gather around this poem, as in after years the occasion and all incidents will be recalled". 2012.7.2</li>
+        </ul>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        <hr>
+        
+         <h3><strong>Life at Compton</strong></h3>
+         <p>Dr. Frank Gould, Estate Manager 1898-1919, kept monthly account books for John T. Morris showing estate employees wages, expenses, and estate sales of eggs and butter.</p>
+         <p>John Tonkin, Estate Head Gardener 1917-1932, left eleven journals of gardening at Compton Estate and Bloomfield Farm. These volumes provide a rich insight into the seasonal gardening tasks, horticultural and agricultural practices, and the seasonal and full-time grounds staff. <em>These diaries were transcribed by Archives &amp; History volunteers: Susan Marshall, Elizabeth Gavula, Pat McKeown, Greg Sliner, Tom Boyle, Cathy Hilliard and Michelle Elizabeth Lineberger.</em></p>
+		 <ul class="content_list">
+        	<li><strong>Journals from John Tonkin, Estate Head Gardener 1917-1932</strong>
+            	<ul>
+                	<li><a href="HistoricPDF/2010-15-16-SM-TonkinJournal1917and1922.pdf">1917 and 1922 Tonkin Journal 2010.15.16</a> transcribed by Susan Marshall</li>
+                    <li><a href="HistoricPDF/2010-15-17-EG-Tonkin Journal1921-22.pdf">1921-1922 Tonkin Journal 2010.15.17</a> transcribed by Elizabeth Gavula</li>
+                    <li><a href="HistoricPDF/2010-15-18-EG-Tonkin-Journal-1922-23.pdf">1922-1923 Tonkin Journal 2010.15.18</a> transcribed by Elizabeth Gavula</li>
+                    <li><a href="HistoricPDF/2010-15-19-PMcK-Tonkin-Journal-1923.pdf">1923 Tonkin Journal 2010.15.19</a> transcribed by Pat McKeown</li>
+                    <li><a href="HistoricPDF/2010-15-20-EG-TonkinJournal1924.pdf">1924 Tonkin Journal 2010.15.20</a> transcribed by McKeown &amp; Gavula</li>
+                    <li><a href="HistoricPDF/2010-15-21-EG-Journal-1925.pdf">1925 Tonkin Journal 2010.15.21</a> transcribed by Elizabeth Gavula</li>
+                    <li><a href="HistoricPDF/2010-15-22-ML-TonkinJournal1926.pdf">1926 Tonkin Journal 2010.15.22</a> transcribed by Michelle Lineberger</li>
+                    <li><a href="HistoricPDF/2010-15-23-TB-Farm Activity Diary 1927.pdf">1927 Tonkin Journal 2010.15.23</a> transcribed by Tom Boyle</li>
+                    <li><a href="HistoricPDF/2010-15-10Tonkin1928Journal.pdf">1928 Tonkin Journal 2010.15.24</a> transcribed by Susan Marshall</li>
+                    <li><a href="HistoricPDF/2010-15-25-TB-CH-Tonkin Farm Journal 1930.pdf">1930 Tonkin Journal 2010.15.25</a> transcribed by Cathy Hilliard and Tom Boyle</li>
+                    <li><a href="HistoricPDF/2010-15-26-CH-Tonkin Journal1932.pdf">1932 Tonkin Journal 2010.15.26</a> transcribed by Cathy Hilliard. [Note: Miss Morris died in February]</li>
+                 </ul>
+                 <li><strong><a href="HistoricPDF/2010-15-17-EG-Report-TonkinJournal-1921-1922.pdf">1921-22 Reflections on a Year at Compton</a></strong> 2010.15.17 by Elizabeth Gavula</li>
+                 <li><strong><a href="HistoricPDF/2010-15-32-TonkinPassengerListingMay1913.jpg">1913 Tonkin Ship Passage Record</a></strong> 2010-15-32 at age 25 with his wife Margaret, sailed from Liverpool, England.</li>
+                 <li><strong>Historic Springfield Mills at Bloomfield Farm</strong> prepared by Louise Clarke, Horticulture Section Leader for Bloomfield Farm, was written for a landscape architecture class in 2010.</li>
+                 <li><strong>Invoices in the 1920's</strong> - A decade of invoices are sampled here, revealing clues to vendors and life on a Chestnut Hill estate during the 1920's. The full set of invoices can be found in Box 2011.10.
+                 	<br><br>
+					<table class="twelve">
+                      <tbody>
+                       <tr>
+                          <td><strong>1919</strong></td>
+                          <td><a href="invoicePDF/1919-AD-crop.pdf" target="_blank">A - D</a> </td>
+                          <td><a href="invoicePDF/1919-EN-crop.pdf" target="_blank">E - N</a> </td>
+                          <td><a href="invoicePDF/1919-OZ-crop.pdf" target="_blank">O - Z</a></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                       </tr>
+                       <tr>
+                          <td><strong>1923</strong></td>
+                          <td><a href="invoicePDF/1923-AB-crop.pdf" target="_blank">A - B</a> </td>
+                          <td><a href="invoicePDF/1923-CE-crop.pdf">C -  E</a></td>
+                          <td><a href="invoicePDF/1923-FH-crop.pdf" target="_blank">F - H</a></td>
+                          <td><a href="invoicePDF/1923-OS-crop.pdf" target="_blank">O - S</a></td>
+                          <td><a href="invoicePDF/1923-TZ-crop.pdf" target="_blank">T - Z</a></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                        </tr>
+                        <tr>
+                          <td><strong>1924</strong></td>
+                          <td><a href="invoicePDF/1924-AB-crop.pdf" target="_blank">A - B </a></td>
+                          <td><a href="invoicePDF/1924-CD-crop.pdf" target="_blank">C -  D</a></td>
+                          <td><a href="invoicePDF/1924-EK-crop.pdf" target="_blank">E - K</a></td>
+                          <td><a href="invoicePDF/1924-LM-crop.pdf" target="_blank">L - M</a></td>
+                          <td><a href="invoicePDF/1924-OQ-crop.pdf" target="_blank">O - Q</a></td>
+                          <td><a href="invoicePDF/1924-RS-crop.pdf" target="_blank">R - S</a></td>
+                          <td><a href="invoicePDF/1924-TZ-crop.pdf" target="_blank">T - Z</a></td>
+                          <td></td>
+                        </tr>
+                        <tr>
+                          <td><strong>1925</strong></td>
+                          <td><a href="invoicePDF/1925-AB-crop.pdf" target="_blank">A - B</a> </td>
+                          <td><a href="invoicePDF/1925-CD-crop.pdf" target="_blank">C -  D</a></td>
+                          <td><a href="invoicePDF/1925-EK-crop.pdf" target="_blank">E - K</a></td>
+                          <td><a href="invoicePDF/1925-LM-crop.pdf" target="_blank">L - M</a></td>
+                          <td><a href="invoicePDF/1925-OQ-crop.pdf" target="_blank">O - Q</a></td>
+                          <td><a href="invoicePDF/1925-RS-crop.pdf" target="_blank">R - S</a></td>
+                          <td><a href="invoicePDF/1925-TV-crop.pdf" target="_blank">T - V</a></td>
+                          <td><a href="invoicePDF/1925-WY-crop.pdf" target="_blank">W - Y</a></td>
+                        </tr>
+                        <tr>
+                          <td><strong>1926</strong></td>
+                          <td><a href="invoicePDF/1926-AB-crop.pdf" target="_blank">A - B </a></td>
+                          <td><a href="invoicePDF/1926-CE-crop.pdf" target="_blank">C -  E</a></td>
+                          <td><a href="invoicePDF/1926-FL-crop.pdf" target="_blank">F - L</a></td>
+                          <td><a href="invoicePDF/1926-M-crop.pdf" target="_blank">M</a></td>
+                          <td><a href="invoicePDF/1926-NQ-crop.pdf" target="_blank">N - Q</a></td>
+                          <td><a href="invoicePDF/1926-RS-crop.pdf" target="_blank">R - S</a></td>
+                          <td><a href="invoicePDF/1926-TZ-crop.pdf" target="_blank">T - Z</a></td>
+                          <td></td>
+                        </tr>
+                        <tr>
+                          <td><strong>1927</strong></td>
+                          <td><a href="invoicePDF/1927-AB-crop.pdf" target="_blank">A - B </a></td>
+                          <td><a href="invoicePDF/1927-CF-crop.pdf" target="_blank">C -  F</a></td>
+                          <td><a href="invoicePDF/1927-GK-crop.pdf" target="_blank">G - K</a></td>
+                          <td><a href="invoicePDF/1927-LM-crop.pdf" target="_blank">L - M</a></td>
+                          <td><a href="invoicePDF/1927-NQ-crop.pdf" target="_blank">N - Q</a></td>
+                          <td><a href="invoicePDF/1927-R-crop.pdf" target="_blank">R</a></td>
+                          <td><a href="invoicePDF/1927-ST-crop.pdf" target="_blank">S - T</a></td>
+                          <td><a href="invoicePDF/1927-UZ-crop.pdf" target="_blank">U - Z</a></td>
+                        </tr>
+                        <tr>
+                          <td><strong>1928</strong></td>
+                          <td><a href="invoicePDF/1928-BC-crop.pdf" target="_blank">B - C </a></td>
+                          <td><a href="invoicePDF/1928-DI-crop.pdf" target="_blank">D - I</a></td>
+                          <td><a href="invoicePDF/1928-HL-crop.pdf" target="_blank">H - L</a></td>
+                          <td><a href="invoicePDF/1928-MP-crop.pdf" target="_blank">M - P</a></td>
+                          <td><a href="invoicePDF/1928-QZ-crop.pdf" target="_blank">Q - Z</a></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                 </li>
+            </li>
+        </ul>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        <hr>
+    	<h3><strong>John Morris Memberships in Local Societies</strong></h3>
+		<ul class="content_list">
+        	<li><strong><a href="HistoricPDF/2005-1-19-WissahickonExtensionCommittee.pdf">Friends of Wissahickon</a></strong> John Morris led efforts of the Wissahickon Extension Committee with the state legislature to extend Fairmont Park to the edge of the city of Philadelphia. 2005.1.19</li>
+        	<li><strong><a href="HistoricPDF/2006-1-099-CH_HortSociety.pdf">Chestnut Hill Horticultural Society</a></strong>, Founded in 1898, John was the first president in 1899. Newspaper articles chronicle the history, membership, and society activities 2006.1.99</li>
+        	<li><strong>Pennsylvania Horticultural Society</strong>. 1910 Membership card for John T. Morris.</li>
+        	<li><strong>Site and Relic Society of Germantown</strong> (see below)</li>
+            <li><strong>Philadelphia Chapter of the Sons of the American Revolution</strong> (see below)</li>
+        </ul>
+        <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>
+        <hr>
+        <h3><strong>JTM Copies of Addresses to Local Historical Societies between 1901 and 1911</strong></h3>
+        <ul class="content_list">
+        	<li><strong><a href="HistoricPDF/2006-3-7EmlenHouse.pdf">Emlen House Washington's Headquarters</a></strong>, 1777: 'An Address of Charles Henry Jones at Whitemarsh' to the Pennsylvania Society of Sons of the Revolution on June 19, 1909. Signed on the cover by John T. Morris. 2006.3.7</li>
+        	<li><strong><a href="HistoricPDF/2006-3-008aGrumblethorpe.pdf">Grumblethorpe</a></strong> An address delivered to the Site & Relic Society of Germantown in 1907. An early Philadelphia country estate owned by Wistar family since 1737 that hosted the British general during the 1777 Battle of Germantown. Grumblethorpe visitors and horticulture are described in detail. 2006.3.8.1</li>
+        	<li><strong><a href="HistoricPDF/2006-3-008bPomonaGrove.pdf">Pomona Grove</a></strong> An address delivered to the Site & Relic Society of Germantown in 1907. Pomona Grove, built in 1755, was another country estate owned by wealthy Philadelphians, and located along Germantown Avenue between Cliveden and Grumblethorpe. 2006.3.8.2</li>
+        	<li><strong><a href="HistoricPDF/2006-3-008cTaverns.pdf">Taverns of Old Philadelphia</a></strong> An address delivered by Fred Perry Powers to the Site & Relic Society of Germantown, March 17, 1911 2006.3.8.3</li>
+        	<li><strong><a href="HistoricPDF/2006-3-009PaEarlyHistory.pdf">Dramatic Features of Pennsylvania's History</a></strong> An address on Pennsylvania colonial history delivered by Hon. Hampton L. Carson, Attorney General of Pennsylvania before the Site & Relic Society of Germantown, November 25, 1904. 2006.3.9</li>
+            <li><strong><a href="HistoricPDF/2006-3-010EncampmentWhitemarsh.pdf">Fort Washington and the Encampment at White Marsh</a></strong>, November 2, 1777. An address given on June 15, 1901 to the Pennsylvania Society of Sons of the Revolution by Richard McCall Cadwalader, it's President, in observence of the 123rd anniversary of the Evacuation of Philadelphia by the British Army . Meeting held at Stonehenge on the Skippack Pike, Mr. Cadwalader's residence. 2006.3.10</li>
+        </ul>    
+    
+	<br><br>
+    <h3><a href="texts-earlyarb-beta.shtml">Continue to Arboretum Years &raquo;</a></h3>
+
+        
+    <br>
+    <p align="right" class="hide-for-small"><a href="#top" rel="" id="anchor1" class="anchorLink">Back to top</a></p>                
+    </div> 
+
+  
+  <!-- End content Section -->
+  <!-- Subnav -->
+  <!--#include virtual="elements/subnav-texts.html" --> 
+ </div>
+ <!-- InstanceEndEditable --> 
+  
+<!-- Footer -->
+<!--#include virtual="elements/footer.html" -->
+   	<div id="weatherModal" class="reveal-modal">
+        <!--#include virtual="elements/weather-alert.html" -->
+    </div>
+
+ <!-- Included JS Files (Uncompressed) -->
+  <!--
+  
+  <script src="javascripts/jquery.js"></script>
+  
+  <script src="javascripts/jquery.foundation.mediaQueryToggle.js"></script>
+  
+  <script src="javascripts/jquery.foundation.forms.js"></script>
+  
+  <script src="javascripts/jquery.foundation.reveal.js"></script>
+  
+  <script src="javascripts/jquery.foundation.orbit.js"></script>
+  
+  <script src="javascripts/jquery.foundation.navigation.js"></script>
+  
+  <script src="javascripts/jquery.foundation.buttons.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tabs.js"></script>
+  
+  <script src="javascripts/jquery.foundation.tooltips.js"></script>
+  
+  <script src="javascripts/jquery.foundation.accordion.js"></script>
+  
+  <script src="javascripts/jquery.placeholder.js"></script>
+  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script src="javascripts/jquery.foundation.topbar.js"></script>
+  
+  <script src="javascripts/jquery.foundation.joyride.js"></script>
+  
+  <script src="javascripts/jquery.foundation.clearing.js"></script>
+  
+  <script src="javascripts/jquery.foundation.magellan.js"></script>
+  
+  -->
+  <!-- Included JS Files (Compressed) -->
+  <script src="../foundation/javascripts/jquery.js"></script>
+  <script src="../foundation/javascripts/foundation.min.js"></script>
+  <script src="../javascripts/jquery.foundation.reveal.js"></script>
+  <!-- Initialize JS Plugins -->
+  <script src="../foundation/javascripts/app.js"></script>
+  <script src="../foundation/javascripts/jquery.anchor.js"></script>
+
+  <script type="text/javascript">
+     $(window).load(function() {
+         $('#slider').orbit({
+        animation: 'fade', // fade, horizontal-slide, vertical-slide, horizontal-push
+        animationSpeed: 1800, // how fast animtions are
+        timer: true,  // true or false to have the timer
+        advanceSpeed: 6000,  // if timer is enabled, time between transitions
+        pauseOnHover: true, // if you hover pauses the slider
+        startClockOnMouseOut: false, // if clock should start on MouseOut
+        startClockOnMouseOutAfter: 1000,  // how long after MouseOut should the timer start again
+        directionalNav: true, // manual advancing directional navs
+        captions: true, // do you want captions?
+        captionAnimation: 'fade', // fade, slideOpen, none
+        captionAnimationSpeed: 1800, // if so how quickly should they animate in
+        bullets: false, // true or false to activate the bullet navigation
+        bulletThumbs: false,    // thumbnails for the bullets
+        bulletThumbLocation: '../images/orbit-demo/bullets/',    // location from this file where thumbs will be
+      });
+   });
+  </script>
+  <!-- Google Analytics-->
+	<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-11217457-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script> 
+  
+</body>
+<!-- InstanceEnd --></html>
+

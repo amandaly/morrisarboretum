@@ -1,0 +1,31 @@
+body.nosidebar, #sidestrip {
+     background-image: url(../images/pacscl/pacsclsidestrip.jpg);
+	 }
+body.sidebar {
+     background-image: url(../images/pacscl/pacsclsidebar222.jpg);
+	 }
+body.sidebar.sidecont {background-image:url(../images/pacscl/pacsclsidebar248.jpg); }
+#logo { 
+	background-image: url(../images/pacscl/logopacscl.gif); 
+	}
+#logo { 
+	top: 2px; 
+	left: 24px; 
+	width: 141px; 
+	height: 100px;
+	}
+#toplining {     
+	 background-image:url(../images/pacscl/pacscltop.jpg);
+	background-position: top left;
+	background-repeat: no-repeat;
+	width: 16.33em;
+	}	
+
+#poweredby {
+	background-image:url(../images/lucretius/lucretiuspoweredby.gif);
+	display: block;
+	}
+.sidecont #poweredby {
+	display: none;
+	}
+	
